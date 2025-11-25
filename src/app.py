@@ -10,14 +10,23 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from sentence_transformers import SentenceTransformer
 from google import genai
 from google.genai.errors import APIError
+from dotenv import load_dotenv
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
-GEMINI_API_KEY = "AIzaSyD5kUW61LoxE06P5DyJ7G7Kmq4X2N6d0zY"
+load_dotenv()
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+MAX_QUIZ_SIZE = 30
+BATCH_SIZE = 10
 
 try:
+    if GEMINI_API_KEY is None:
+        raise ValueError("GEMINI_API_KEY not found in .env file")
+
     client = genai.Client(api_key=GEMINI_API_KEY)
     logging.info("Gemini API Client initialized successfully.")
+
 except Exception as e:
     logging.error(f"Failed to initialize Gemini Client: {e}")
     st.error("Gemini Client Initialization Failed. Check console logs.")
@@ -75,7 +84,7 @@ def select_30_chunks_covering_chapters():
             if valid_ids:
                 selected.add(random.choice(valid_ids))
     
-    remaining = 30 - len(selected)
+    remaining = MAX_QUIZ_SIZE - len(selected)
     all_ids = list(range(len(metadata)))
     pool = [i for i in all_ids if i not in selected]
     
@@ -86,16 +95,16 @@ def select_30_chunks_covering_chapters():
             selected.update(random.sample(pool, remaining))
             
     lst = list(selected)
-    if len(lst) > 30:
-        lst = random.sample(lst, 30)
+    if len(lst) > MAX_QUIZ_SIZE:
+        lst = random.sample(lst, MAX_QUIZ_SIZE)
         
-    while len(lst) < 30 and len(lst) < len(metadata):
+    while len(lst) < MAX_QUIZ_SIZE and len(lst) < len(metadata):
         x = random.randint(0, len(metadata) - 1)
         if x not in lst:
             lst.append(x)
             
     random.shuffle(lst)
-    return lst[:30]
+    return lst[:MAX_QUIZ_SIZE]
 
 def clean_json_string(text):
     try:
@@ -168,6 +177,19 @@ def call_gemini_api_safe(prompt):
         logging.error(f"General error during Gemini API call: {e}")
         return None
 
+def is_valid_qa(qa):
+    if "id" not in qa or "question_text" not in qa or "choices" not in qa or "answer_index" not in qa:
+        return False
+    if not isinstance(qa["choices"], list) or len(qa["choices"]) != 4:
+        return False
+    try:
+        answer_index = int(qa["answer_index"])
+        if not (0 <= answer_index < 4):
+            return False
+    except (ValueError, TypeError):
+        return False
+    return True
+
 def process_batch(batch_ids, difficulty, cache, cache_path):
     
     missing_ids = []
@@ -188,7 +210,7 @@ def process_batch(batch_ids, difficulty, cache, cache_path):
     if not missing_ids:
         return results
 
-    logging.info(f"Processing batch of {len(missing_ids)} new questions via Gemini API (Batch 10)")
+    logging.info(f"Processing batch of {len(missing_ids)} new questions via Gemini API (Batch {len(batch_ids)})")
     prompt = build_batch_prompt(batch_contexts, difficulty)
     
     raw_resp = call_gemini_api_safe(prompt)
@@ -203,8 +225,11 @@ def process_batch(batch_ids, difficulty, cache, cache_path):
         if isinstance(qa_list, dict): 
             qa_list = [qa_list]
             
+        newly_generated_count = 0
         for qa in qa_list:
-            if "id" not in qa: continue
+            if not is_valid_qa(qa):
+                logging.warning(f"Skipping malformed QA object: {qa.get('id', 'Unknown ID')}")
+                continue
             
             original_id = int(qa["id"])
             
@@ -223,18 +248,22 @@ def process_batch(batch_ids, difficulty, cache, cache_path):
             
             cache[f"{original_id}:{difficulty}"] = final_obj
             results.append(final_obj)
+            newly_generated_count += 1
+        
+        logging.info(f"Successfully generated and processed {newly_generated_count} items in this batch.")
 
         with open(cache_path, "w", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False, indent=2)
             
-    except json.JSONDecodeError:
-        logging.error("Failed to parse batch JSON response")
+    except json.JSONDecodeError as e:
+        logging.error(f"Failed to parse batch JSON response: {e}")
+        logging.error(f"Raw response: {raw_resp[:500]}...")
     except Exception as e:
         logging.error(f"Error processing batch items: {e}")
 
     return results
 
-def get_all_qas_batched(ids, difficulty, batch_size=10):
+def get_all_qas_batched(ids, difficulty, batch_size=BATCH_SIZE):
     cache_path = "qa_cache.json"
     try:
         if os.path.exists(cache_path):
@@ -257,7 +286,29 @@ def get_all_qas_batched(ids, difficulty, batch_size=10):
             if res:
                 all_results.extend(res)
                 
-    return all_results
+    processed_ids = {qa['chunk_id'] for qa in all_results}
+
+    remaining_needed = MAX_QUIZ_SIZE - len(all_results)
+    
+    if remaining_needed > 0:
+        logging.info(f"Generated {len(all_results)} questions. Trying to fill {remaining_needed} from cache.")
+        
+        cache_pool = []
+        for key, qa in cache.items():
+            if key.endswith(f":{difficulty}") and qa['chunk_id'] not in processed_ids and is_valid_qa(qa):
+                cache_pool.append(qa)
+                
+        if cache_pool:
+            fill_count = min(remaining_needed, len(cache_pool))
+            fill_qas = random.sample(cache_pool, fill_count)
+            all_results.extend(fill_qas)
+            logging.info(f"Filled {fill_count} questions from cache. Total questions: {len(all_results)}")
+        else:
+            logging.warning("No suitable questions found in cache to fill the quiz.")
+            
+    random.shuffle(all_results)
+    return all_results[:MAX_QUIZ_SIZE]
+
 
 def init_session():
     if "page" not in st.session_state:
@@ -268,7 +319,7 @@ def init_session():
         st.session_state["score"] = 0
 
 def render_intro():
-    st.title("Science Quiz Generator (Batch 10)")
+    st.title("Science Quiz")
     
     with st.form("setup_form"):
         name = st.text_input("Enter Student Name")
@@ -290,30 +341,42 @@ def render_intro():
                 st.session_state["email"] = email
                 st.session_state["grade"] = grade
                 st.session_state["portion"] = portion
-                st.session_state["difficulty"] = difficulty # Used by Gemini
-                with st.spinner("Generating 30 Questions... (Batch Size 10)"):
+                st.session_state["difficulty"] = difficulty
+                with st.spinner(f"Generating {MAX_QUIZ_SIZE} Questions"):
                     selected_ids = select_30_chunks_covering_chapters()
-                    st.session_state["quiz_data"] = get_all_qas_batched(selected_ids, difficulty, batch_size=10)
-                st.session_state["page"] = "quiz"
-                st.rerun()
+                    st.session_state["quiz_data"] = get_all_qas_batched(selected_ids, difficulty, batch_size=BATCH_SIZE)
+                
+                if not st.session_state["quiz_data"]:
+                    st.error("Failed to generate any questions. Please check API key and logs.")
+                else:
+                    st.session_state["page"] = "quiz"
+                    st.rerun()
 
 def render_quiz():
-    st.title(f"Quiz for {st.session_state.get('name')}")
+    st.title(f"Science Quiz for {st.session_state.get('name')}")
     qas = st.session_state["quiz_data"]
     
     if not qas:
-        st.error("No questions generated. Try again.")
+        st.error("No questions available. Try again.")
         if st.button("Back"):
             st.session_state["page"] = "intro"
             st.rerun()
         return
 
+    st.info(f"Total Questions: {len(qas)}")
+    
     with st.form("quiz_form"):
         for idx, qa in enumerate(qas):
+            
+            choices = qa.get("choices", [])
+            if not choices or len(choices) < 4:
+                st.error(f"Q{idx+1} is corrupted or incomplete and cannot be displayed.")
+                continue
+
             st.markdown(f"### Q{idx+1}: {qa['question_text']}")
             st.radio(
                 label="Choose:",
-                options=qa["choices"],
+                options=choices,
                 key=f"q_{idx}",
                 label_visibility="collapsed"
             )
@@ -324,9 +387,19 @@ def render_quiz():
         if submitted:
             score = 0
             for idx, qa in enumerate(qas):
+                choices = qa.get("choices", [])
+                if not choices: continue 
+                
                 user_choice = st.session_state.get(f"q_{idx}")
-                correct_choice = qa["choices"][qa["answer_index"]] if qa["choices"] else ""
-                if user_choice == correct_choice:
+                
+                try:
+                    correct_index = int(qa.get("answer_index", -1))
+                except (ValueError, TypeError):
+                    correct_index = -1
+                    
+                correct_choice = choices[correct_index] if 0 <= correct_index < len(choices) else None
+                
+                if user_choice is not None and user_choice == correct_choice:
                     score += 1
             
             st.session_state["score"] = score
@@ -343,29 +416,44 @@ def render_result():
     if total > 0:
         percentage = (score / total) * 100
         if percentage >= 80:
-            st.success("Excellent work!")
+            st.success("Excellent work! 🎉")
         elif percentage >= 50:
-            st.warning("Good effort!")
+            st.warning("Good effort! Keep studying. 👍")
         else:
-            st.error("Keep practicing!")
+            st.error("Keep practicing! Let's review the answers. 📚")
 
     with st.expander("Review Answers"):
         options_letters = ["A", "B", "C", "D"]
         for i, qa in enumerate(st.session_state["quiz_data"]):
+            
+            choices = qa.get("choices", [])
+            if not choices or len(choices) != 4:
+                 st.markdown(f"**Q{i+1}: ERROR - Corrupted Question Data**")
+                 st.markdown("---")
+                 continue
+                 
+            try:
+                correct_index = int(qa.get("answer_index", -1))
+            except (ValueError, TypeError):
+                correct_index = -1
+
             user_val = st.session_state.get(f"q_{i}")
-            correct_index = qa["answer_index"]
-            correct_choice_text = qa["choices"][correct_index] if qa["choices"] else "Error"
+            correct_choice_text = choices[correct_index] if 0 <= correct_index < len(choices) else "Error: Index Out of Bounds"
             
             color = "green" if user_val == correct_choice_text else "red"
             
             st.markdown(f"**Q{i+1}: {qa['question_text']}**")
             
-            st.markdown(f":{color}[Your Answer: {user_val}]")
+            st.markdown(f":{color}[Your Answer: {user_val or 'Not Answered'}]")
 
             st.markdown("**All Options (Correct in Green):**")
             
-            for j, choice in enumerate(qa["choices"]):
-                display_text = f"{options_letters[j]}. {choice}"
+            for j, choice in enumerate(choices):
+                if j < len(options_letters):
+                    display_text = f"{options_letters[j]}. {choice}"
+                else:
+                    display_text = f"Choice {j+1}. {choice}" 
+                    
                 if j == correct_index:
                     st.markdown(f"- :green[**{display_text}**]")
                 else:

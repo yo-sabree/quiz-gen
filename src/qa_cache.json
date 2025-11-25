@@ -1463,5 +1463,770 @@
     "answer_text": "Seas and oceans",
     "source_excerpt": "The blue part of the globe are the seas and oceans; they cover about three-fourth part of the Earth.",
     "explanation": "The Earth's surface is predominantly covered by water, with seas and oceans occupying approximately three-fourths of the planet."
+  },
+  "156:Medium": {
+    "chunk_id": 156,
+    "book": "eeev109.pdf",
+    "page": 13,
+    "chapter": "eeev109.pdf - When",
+    "question_text": "Based on the text, what happens to snakes during the monsoon season?",
+    "choices": [
+      "They hibernate to conserve energy.",
+      "They come out of flooded burrows.",
+      "They migrate to cooler regions.",
+      "They build nests in trees to stay dry."
+    ],
+    "answer_index": 1,
+    "answer_text": "They come out of flooded burrows.",
+    "source_excerpt": "gaN yhw si siht—sworrub dedoofl fo tuo emoc sekans ,noosnom eht gniruD",
+    "explanation": "The text specifically states that snakes emerge from flooded burrows during the monsoon season. This is likely due to their habitats becoming waterlogged."
+  },
+  "113:Medium": {
+    "chunk_id": 113,
+    "book": "eeev107.pdf",
+    "page": 3,
+    "chapter": "eeev107.pdf - I Observe I Wonder",
+    "question_text": "According to the text, what is one way people in some regions of Himachal Pradesh, Uttarakhand, and Ladakh stay warm during winter?",
+    "choices": [
+      "Using special insulating paints on the walls.",
+      "Burning dried leaves and grass indoors.",
+      "Keeping cattle on the ground floor of their houses.",
+      "Wearing multiple layers of woolen clothing at all times."
+    ],
+    "answer_index": 2,
+    "answer_text": "Keeping cattle on the ground floor of their houses.",
+    "source_excerpt": "In some places of Himachal Pradesh, Uttarakhand and Ladakh, people often keep their cattle on the ground floor of their houses, while the family lives on the floor above. The heat from the animals helps keep the rooms warm during the winter.",
+    "explanation": "The passage explicitly mentions that people in these regions keep their cattle on the ground floor to utilize the animals' body heat for warmth during the winter. This reduces reliance on firewood or electricity."
+  },
+  "155:Medium": {
+    "chunk_id": 155,
+    "book": "eeev109.pdf",
+    "page": 12,
+    "chapter": "eeev109.pdf - Seasons",
+    "question_text": "According to the text, how many seasons are generally experienced in India?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "answer_index": 3,
+    "answer_text": "Six",
+    "source_excerpt": "In India, we experience six seasons based on how nature changes in every few months.",
+    "explanation": "The text clearly states that India experiences six seasons, which are determined by the changing patterns of nature throughout the year."
+  },
+  "78:Medium": {
+    "chunk_id": 78,
+    "book": "eeev105.pdf",
+    "page": 7,
+    "chapter": "eeev105.pdf - India",
+    "question_text": "According to the text, what is the significance of January 26th in India?",
+    "choices": [
+      "Independence Day",
+      "Gandhi Jayanti",
+      "Republic Day",
+      "Teacher's Day"
+    ],
+    "answer_index": 2,
+    "answer_text": "Republic Day",
+    "source_excerpt": "On 26 January 1950, we decided to follow this special book of rules called the Constitution. This is why, we celebrate 26 January as India’s Republic Day every year",
+    "explanation": "The text explains that Republic Day is celebrated on January 26th because it was the day India decided to follow the Constitution, a special book of rules for the country."
+  },
+  "81:Medium": {
+    "chunk_id": 81,
+    "book": "eeev105.pdf",
+    "page": 10,
+    "chapter": "eeev105.pdf - World",
+    "question_text": "According to the text, what do the three lions in the National Emblem of India represent?",
+    "choices": [
+      "Peace, Harmony and Prosperity",
+      "Strength, Courage, and Confidence",
+      "Unity, Faith and Discipline",
+      "Sacrifice, Patriotism and Valour"
+    ],
+    "answer_index": 1,
+    "answer_text": "Strength, Courage, and Confidence",
+    "source_excerpt": "This is the National Emblem of India, which represents strength, courage and confidence.",
+    "explanation": "The text explicitly mentions that the National Emblem of India, featuring three lions, symbolizes strength, courage, and confidence."
+  },
+  "83:Medium": {
+    "chunk_id": 83,
+    "book": "eeev105.pdf",
+    "page": 12,
+    "chapter": "eeev105.pdf - Our Vibrant Culture",
+    "question_text": "Which of the following activities would best promote understanding of India's linguistic diversity among students?",
+    "choices": [
+      "Memorizing the names of all Indian states and their capitals.",
+      "Creating a presentation on the history of the Hindi language.",
+      "Finding out the different languages spoken by students in the class and learning a common word in each language.",
+      "Reading textbooks written only in English."
+    ],
+    "answer_index": 2,
+    "answer_text": "Finding out the different languages spoken by students in the class and learning a common word in each language.",
+    "source_excerpt": "Find out about the languages spoken by students in your class and name them. Pick a specific word (for example, mango) and have fun learning what it is called in different languages.",
+    "explanation": "Learning to say a word like 'mango' in the different languages spoken in the class directly highlights the diversity of languages present within India. It makes the abstract concept of multilingualism more tangible and personal for the students."
+  },
+  "143:Medium": {
+    "chunk_id": 143,
+    "book": "eeev108.pdf",
+    "page": 14,
+    "chapter": "eeev108.pdf - Cloth Shiny Stretchy",
+    "question_text": "What primary action do weaverbirds perform to construct their nests?",
+    "choices": [
+      "Poking holes in leaves.",
+      "Secretion of sticky sap.",
+      "Weaving strands of grass over and under.",
+      "Using saliva to glue twigs."
+    ],
+    "answer_index": 2,
+    "answer_text": "Weaving strands of grass over and under.",
+    "source_excerpt": "They weave the strands over and under to make the nest strong.",
+    "explanation": "Weaverbirds use the technique of weaving strands of grass to create the structure of their nests. This involves interlacing the grass in an alternating pattern to provide strength and stability."
+  },
+  "37:Medium": {
+    "chunk_id": 37,
+    "book": "eeev103.pdf",
+    "page": 1,
+    "chapter": "eeev103.pdf - Unknown Chapter",
+    "question_text": "What is the primary focus of the Grade 5 unit on 'Incredible India'?",
+    "choices": [
+      "Learning about different types of food preservation.",
+      "Exploring the diverse features of Indian society and its interconnectedness.",
+      "Understanding the basics of waste management and water conservation.",
+      "Studying the impact of technology on modern India."
+    ],
+    "answer_index": 1,
+    "answer_text": "Exploring the diverse features of Indian society and its interconnectedness.",
+    "source_excerpt": "In Grade 5, it introduces them to the different features of the larger society and explores the country with its unique beauty and rich diversity.",
+    "explanation": "The Grade 5 unit focuses on introducing students to the broader Indian society, its unique characteristics, diversity, and how various aspects of the country are interconnected, including nature, culture, and daily life."
+  },
+  "8:Medium": {
+    "chunk_id": 8,
+    "book": "eeev101.pdf",
+    "page": 9,
+    "chapter": "eeev101.pdf - Groundwater",
+    "question_text": "Which of the following best describes groundwater recharge?",
+    "choices": [
+      "The process of building concrete roads to channel rainwater.",
+      "The storage of water in overhead tanks for later use.",
+      "The process of rainwater seeping into the ground and replenishing underground water sources.",
+      "The process of diverting river water to agricultural fields."
+    ],
+    "answer_index": 2,
+    "answer_text": "The process of rainwater seeping into the ground and replenishing underground water sources.",
+    "source_excerpt": "The water that gets stored deep underground is called groundwater.",
+    "explanation": "Groundwater recharge occurs when surface water, typically rainwater, infiltrates the soil and permeates into underground aquifers, thus replenishing the groundwater supply."
+  },
+  "139:Medium": {
+    "chunk_id": 139,
+    "book": "eeev108.pdf",
+    "page": 10,
+    "chapter": "eeev108.pdf - Stitching Clothes Together",
+    "question_text": "In the context of stitching and embroidery, what is a key characteristic of traditional Indian embroideries?",
+    "choices": [
+      "They primarily use synthetic threads.",
+      "Each stitch can tell a story about a place, people, and their tradition.",
+      "They are only used to join pieces of cloth together.",
+      "They all originated in Lucknow, Uttar Pradesh."
+    ],
+    "answer_index": 1,
+    "answer_text": "Each stitch can tell a story about a place, people, and their tradition.",
+    "source_excerpt": "Each stitch tells us a story of a place, people and their tradition.",
+    "explanation": "Traditional Indian embroideries are not just about joining fabric; they often carry cultural significance. The techniques and patterns used in different regions can tell stories about the local traditions, people, and history of the area."
+  },
+  "150:Medium": {
+    "chunk_id": 150,
+    "book": "eeev109.pdf",
+    "page": 7,
+    "chapter": "eeev109.pdf - That",
+    "question_text": "According to the text, what proportion of Earth's surface is covered by seas and oceans?",
+    "choices": [
+      "One-fourth",
+      "One-half",
+      "Three-fourth",
+      "The entire surface"
+    ],
+    "answer_index": 2,
+    "answer_text": "Three-fourth",
+    "source_excerpt": "The blue part of the globe are the seas and oceans; they cover about three-fourth part of the Earth.",
+    "explanation": "The Earth's surface is predominantly covered by water bodies, specifically seas and oceans. The text explicitly states that they cover approximately three-fourths of the planet."
+  },
+  "3:Medium": {
+    "chunk_id": 3,
+    "book": "eeev101.pdf",
+    "page": 4,
+    "chapter": "eeev101.pdf - Discuss",
+    "question_text": "What is the primary reason that the majority of water on Earth is not suitable for drinking or farming?",
+    "choices": [
+      "It is polluted with industrial waste.",
+      "It is primarily located in glaciers and ice caps.",
+      "It is too salty.",
+      "It is difficult to access."
+    ],
+    "answer_index": 2,
+    "answer_text": "It is too salty.",
+    "source_excerpt": "Although most of the Earth’s surface is covered with water, the majority of it is salty, leaving less amount of freshwater.",
+    "explanation": "The text mentions that most of the Earth's water is salty, making it unsuitable for drinking or agriculture. While pollution and accessibility are concerns, salinity is the primary limiting factor for the majority of the planet's water."
+  },
+  "71:Medium": {
+    "chunk_id": 71,
+    "book": "eeev104.pdf",
+    "page": 18,
+    "chapter": "eeev104.pdf - After each role-play, ask the class:",
+    "question_text": "What is the central theme of making a school a 'happy place,' according to the provided text?",
+    "choices": [
+      "Enforcing strict rules and discipline.",
+      "Providing advanced technology and resources.",
+      "Promoting kindness, cleanliness, and care for the environment and people.",
+      "Focusing solely on academic achievements."
+    ],
+    "answer_index": 2,
+    "answer_text": "Promoting kindness, cleanliness, and care for the environment and people.",
+    "source_excerpt": "When we are kind and polite, everyone feels happy. We have explored many ways to make our school a happy place by saving water, managing waste, keeping it cool, and caring for plants, places and the people around us.",
+    "explanation": "Creating a happy school environment revolves around being kind and respectful to others, maintaining a clean and organized space, and taking care of the surrounding environment. This holistic approach fosters a positive and supportive atmosphere for everyone."
+  },
+  "168:Medium": {
+    "chunk_id": 168,
+    "book": "eeev110.pdf",
+    "page": 9,
+    "chapter": "eeev110.pdf - Before",
+    "question_text": "What is highlighted about the journey of food items like chillies and sugar between different parts of the world?",
+    "choices": [
+      "They demonstrate how disconnected different cultures are.",
+      "They show how specific foods are only suitable for certain climates.",
+      "They illustrate the interconnectedness of cultures through trade and travel.",
+      "They emphasize the importance of locally sourced ingredients."
+    ],
+    "answer_index": 2,
+    "answer_text": "They illustrate the interconnectedness of cultures through trade and travel.",
+    "source_excerpt": "This shows us how deeply we are all connected.",
+    "explanation": "The exchange of food items between regions demonstrates how interconnected cultures have become through trade, travel, and the sharing of knowledge and resources. This exchange highlights the blending and evolution of culinary traditions worldwide."
+  },
+  "80:Easy": {
+    "chunk_id": 80,
+    "book": "eeev105.pdf",
+    "page": 9,
+    "chapter": "eeev105.pdf - India",
+    "question_text": "What is the symbol based on the spectacles of Gandhi Ji called?",
+    "choices": [
+      "Swachh Bharat Abhiyan",
+      "Digital India Mission",
+      "Make in India",
+      "Atal Innovation Mission"
+    ],
+    "answer_index": 0,
+    "answer_text": "Swachh Bharat Abhiyan",
+    "source_excerpt": "These spectacles are the symbol of a nationwide mission called ‘Swachh Bharat Abhiyan’ (Clean India Mission). The symbol is based on the spectacles of Gandhi ji.",
+    "explanation": "The Swachh Bharat Abhiyan (Clean India Mission) uses Gandhi Ji's spectacles as its symbol to promote cleanliness throughout the country."
+  },
+  "3:Easy": {
+    "chunk_id": 3,
+    "book": "eeev101.pdf",
+    "page": 4,
+    "chapter": "eeev101.pdf - Discuss",
+    "question_text": "What percentage of the Earth's water is freshwater?",
+    "choices": [
+      "A large majority",
+      "About half",
+      "A very small amount",
+      "The passage doesn't say"
+    ],
+    "answer_index": 2,
+    "answer_text": "A very small amount",
+    "source_excerpt": "Although most of the Earth’s surface is covered with water, the majority of it is salty, leaving less amount of freshwater.",
+    "explanation": "Most of the water on Earth is saltwater, leaving only a tiny amount of freshwater available for drinking and other essential uses."
+  },
+  "150:Easy": {
+    "chunk_id": 150,
+    "book": "eeev109.pdf",
+    "page": 7,
+    "chapter": "eeev109.pdf - That",
+    "question_text": "Which part of the globe represents the seas and oceans?",
+    "choices": [
+      "The green part",
+      "The blue part",
+      "The brown part",
+      "The white part"
+    ],
+    "answer_index": 1,
+    "answer_text": "The blue part",
+    "source_excerpt": "The blue part of the globe are the seas and oceans; they cover about three-fourth part of the Earth.",
+    "explanation": "On a globe, blue is used to represent water bodies such as seas and oceans, covering about three-quarters of the Earth's surface."
+  },
+  "160:Easy": {
+    "chunk_id": 160,
+    "book": "eeev110.pdf",
+    "page": 1,
+    "chapter": "eeev110.pdf - Wing Commander",
+    "question_text": "What makes Earth a special planet?",
+    "choices": [
+      "It has many moons.",
+      "It is the largest planet.",
+      "It is the only planet known to have life.",
+      "It has rings like Saturn."
+    ],
+    "answer_index": 2,
+    "answer_text": "It is the only planet known to have life.",
+    "source_excerpt": "Earth is truly special. It is the only planet we know that has life!",
+    "explanation": "As far as we know, Earth is unique because it's the only planet where life exists."
+  },
+  "106:Easy": {
+    "chunk_id": 106,
+    "book": "eeev106.pdf",
+    "page": 14,
+    "chapter": "eeev106.pdf - Chandrayaan-3",
+    "question_text": "What are the students in the Western Ghats doing?",
+    "choices": [
+      "Protecting Hargila Birds",
+      "Recording types of mangoes",
+      "Building temples",
+      "Planting new forests"
+    ],
+    "answer_index": 1,
+    "answer_text": "Recording types of mangoes",
+    "source_excerpt": "These students are part of a survey. With help from schools, farmers and experts, we found and recorded over 200 types of mangoes in the Western Ghats!",
+    "explanation": "Students, along with researchers, are surveying the Western Ghats to document the different varieties of mangoes grown in the region."
+  },
+  "84:Easy": {
+    "chunk_id": 84,
+    "book": "eeev105.pdf",
+    "page": 13,
+    "chapter": "eeev105.pdf - Modi",
+    "question_text": "What is the name of the world's largest cricket stadium, located in Gujarat?",
+    "choices": [
+      "Eden Gardens",
+      "Melbourne Cricket Ground",
+      "Narendra Modi stadium",
+      "Wankhede Stadium"
+    ],
+    "answer_index": 2,
+    "answer_text": "Narendra Modi stadium",
+    "source_excerpt": "The world’s largest cricket stadium is the Narendra Modi stadium in Gujarat with a capacity of 1,32,000 spectators.",
+    "explanation": "The Narendra Modi stadium in Gujarat is currently the biggest cricket stadium in the world, capable of holding a large number of spectators."
+  },
+  "121:Easy": {
+    "chunk_id": 121,
+    "book": "eeev107.pdf",
+    "page": 11,
+    "chapter": "eeev107.pdf - World",
+    "question_text": "What does energy efficiency mean?",
+    "choices": [
+      "Using more energy to do the same work.",
+      "Using less energy to do the same work.",
+      "Wasting energy.",
+      "Not using energy at all."
+    ],
+    "answer_index": 1,
+    "answer_text": "Using less energy to do the same work.",
+    "source_excerpt": "Energy efficiency means using less energy to do the same work. This helps save resources and reduce waste.",
+    "explanation": "Energy efficiency is about minimizing the amount of energy needed to perform a task, which helps conserve resources and reduce waste."
+  },
+  "28:Easy": {
+    "chunk_id": 28,
+    "book": "eeev102.pdf",
+    "page": 9,
+    "chapter": "eeev102.pdf - few things that:",
+    "question_text": "What is one way to reduce waste?",
+    "choices": [
+      "Buying more things",
+      "Using only what we need",
+      "Throwing away useful items",
+      "Creating more plastic"
+    ],
+    "answer_index": 1,
+    "answer_text": "Using only what we need",
+    "source_excerpt": "We can reduce waste by using only what we need, reusing things and not throwing away useful items.",
+    "explanation": "Reducing waste can be achieved by consuming only what is necessary, reusing items, and avoiding the disposal of things that are still useful."
+  },
+  "194:Easy": {
+    "chunk_id": 194,
+    "book": "eeev1ps.pdf",
+    "page": 11,
+    "chapter": "eeev1ps.pdf - Ahmedabad",
+    "question_text": "Which organization is acknowledged for overseeing the translation of the National Curriculum Framework for School Education perspectives into the textbook?",
+    "choices": [
+      "The National Council of Educational Research and Training (NCERT)",
+      "The Centre for Environment Education (CEE)",
+      "The National Syllabus and Teaching-Learning Material Development Committee",
+      "Azim Premji University"
+    ],
+    "answer_index": 0,
+    "answer_text": "The National Council of Educational Research and Training (NCERT)",
+    "source_excerpt": "The National Council of Educational Research and Training (NCERT) acknowledges the guidance and support of the esteemed Chairperson, and members of the National Curriculum Framework Oversight Committee for their invaluable contributions in overseeing the translation of National Curriculum Framework for School Education (NCF-SE) perspectives into the textbook.",
+    "explanation": "The NCERT is specifically mentioned as the organization that oversaw the translation of the NCF-SE perspectives into the textbook."
+  },
+  "186:Easy": {
+    "chunk_id": 186,
+    "book": "eeev1ps.pdf",
+    "page": 3,
+    "chapter": "eeev1ps.pdf - Foreword",
+    "question_text": "What is the new subject area introduced at the preparatory stage of school education according to the National Curriculum Framework for School Education (NCF-SE) 2023?",
+    "choices": [
+      "Basic Science",
+      "Social Sciences",
+      "The World Around Us",
+      "Art Education"
+    ],
+    "answer_index": 2,
+    "answer_text": "The World Around Us",
+    "source_excerpt": "Adhering to the recommendations of the National Curriculum Framework for School Education (NCF-SE) 2023, brought out, as a follow-up to the NEP 2020, a new subject area called ‘The World Around Us’ at the preparatory stage is introduced.",
+    "explanation": "The text explicitly states that 'The World Around Us' is the new subject area introduced at the preparatory stage according to the NCF-SE 2023."
+  },
+  "38:Easy": {
+    "chunk_id": 38,
+    "book": "eeev103.pdf",
+    "page": 2,
+    "chapter": "eeev103.pdf - Unknown Chapter",
+    "question_text": "What does Unit 2 primarily focus on?",
+    "choices": [
+      "The history of different cultures.",
+      "Health, well-being, and food.",
+      "Advanced mathematical concepts.",
+      "Space Exploration"
+    ],
+    "answer_index": 1,
+    "answer_text": "Health, well-being, and food.",
+    "source_excerpt": "This unit at the preparatory stage and explore various traditional Indian familiarises students with different methods of food preservation. They types of food, importance of balanced learn about the role of good microbes food, healthcare, and maintaining good and cultural practices that help keep health with regular exercise and rest.",
+    "explanation": "The unit is about familiarizing students with different types of food, the importance of a balanced diet, healthcare practices, and maintaining good health through exercise and rest."
+  },
+  "100:Easy": {
+    "chunk_id": 100,
+    "book": "eeev106.pdf",
+    "page": 8,
+    "chapter": "eeev106.pdf - Kerala",
+    "question_text": "What makes up Northeast India, according to the text?",
+    "choices": [
+      "The Seven Sisters states only",
+      "The state of Sikkim only",
+      "The Seven Sisters states along with the state of Kerala",
+      "The Seven Sisters states along with the state of Sikkim"
+    ],
+    "answer_index": 3,
+    "answer_text": "The Seven Sisters states along with the state of Sikkim",
+    "source_excerpt": "“Did you know that the seven states called the ‘Seven Sisters’, along with the state of Sikkim, makes up what we call the Northeast India?”, Appa asked.",
+    "explanation": "The text mentions that the seven states called the 'Seven Sisters', along with the state of Sikkim, make up Northeast India."
+  },
+  "25:Easy": {
+    "chunk_id": 25,
+    "book": "eeev102.pdf",
+    "page": 6,
+    "chapter": "eeev102.pdf - Flow",
+    "question_text": "What can happen when there is too much rain and a river expands?",
+    "choices": [
+      "The river becomes cleaner and safer.",
+      "The river's water can be stored for future use.",
+      "The river can flood, causing damage and destruction.",
+      "The river's flow becomes gentler and slower."
+    ],
+    "answer_index": 2,
+    "answer_text": "The river can flood, causing damage and destruction.",
+    "source_excerpt": "When there is too much rain, I expand and become faster, deeper and bigger. I roar through the land, faster and wilder than anyone can imagine. This is when I cannot help overflowing my banks and flooding large areas. When too much rain falls, all the water rushes into me and my expanding waters flood houses, fields and roads causing great damage, and destruction.",
+    "explanation": "When there is excessive rainfall, rivers can overflow and cause flooding, resulting in damage to homes, fields, roads, and the displacement of people and animals."
+  },
+  "123:Easy": {
+    "chunk_id": 123,
+    "book": "eeev107.pdf",
+    "page": 13,
+    "chapter": "eeev107.pdf - Water Wheel",
+    "question_text": "What happens when air rushes out of a balloon?",
+    "choices": [
+      "It makes the balloon colder.",
+      "It pushes the balloon forward.",
+      "It makes the balloon float.",
+      "It changes the color of the balloon."
+    ],
+    "answer_index": 1,
+    "answer_text": "It pushes the balloon forward.",
+    "source_excerpt": "When air rushes out of the balloon, it pushes the balloon forward. This is how the movement of air generates energy.",
+    "explanation": "The text clearly states that the movement of air rushing out of the balloon generates energy, propelling the balloon forward."
+  },
+  "182:Easy": {
+    "chunk_id": 182,
+    "book": "eeev110.pdf",
+    "page": 23,
+    "chapter": "eeev110.pdf - Activities",
+    "question_text": "Which of the following is the title of the textbook?",
+    "choices": [
+      "Season Journal",
+      "Notes",
+      "The World is Round",
+      "Our Wondrous World"
+    ],
+    "answer_index": 3,
+    "answer_text": "Our Wondrous World",
+    "source_excerpt": "OOuurr WWoonnddrroouuss WWoorrlldd Textbook for Grade 5 The World Around Us",
+    "explanation": "The excerpt clearly states that the textbook title is 'Our Wondrous World'."
+  },
+  "70:Easy": {
+    "chunk_id": 70,
+    "book": "eeev104.pdf",
+    "page": 17,
+    "chapter": "eeev104.pdf - Choose any one of the following:",
+    "question_text": "According to the text, what makes everyone feel happy?",
+    "choices": [
+      "Saving water",
+      "Managing waste",
+      "Being kind and polite",
+      "Planting trees"
+    ],
+    "answer_index": 2,
+    "answer_text": "Being kind and polite",
+    "source_excerpt": "When we are kind and polite, everyone feels happy.",
+    "explanation": "The text states directly that kindness and politeness contribute to the happiness of everyone."
+  },
+  "130:Easy": {
+    "chunk_id": 130,
+    "book": "eeev108.pdf",
+    "page": 1,
+    "chapter": "eeev108.pdf - Unknown Chapter",
+    "question_text": "What does the male baya weaverbird use to build its nest?",
+    "choices": [
+      "Spider silk",
+      "Mud",
+      "Grass",
+      "Twigs"
+    ],
+    "answer_index": 2,
+    "answer_text": "Grass",
+    "source_excerpt": "The male baya weaver is a weaverbird, who builds beautiful hanging nests from grass.",
+    "explanation": "The text explicitly mentions that the male baya weaverbird constructs its nests using grass."
+  },
+  "148:Medium": {
+    "chunk_id": 148,
+    "book": "eeev109.pdf",
+    "page": 5,
+    "chapter": "eeev109.pdf - Village",
+    "question_text": "According to the text, how does India celebrate changes and traditions?",
+    "choices": [
+      "By ignoring them.",
+      "By celebrating over 1,000 festivals throughout the year.",
+      "By working consistently throughout the year.",
+      "By moving from place to place."
+    ],
+    "answer_index": 1,
+    "answer_text": "By celebrating over 1,000 festivals throughout the year.",
+    "source_excerpt": "ti gnikam ,raey eht tuohguorht slavitsef 000,1 revo setarbelec aidnI",
+    "explanation": "The text explicitly states that India celebrates over 1,000 festivals throughout the year, indicating a strong cultural emphasis on marking changes and traditions."
+  },
+  "172:Medium": {
+    "chunk_id": 172,
+    "book": "eeev110.pdf",
+    "page": 13,
+    "chapter": "eeev110.pdf - Cambodia",
+    "question_text": "What does the ancient Indian saying 'Vasudhaiva Kutumbakam' mean?",
+    "choices": [
+      "The Earth is flat.",
+      "The world is one family.",
+      "Every country should have borders.",
+      "India is the best country in the world."
+    ],
+    "answer_index": 1,
+    "answer_text": "The world is one family.",
+    "source_excerpt": "There is a beautiful saying from ancient India— ‘Vasudhaiva Kutumbakam’, meaning ‘the world is one family.’",
+    "explanation": "'Vasudhaiva Kutumbakam' directly translates to 'the world is one family', emphasizing interconnectedness and unity among all people."
+  },
+  "67:Medium": {
+    "chunk_id": 67,
+    "book": "eeev104.pdf",
+    "page": 14,
+    "chapter": "eeev104.pdf - Write",
+    "question_text": "What is one important thing to do during a fire drill?",
+    "choices": [
+      "Panic and run.",
+      "Hide in the bathroom.",
+      "Crawl low under smoke with your mouth covered.",
+      "Return to the building to save your belongings."
+    ],
+    "answer_index": 2,
+    "answer_text": "Crawl low under smoke with your mouth covered.",
+    "source_excerpt": "Crawl low under smoke with your mouth covered to breathe cleaner air.",
+    "explanation": "Crawling low under smoke with your mouth covered helps you breathe cleaner air, as smoke rises and the air closer to the ground is less toxic, which is a crucial safety measure during a fire."
+  },
+  "1:Medium": {
+    "chunk_id": 1,
+    "book": "eeev101.pdf",
+    "page": 2,
+    "chapter": "eeev101.pdf - Life Around Us",
+    "question_text": "According to the text, what is one key idea students should understand about water after studying the provided chapters?",
+    "choices": [
+      "Water is an unlimited resource freely available to all.",
+      "Water is a limited and shared resource that must be used wisely.",
+      "Water sources are equally distributed across all regions.",
+      "Water conservation is only important for agricultural purposes."
+    ],
+    "answer_index": 1,
+    "answer_text": "Water is a limited and shared resource that must be used wisely.",
+    "source_excerpt": "After reading this chapter students will understand that water is a limited and shared resource which must be used wisely.",
+    "explanation": "The text highlights the importance of understanding that water is not an infinite resource. It is essential to manage water responsibly because it is a shared resource and can become scarce if not used properly."
+  },
+  "108:Medium": {
+    "chunk_id": 108,
+    "book": "eeev106.pdf",
+    "page": 16,
+    "chapter": "eeev106.pdf - Meghalaya",
+    "question_text": "What does the text suggest is crucial for preserving the natural wonders of India for future generations?",
+    "choices": [
+      "Ignoring regional differences and imposing uniform rules.",
+      "Focusing solely on economic development.",
+      "Learning about, respecting, and protecting the land.",
+      "Limiting travel and exploration."
+    ],
+    "answer_index": 2,
+    "answer_text": "Learning about, respecting, and protecting the land.",
+    "source_excerpt": "If we want these wonders to stay for the future, we must all do our part by learning, respecting and protecting the land we call home.",
+    "explanation": "The text emphasizes that the continued existence of India's natural beauty and unique places relies on educating ourselves about them, showing them respect, and actively working to protect them."
+  },
+  "60:Medium": {
+    "chunk_id": 60,
+    "book": "eeev104.pdf",
+    "page": 7,
+    "chapter": "eeev104.pdf - Curd",
+    "question_text": "What is the purpose of segregating waste into dry and wet categories, as mentioned in the text?",
+    "choices": [
+      "To make the waste heavier.",
+      "To manage waste better and keep surroundings clean.",
+      "To mix it with soil.",
+      "To make the waste smell good."
+    ],
+    "answer_index": 1,
+    "answer_text": "To manage waste better and keep surroundings clean.",
+    "source_excerpt": "We have learned in earlier classes about the importance of separating waste into dry and wet categories to manage it better, and to keep our surroundings clean.",
+    "explanation": "Separating waste into dry and wet categories is essential for efficient waste management. This process facilitates recycling and reduces the negative impact of waste on the environment."
+  },
+  "136:Medium": {
+    "chunk_id": 136,
+    "book": "eeev108.pdf",
+    "page": 7,
+    "chapter": "eeev108.pdf - India",
+    "question_text": "According to the provided information, what is India's position in the global production of jute?",
+    "choices": [
+      "The smallest producer",
+      "The largest producer",
+      "Not a producer",
+      "The second largest producer"
+    ],
+    "answer_index": 1,
+    "answer_text": "The largest producer",
+    "source_excerpt": "India is the largest producer of jute in the world.",
+    "explanation": "The text states directly that India holds the top position worldwide in terms of jute production. Jute is a natural fiber used to make burlap, rope, and other products."
+  },
+  "171:Medium": {
+    "chunk_id": 171,
+    "book": "eeev110.pdf",
+    "page": 12,
+    "chapter": "eeev110.pdf - Tree",
+    "question_text": "According to the text, what is the meaning of the ancient Indian saying 'Vasudhaiva Kutumbakam'?",
+    "choices": [
+      "The earth is flat.",
+      "The world is one family.",
+      "Cows are sacred animals.",
+      "Birds travel across continents."
+    ],
+    "answer_index": 1,
+    "answer_text": "The world is one family.",
+    "source_excerpt": "There is a beautiful saying from ancient India— ‘Vasudhaiva Kutumbakam’, meaning ‘the world is one family.’",
+    "explanation": "The saying 'Vasudhaiva Kutumbakam' reflects the idea that all living beings and nations are interconnected and should be treated with respect and compassion, as members of a single global family."
+  },
+  "30:Medium": {
+    "chunk_id": 30,
+    "book": "eeev102.pdf",
+    "page": 11,
+    "chapter": "eeev102.pdf - Write",
+    "question_text": "What is the primary purpose of dams, according to the text?",
+    "choices": [
+      "To increase river flow during rainy seasons.",
+      "To provide habitats for aquatic animals.",
+      "To store water for use during dry seasons for drinking, agriculture and electricity.",
+      "To prevent soil erosion along river banks."
+    ],
+    "answer_index": 2,
+    "answer_text": "To store water for use during dry seasons for drinking, agriculture and electricity.",
+    "source_excerpt": "Did you know that there are more than 900 dams that store my water so people can use it even during dry seasons, to drink, grow crops and make electricity.",
+    "explanation": "Dams are built to capture and store water, ensuring a supply is available during periods when rainfall is scarce. This stored water can then be used for drinking, irrigating crops, and generating electricity."
+  },
+  "129:Medium": {
+    "chunk_id": 129,
+    "book": "eeev107.pdf",
+    "page": 19,
+    "chapter": "eeev107.pdf - 7. Create and share:",
+    "question_text": "Why is it environmentally better to use solar or wind energy instead of coal?",
+    "choices": [
+      "Solar and wind energy are cheaper to produce.",
+      "Solar and wind energy do not cause pollution.",
+      "Coal is a renewable resource.",
+      "Coal energy is more efficient."
+    ],
+    "answer_index": 1,
+    "answer_text": "Solar and wind energy do not cause pollution.",
+    "source_excerpt": "Most of the electricity we use comes from burning fuels like coal. However, burning coal creates a lot of smoke and harmful gases that pollute the air. This polluted air is not good for our health and the environment. Nevertheless, there are other sources we can use to produce electricity that do not cause pollution.",
+    "explanation": "Burning coal releases harmful gases and pollutants into the air, which damages the environment and human health. Solar and wind energy are cleaner alternatives that do not produce these pollutants."
+  },
+  "10:Medium": {
+    "chunk_id": 10,
+    "book": "eeev101.pdf",
+    "page": 11,
+    "chapter": "eeev101.pdf - Maharashtra",
+    "question_text": "The Luni River is unique because it:",
+    "choices": [
+      "Is the longest river in India.",
+      "Drains into the Bay of Bengal.",
+      "Originates in the Himalayan mountains.",
+      "Does not drain into a sea."
+    ],
+    "answer_index": 3,
+    "answer_text": "Does not drain into a sea.",
+    "source_excerpt": "The Luni river, originating in the Aravalli Range in Rajasthan, is the only major Indian river that does not drain into a sea. Instead, it ends up in the marshy lands of the Rann of Kutch in Gujarat.",
+    "explanation": "Unlike most rivers that flow into the sea, the Luni River ends its journey in the marshy lands of the Rann of Kutch. Its water is absorbed into the land instead of reaching the ocean."
+  },
+  "181:Medium": {
+    "chunk_id": 181,
+    "book": "eeev110.pdf",
+    "page": 22,
+    "chapter": "eeev110.pdf - Activities",
+    "question_text": "Which of the following lists the months of the year in the order that the four themes are covered in \"The World Around Me\"?",
+    "choices": [
+      "January to March, April to June, July to September, October to December.",
+      "October to December, January to March, April to June, July to September.",
+      "April to June, July to September, October to December, January to March.",
+      "July to September, October to December, January to March, April to June."
+    ],
+    "answer_index": 0,
+    "answer_text": "January to March, April to June, July to September, October to December.",
+    "source_excerpt": "The World Around Me: January – March\nThe World Around Me: April – June\nThe World Around Me: July – September\nThe World Around Me: October – December",
+    "explanation": "The seasons of the year are presented in a chronological order: January to March, April to June, July to September, and finally, October to December."
+  },
+  "5:Medium": {
+    "chunk_id": 5,
+    "book": "eeev101.pdf",
+    "page": 6,
+    "chapter": "eeev101.pdf - Activity I Observe",
+    "question_text": "What is the water cycle?",
+    "choices": [
+      "The process of cleaning water for drinking.",
+      "The constant circular movement of water from the earth to the atmosphere and back.",
+      "The process of water being stored in dams.",
+      "The use of water for irrigation."
+    ],
+    "answer_index": 1,
+    "answer_text": "The constant circular movement of water from the earth to the atmosphere and back.",
+    "source_excerpt": "This constant circular movement of water in nature is called the water cycle.",
+    "explanation": "The water cycle describes how water continuously moves on, above, and below the surface of the Earth. It involves processes like evaporation, condensation, precipitation, and collection."
+  },
+  "65:Medium": {
+    "chunk_id": 65,
+    "book": "eeev104.pdf",
+    "page": 12,
+    "chapter": "eeev104.pdf - World",
+    "question_text": "What is the main goal of a 'green school' as described in the text?",
+    "choices": [
+      "To only use recycled materials in the classroom.",
+      "To manage waste, save water, use electricity carefully, and make the campus green.",
+      "To replace all textbooks with digital versions.",
+      "To only serve vegetarian food in the cafeteria."
+    ],
+    "answer_index": 1,
+    "answer_text": "To manage waste, save water, use electricity carefully, and make the campus green.",
+    "source_excerpt": "green school is a school where we manage our waste, save water, use electricity carefully, and make the campus green by planting more trees and taking care of them",
+    "explanation": "A 'green school' focuses on environmental sustainability by reducing waste, conserving resources like water and electricity, and promoting greenery through planting and care of plants and trees on the campus."
   }
 }
