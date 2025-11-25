@@ -6,3 +6,4 @@ numpy
 pdfplumber
 google-generativeai
 requests
+google-genai
