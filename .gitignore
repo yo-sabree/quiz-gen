@@ -1,0 +1,33 @@
+# Ignore the quiz folder
+quiz/
+
+# Environment variables
+.env
+.env.*
+
+# Python virtual environments
+venv/
+quiz-env/
+*.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
