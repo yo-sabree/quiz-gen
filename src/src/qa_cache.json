@@ -1,0 +1,2232 @@
+{
+  "70:easy": {
+    "chunk_id": 70,
+    "book": "eeev104.pdf",
+    "page": 17,
+    "chapter": "eeev104.pdf - Choose any one of the following:",
+    "question_text": "According to Aasha, what makes a school a 'green school'?",
+    "choices": [
+      "Managing waste, saving water, using electricity carefully, and making the campus green by planting more trees and taking care of them.",
+      "Having the latest technology and equipment.",
+      "Having a strict disciplinary system.",
+      "Focusing solely on academic achievement."
+    ],
+    "answer_index": 0,
+    "answer_text": "Managing waste, saving water, using electricity carefully, and making the campus green by planting more trees and taking care of them.",
+    "source_excerpt": "My brother told me once, green school is a school where we manage our waste, save water, use electricity carefully, and make the campus green by planting more trees and taking care of them"
+  },
+  "95:easy": {
+    "chunk_id": 95,
+    "book": "eeev106.pdf",
+    "page": 3,
+    "chapter": "eeev106.pdf - World",
+    "question_text": "Which of the following birds is exclusively found in the Andaman and Nicobar Islands?",
+    "choices": [
+      "Peacock",
+      "Andaman Wood Pigeon",
+      "Sparrow",
+      "Crow"
+    ],
+    "answer_index": 1,
+    "answer_text": "Andaman Wood Pigeon",
+    "source_excerpt": "Birds like the Andaman wood pigeon and the Andaman hornbill are only found here."
+  },
+  "188:Easy": {
+    "chunk_id": 188,
+    "book": "eeev1ps.pdf",
+    "page": 5,
+    "chapter": "eeev1ps.pdf - Director",
+    "question_text": "What is the main goal of 'The World Around Us' textbook for Grade 5?",
+    "choices": [
+      "To encourage observation, questioning, investigation, reflection, and expression among students.",
+      "To prepare students for competitive exams.",
+      "To strictly follow a lecture-based teaching approach.",
+      "To focus solely on rote memorization of facts."
+    ],
+    "answer_index": 0,
+    "answer_text": "To encourage observation, questioning, investigation, reflection, and expression among students.",
+    "source_excerpt": "Guided by the policy and the curriculum framework, the TWAU textbook is designed as a learning companion that encourages observation, questioning, investigation, reflection, and expression among students."
+  },
+  "83:Easy": {
+    "chunk_id": 83,
+    "book": "eeev105.pdf",
+    "page": 12,
+    "chapter": "eeev105.pdf - Our Vibrant Culture",
+    "question_text": "According to the text, what is India known for regarding languages?",
+    "choices": [
+      "Being one of the most multilingual countries in the world.",
+      "Having only one official language.",
+      "Forbidding the use of foreign languages.",
+      "Having fewer than 100 languages."
+    ],
+    "answer_index": 0,
+    "answer_text": "Being one of the most multilingual countries in the world.",
+    "source_excerpt": "India’s Constitution is the longest written constitution of any country in the world."
+  },
+  "74:Easy": {
+    "chunk_id": 74,
+    "book": "eeev105.pdf",
+    "page": 3,
+    "chapter": "eeev105.pdf - Our Vibrant Country",
+    "question_text": "What does the white band in the middle of the Indian National Flag stand for?",
+    "choices": [
+      "Peace and truth",
+      "Strength and courage",
+      "Growth and prosperity",
+      "Duty"
+    ],
+    "answer_index": 0,
+    "answer_text": "Peace and truth",
+    "source_excerpt": "The white, middle band stands for peace and truth, with the blue Ashoka Chakra at the centre representing duty (dharma)."
+  },
+  "56:Medium": {
+    "chunk_id": 56,
+    "book": "eeev104.pdf",
+    "page": 3,
+    "chapter": "eeev104.pdf - Meghalaya",
+    "question_text": "What is the primary focus of the Swachh Bharat Swachh Vidyalaya initiative?",
+    "choices": [
+      "Promoting sports and physical activities in schools",
+      "Keeping schools clean and healthy, with a focus on sanitation and hygiene",
+      "Improving the academic performance of students",
+      "Providing better infrastructure for schools"
+    ],
+    "answer_index": 1,
+    "answer_text": "Keeping schools clean and healthy, with a focus on sanitation and hygiene",
+    "source_excerpt": "Swachh Bharat Swachh Vidyalaya (Clean India Clean Schools) is a part of the Swachh Bharat Mission started by the Government of India. It focuses on keeping schools clean and healthy for all. This includes clean toilets, safe drinking water, proper waste management, and hygiene education."
+  },
+  "162:Medium": {
+    "chunk_id": 162,
+    "book": "eeev110.pdf",
+    "page": 3,
+    "chapter": "eeev110.pdf - religions:",
+    "question_text": "What does the ancient Indian saying 'Vasudhaiva Kutumbakam' mean?",
+    "choices": [
+      "Unity in diversity",
+      "The world is one family",
+      "Respect for elders",
+      "Knowledge is power"
+    ],
+    "answer_index": 1,
+    "answer_text": "The world is one family",
+    "source_excerpt": "There is a beautiful saying from ancient India— ‘Vasudhaiva Kutumbakam’, meaning ‘the world is one family.’"
+  },
+  "159:Medium": {
+    "chunk_id": 159,
+    "book": "eeev109.pdf",
+    "page": 16,
+    "chapter": "eeev109.pdf - Summer Monsoon Winters",
+    "question_text": "According to the text, what do seasons primarily shape in our lives?",
+    "choices": [
+      "The type of clothes we wear.",
+      "The festivals we celebrate.",
+      "The crops we harvest.",
+      "All of the above"
+    ],
+    "answer_index": 3,
+    "answer_text": "All of the above",
+    "source_excerpt": "From the crops we harvest to the festivals we celebrate; seasons give rhythm to our lives and remind us that change is natural, and necessary."
+  },
+  "164:Medium": {
+    "chunk_id": 164,
+    "book": "eeev110.pdf",
+    "page": 5,
+    "chapter": "eeev110.pdf - Fwiassh",
+    "question_text": "What do Rosy Starlings eat in India that helps farmers?",
+    "choices": [
+      "Seeds",
+      "Locusts and grasshoppers",
+      "Fruits",
+      "Nectar"
+    ],
+    "answer_index": 1,
+    "answer_text": "Locusts and grasshoppers",
+    "source_excerpt": "These birds enjoy the warm weather in India and feed on locusts and grasshoppers, thus, helping farmers by eating the pests on the crops."
+  },
+  "197:Medium": {
+    "chunk_id": 197,
+    "book": "eeev1ps.pdf",
+    "page": 14,
+    "chapter": "eeev1ps.pdf - Acknowledgements",
+    "question_text": "According to the preliminary pages, what is the ISBN of the textbook 'Our Wondrous World'?",
+    "choices": [
+      "978-81-7450-684-4",
+      "978-93-5729-030-2",
+      "978-81-8764-223-1",
+      "978-93-8660-763-4"
+    ],
+    "answer_index": 1,
+    "answer_text": "978-93-5729-030-2",
+    "source_excerpt": "ISBN 978-93-5729-030-2"
+  },
+  "128:Medium": {
+    "chunk_id": 128,
+    "book": "eeev107.pdf",
+    "page": 18,
+    "chapter": "eeev107.pdf - Earth",
+    "question_text": "According to the text, what is Vaastu Shastra?",
+    "choices": [
+      "A system for generating electricity",
+      "A method for preserving food",
+      "An ancient Indian system of design and architecture",
+      "A type of renewable energy source"
+    ],
+    "answer_index": 2,
+    "answer_text": "An ancient Indian system of design and architecture",
+    "source_excerpt": "Vaastu Shastra, the ancient Indian system of design and architecture, helps plan buildings in harmony with nature."
+  },
+  "106:Medium": {
+    "chunk_id": 106,
+    "book": "eeev106.pdf",
+    "page": 14,
+    "chapter": "eeev106.pdf - Chandrayaan-3",
+    "question_text": "What were the students in the Western Ghats doing in the excerpt?",
+    "choices": [
+      "Protecting the Hargila bird",
+      "Conducting a survey of mango varieties",
+      "Practicing traditional medicine",
+      "Building root bridges"
+    ],
+    "answer_index": 1,
+    "answer_text": "Conducting a survey of mango varieties",
+    "source_excerpt": "These students are part of a survey. With help from schools, farmers and experts, we found and recorded over 200 types of mangoes in the Western Ghats!"
+  },
+  "98:Medium": {
+    "chunk_id": 98,
+    "book": "eeev106.pdf",
+    "page": 6,
+    "chapter": "eeev106.pdf - Maharashtra",
+    "question_text": "Why are mangroves important in the Sundarbans?",
+    "choices": [
+      "They provide food for the local wildlife.",
+      "They help fishermen catch more fish.",
+      "Their roots hold the soil together and help stop waves from washing the land away.",
+      "They are a source of fresh water."
+    ],
+    "answer_index": 2,
+    "answer_text": "Their roots hold the soil together and help stop waves from washing the land away.",
+    "source_excerpt": "Mangroves are important because their roots hold the soil together and help stop waves from washing the land away."
+  },
+  "52:Medium": {
+    "chunk_id": 52,
+    "book": "eeev103.pdf",
+    "page": 16,
+    "chapter": "eeev103.pdf - Final Discovery",
+    "question_text": "What are the key factors that microbes need to grow and potentially spoil food?",
+    "choices": [
+      "Dryness, sunlight, and cold temperatures",
+      "Moisture, air, and the right temperature",
+      "Salt, sugar, and oil",
+      "Heat, pressure, and acidity"
+    ],
+    "answer_index": 1,
+    "answer_text": "Moisture, air, and the right temperature",
+    "source_excerpt": "Microbes need moisture, air and the right temperature to grow."
+  },
+  "100:Medium": {
+    "chunk_id": 100,
+    "book": "eeev106.pdf",
+    "page": 8,
+    "chapter": "eeev106.pdf - Kerala",
+    "question_text": "According to the text, what is unique about the seven states, along with Sikkim, located in India?",
+    "choices": [
+      "They are called the 'Golden Triangle'",
+      "They are known as the 'Seven Sisters' and Sikkim",
+      "They are the largest producers of spices.",
+      "They have the highest population density in India."
+    ],
+    "answer_index": 1,
+    "answer_text": "They are known as the 'Seven Sisters' and Sikkim",
+    "source_excerpt": "Did you know that the seven states called the ‘Seven Sisters’, along with the state of Sikkim, makes up what we call the Northeast India?"
+  },
+  "85:Easy": {
+    "chunk_id": 85,
+    "book": "eeev105.pdf",
+    "page": 14,
+    "chapter": "eeev105.pdf - Diversity Everywhere",
+    "question_text": "In Rajasthan, what is the traditional headgear worn by men called?",
+    "choices": [
+      "Saafa or pagri",
+      "Topi",
+      "Helmet",
+      "Duppata"
+    ],
+    "answer_index": 0,
+    "answer_text": "Saafa or pagri",
+    "source_excerpt": "In Rajasthan, men wear a colourful saafa or pagri.",
+    "explanation": "The text explicitly states that in Rajasthan, men traditionally wear a 'saafa or pagri' as headgear."
+  },
+  "22:Easy": {
+    "chunk_id": 22,
+    "book": "eeev102.pdf",
+    "page": 3,
+    "chapter": "eeev102.pdf - The Life I Hold",
+    "question_text": "Which of these rivers is also known as Dakshina Ganga?",
+    "choices": [
+      "Ganga",
+      "Godavari",
+      "Brahmaputra",
+      "Yamuna"
+    ],
+    "answer_index": 1,
+    "answer_text": "Godavari",
+    "source_excerpt": "I am called Dakshina Ganga because I flow through southern India and am regarded as sacred.",
+    "explanation": "The passage directly mentions that the Godavari River is also known as Dakshina Ganga."
+  },
+  "111:Easy": {
+    "chunk_id": 111,
+    "book": "eeev107.pdf",
+    "page": 1,
+    "chapter": "eeev107.pdf - Things Around Us",
+    "question_text": "What are the 5 R's that promote sustainable development?",
+    "choices": [
+      "Read, Write, Recycle, Reduce, Respect",
+      "Refuse, Reduce, Reuse, Repurpose, Recycle",
+      "Remember, Reduce, Reuse, Repurpose, React",
+      "Reflect, Relate, Reuse, Repurpose, Recycle"
+    ],
+    "answer_index": 1,
+    "answer_text": "Refuse, Reduce, Reuse, Repurpose, Recycle",
+    "source_excerpt": "useful methods of sustainable reusing things and clean energy development, including refuse, reduce, reuse, repurpose and recycle (the 5 R s)",
+    "explanation": "The text clearly states the 5 R's as 'refuse, reduce, reuse, repurpose and recycle'."
+  },
+  "190:Easy": {
+    "chunk_id": 190,
+    "book": "eeev1ps.pdf",
+    "page": 7,
+    "chapter": "eeev1ps.pdf - Dhanya Krishnan",
+    "question_text": "What ancient Indian philosophy is highlighted as important for sustainability?",
+    "choices": [
+      "Satyameva Jayate",
+      "Vasudhaiva Kutumbakam",
+      "Ahimsa Paramo Dharma",
+      "Atithi Devo Bhava"
+    ],
+    "answer_index": 1,
+    "answer_text": "Vasudhaiva Kutumbakam",
+    "source_excerpt": "our ancient Indian philosophy of treating the world as one family, ‘Vasudhaiva Kutumbakam’, is important for sustainability.",
+    "explanation": "The excerpt specifies that 'Vasudhaiva Kutumbakam', the philosophy of treating the world as one family, is crucial for sustainability."
+  },
+  "37:Easy": {
+    "chunk_id": 37,
+    "book": "eeev103.pdf",
+    "page": 1,
+    "chapter": "eeev103.pdf - Unknown Chapter",
+    "question_text": "What is the name of the detective character who explores how food spoils?",
+    "choices": [
+      "Aasha",
+      "Mohit",
+      "Disha",
+      "Shanti"
+    ],
+    "answer_index": 2,
+    "answer_text": "Disha",
+    "source_excerpt": "'The Mystery of Food’ follows detective Disha as she explores how food spoils due to microbes and why certain foods last longer.",
+    "explanation": "According to the text, 'The Mystery of Food' chapter features a detective named Disha who investigates food spoilage."
+  },
+  "140:Easy": {
+    "chunk_id": 140,
+    "book": "eeev108.pdf",
+    "page": 11,
+    "chapter": "eeev108.pdf - Bandhani",
+    "question_text": "What is the name of the instrument used to weave cloth by hand?",
+    "choices": [
+      "Needle",
+      "Loom",
+      "Spinning wheel",
+      "Criss-cross"
+    ],
+    "answer_index": 1,
+    "answer_text": "Loom",
+    "source_excerpt": "Traditional weaving is done by hand on an instrument called loom.",
+    "explanation": "The provided text mentions that a 'loom' is the instrument used for traditional hand weaving."
+  },
+  "93:Easy": {
+    "chunk_id": 93,
+    "book": "eeev106.pdf",
+    "page": 1,
+    "chapter": "eeev106.pdf - Some Unique Places",
+    "question_text": "Where were Shanti and her family heading after staying in the Andaman Islands?",
+    "choices": [
+      "Mawsynram",
+      "Ellora",
+      "Kanyakumari",
+      "Meghalaya"
+    ],
+    "answer_index": 2,
+    "answer_text": "Kanyakumari",
+    "source_excerpt": "Shanti and her family had stayed in the Andaman Islands and now they were heading to Kanyakumari, the southernmost point of the Indian mainland, where three seas meet.",
+    "explanation": "The passage states that after staying in the Andaman Islands, Shanti and her family were going to Kanyakumari."
+  },
+  "56:Easy": {
+    "chunk_id": 56,
+    "book": "eeev104.pdf",
+    "page": 3,
+    "chapter": "eeev104.pdf - Meghalaya",
+    "question_text": "According to the text, what is Mawlynnong in Meghalaya celebrated as?",
+    "choices": [
+      "Asia's Biggest City",
+      "India's Greenest Forest",
+      "Asia's Cleanest Village",
+      "The Wettest Place on Earth"
+    ],
+    "answer_index": 2,
+    "answer_text": "Asia's Cleanest Village",
+    "source_excerpt": "Mawlynnong in Meghalaya is celebrated as ‘Asia’s Cleanest Village’.",
+    "explanation": "The text indicates that Mawlynnong in Meghalaya is renowned as 'Asia's Cleanest Village'."
+  },
+  "35:Easy": {
+    "chunk_id": 35,
+    "book": "eeev102.pdf",
+    "page": 16,
+    "chapter": "eeev102.pdf - The National Water Mission",
+    "question_text": "What is the name of the campaign to save and protect water, encouraging people to plant trees and catch rainwater?",
+    "choices": [
+      "Swachh Bharat Abhiyan",
+      "Namami Gange Programme",
+      "Jal Shakti Abhiyan",
+      "National Water Mission"
+    ],
+    "answer_index": 2,
+    "answer_text": "Jal Shakti Abhiyan",
+    "source_excerpt": "The Jal Shakti Abhiyan is a campaign to save and protect water. It encourages people to plant trees, catch rainwater and use water wisely.",
+    "explanation": "The passage directly states that the 'Jal Shakti Abhiyan' is the campaign focused on water conservation through tree planting and rainwater harvesting."
+  },
+  "68:Easy": {
+    "chunk_id": 68,
+    "book": "eeev104.pdf",
+    "page": 15,
+    "chapter": "eeev104.pdf - Write",
+    "question_text": "During a fire drill, what should you do to breathe cleaner air if there is smoke?",
+    "choices": [
+      "Run quickly to the nearest exit",
+      "Hide in a closet",
+      "Crawl low under the smoke with your mouth covered",
+      "Return to the building to help others"
+    ],
+    "answer_index": 2,
+    "answer_text": "Crawl low under the smoke with your mouth covered",
+    "source_excerpt": "Crawl low under smoke with your mouth covered to breathe cleaner air.",
+    "explanation": "The provided information specifically instructs to 'Crawl low under smoke with your mouth covered to breathe cleaner air' during a fire drill."
+  },
+  "102:Easy": {
+    "chunk_id": 102,
+    "book": "eeev106.pdf",
+    "page": 10,
+    "chapter": "eeev106.pdf - Temple",
+    "question_text": "Bhut Jolokia, also known as ghost pepper, is used for what purpose in Northeast India?",
+    "choices": [
+      "To keep elephants away from crops",
+      "To feed the Hargila bird",
+      "To build the largest building",
+      "To make coir craft",
+      "To help protect the Hargila bird"
+    ],
+    "answer_index": 0,
+    "answer_text": "To keep elephants away from crops",
+    "source_excerpt": "Bhut Jolokia or ghost pepper is one of the hottest chillies in the world. It grows in the Northeast India and is used in pickles, chutneys, and even to keep elephants away from the crops.",
+    "explanation": "The text directly states that Bhut Jolokia is used to keep elephants away from crops."
+  },
+  "20:Easy": {
+    "chunk_id": 20,
+    "book": "eeev102.pdf",
+    "page": 1,
+    "chapter": "eeev102.pdf - Unknown Chapter",
+    "question_text": "The river Godavari is also known as what?",
+    "choices": [
+      "Dakshina Ganga",
+      "Brahmaputra River",
+      "Bhupen Hazarika Setu",
+      "Ganga River"
+    ],
+    "answer_index": 0,
+    "answer_text": "Dakshina Ganga",
+    "source_excerpt": "I am called Dakshina Ganga because I flow through southern India and am regarded as sacred.",
+    "explanation": "The text explicitly states that the river Godavari is called Dakshina Ganga because it flows through southern India and is considered sacred."
+  },
+  "198:Easy": {
+    "chunk_id": 198,
+    "book": "eeev1ps.pdf",
+    "page": 15,
+    "chapter": "eeev1ps.pdf - Contents",
+    "question_text": "Which chapter introduces students to the vibrancy and diversity of India through national symbols?",
+    "choices": [
+      "Chapter 5: Our Vibrant Country",
+      "Chapter 6: Some Unique Places",
+      "Chapter 1: Water - The Essence of Life",
+      "Chapter 10: Earth - Our Shared Home"
+    ],
+    "answer_index": 0,
+    "answer_text": "Chapter 5: Our Vibrant Country",
+    "source_excerpt": "This chapter introduces students to the vibrancy and diversity of India through familiar events like the Republic Day celebrations in school, national symbols, currency notes, languages, clothing, dance, music and shared values.",
+    "explanation": "According to the text, Chapter 5, 'Our Vibrant Country', covers the vibrancy and diversity of India, including national symbols."
+  },
+  "39:Easy": {
+    "chunk_id": 39,
+    "book": "eeev103.pdf",
+    "page": 3,
+    "chapter": "eeev103.pdf - Food Spoilage",
+    "question_text": "What are the tiny living things that grew on Disha's uttapam called?",
+    "choices": [
+      "Microbes",
+      "Lice",
+      "Mould",
+      "Colonies"
+    ],
+    "answer_index": 0,
+    "answer_text": "Microbes",
+    "source_excerpt": "“That’s mould, Disha. These tiny living things are called microbes, which grew on your food and changed it.”",
+    "explanation": "The text states that the colored patches are mould, and these are made of tiny living things called microbes."
+  },
+  "142:Easy": {
+    "chunk_id": 142,
+    "book": "eeev108.pdf",
+    "page": 13,
+    "chapter": "eeev108.pdf - Handloom",
+    "question_text": "What is created when strips or threads of a material are combined into a patterned fabric?",
+    "choices": [
+      "Weaving",
+      "Knitting",
+      "Sewing",
+      "Embroidery"
+    ],
+    "answer_index": 0,
+    "answer_text": "Weaving",
+    "source_excerpt": "Weaving combines strips or threads of a material into a patterned fabric like cloth.",
+    "explanation": "The text defines weaving as the combination of strips or threads into a patterned fabric."
+  },
+  "118:Easy": {
+    "chunk_id": 118,
+    "book": "eeev107.pdf",
+    "page": 8,
+    "chapter": "eeev107.pdf - Kerala",
+    "question_text": "What do cars and scooters need to keep running?",
+    "choices": [
+      "Fuels",
+      "Water",
+      "Electricity",
+      "Wind"
+    ],
+    "answer_index": 0,
+    "answer_text": "Fuels",
+    "source_excerpt": "Fuels such as, petrol and diesel are the sources of energy for vehicles, just like food is ours.",
+    "explanation": "The text explicitly states that fuels like petrol and diesel are the energy sources needed to keep vehicles running."
+  },
+  "78:Easy": {
+    "chunk_id": 78,
+    "book": "eeev105.pdf",
+    "page": 7,
+    "chapter": "eeev105.pdf - India",
+    "question_text": "What does the saffron color in the Indian National Flag stand for?",
+    "choices": [
+      "Strength and courage",
+      "Peace and truth",
+      "Growth and prosperity",
+      "Duty"
+    ],
+    "answer_index": 0,
+    "answer_text": "Strength and courage",
+    "source_excerpt": "The saffron colour at the top of our National Flag stands for strength and courage.",
+    "explanation": "The passage says that the saffron color at the top of the flag represents strength and courage."
+  },
+  "149:Easy": {
+    "chunk_id": 149,
+    "book": "eeev109.pdf",
+    "page": 6,
+    "chapter": "eeev109.pdf - World",
+    "question_text": "What does a globe represent?",
+    "choices": [
+      "The Earth",
+      "The Sun",
+      "The Moon",
+      "A map"
+    ],
+    "answer_index": 0,
+    "answer_text": "The Earth",
+    "source_excerpt": "A globe is a model that represents our Earth.",
+    "explanation": "The text clearly defines a globe as a model representing the Earth."
+  },
+  "120:Easy": {
+    "chunk_id": 120,
+    "book": "eeev107.pdf",
+    "page": 10,
+    "chapter": "eeev107.pdf - India",
+    "question_text": "What is needed by animals to move, fly, and find food?",
+    "choices": [
+      "Energy",
+      "Water",
+      "Air",
+      "Shelter"
+    ],
+    "answer_index": 0,
+    "answer_text": "Energy",
+    "source_excerpt": "just like us, animals also need energy to move, fly, swim, run, find food and protect themselves.",
+    "explanation": "The text says that animals need energy to move, fly, swim, run, find food, and protect themselves."
+  },
+  "90:Easy": {
+    "chunk_id": 90,
+    "book": "eeev105.pdf",
+    "page": 19,
+    "chapter": "eeev105.pdf - Constitution",
+    "question_text": "Whose image is on the Indian currency note?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Indira Gandhi",
+      "Sardar Patel"
+    ],
+    "answer_index": 0,
+    "answer_text": "Mahatma Gandhi",
+    "source_excerpt": "“Can you guess whose image is on this note?” We all said, “Mahatma Gandhi!\", in chorus.",
+    "explanation": "The text directly states that the image on the currency note is that of Mahatma Gandhi."
+  },
+  "54:Medium": {
+    "chunk_id": 54,
+    "book": "eeev104.pdf",
+    "page": 1,
+    "chapter": "eeev104.pdf - Green School",
+    "question_text": "According to Aasha, what makes a school a 'green school'?",
+    "choices": [
+      "Having a large playground and sports facilities.",
+      "Managing waste, saving water, using electricity carefully, and planting trees.",
+      "Having air-conditioned classrooms and modern technology.",
+      "Organizing frequent picnics and fun activities."
+    ],
+    "answer_index": 1,
+    "answer_text": "Managing waste, saving water, using electricity carefully, and planting trees.",
+    "source_excerpt": "green school is a school where we manage our waste, save water, use electricity carefully, and make the campus green by planting more trees and taking care of them",
+    "explanation": "A green school focuses on sustainable practices like waste management, water conservation, responsible electricity use, and campus greening through planting and care of trees. These actions minimize the school's environmental impact."
+  },
+  "34:Medium": {
+    "chunk_id": 34,
+    "book": "eeev102.pdf",
+    "page": 15,
+    "chapter": "eeev102.pdf - Some",
+    "question_text": "What is the potential consequence for families when there is no availability of water for a very long time?",
+    "choices": [
+      "They might have to buy water from other towns.",
+      "They may have to leave their homes and move to places where water is still available.",
+      "They might have to reduce their consumption of food.",
+      "They will receive water from the government"
+    ],
+    "answer_index": 1,
+    "answer_text": "They may have to leave their homes and move to places where water is still available.",
+    "source_excerpt": "When there is no availability of water for a very long time, families may have to leave their homes and move to places where water is still available.",
+    "explanation": "When water is scarce for extended periods, families may be forced to relocate to areas where water resources are more readily accessible, highlighting the critical importance of water for sustaining communities."
+  },
+  "55:Medium": {
+    "chunk_id": 55,
+    "book": "eeev104.pdf",
+    "page": 2,
+    "chapter": "eeev104.pdf - World",
+    "question_text": "What is the main focus of the 'Swachh Bharat Swachh Vidyalaya' initiative?",
+    "choices": [
+      "Organizing cultural events in schools.",
+      "Keeping schools clean and healthy for all.",
+      "Providing free uniforms and books to students.",
+      "Building new classrooms and laboratories."
+    ],
+    "answer_index": 1,
+    "answer_text": "Keeping schools clean and healthy for all.",
+    "source_excerpt": "Swachh Bharat Swachh Vidyalaya (Clean India Clean Schools) is a part of the Swachh Bharat Mission started by the Government of India. It focuses on keeping schools clean and healthy for all.",
+    "explanation": "The Swachh Bharat Swachh Vidyalaya initiative prioritizes maintaining clean and healthy environments in schools, encompassing aspects like sanitation, hygiene education, and waste management, to ensure a safe and conducive learning atmosphere."
+  },
+  "46:Medium": {
+    "chunk_id": 46,
+    "book": "eeev103.pdf",
+    "page": 10,
+    "chapter": "eeev103.pdf - India",
+    "question_text": "What crucial elements are required for microbes to thrive and grow in food?",
+    "choices": [
+      "Sunlight, dryness, and warmth",
+      "Cool temperatures, salt, and sugar",
+      "Moisture, air, and the right temperature",
+      "Darkness, cold, and dryness"
+    ],
+    "answer_index": 2,
+    "answer_text": "Moisture, air, and the right temperature",
+    "source_excerpt": "Microbes need moisture, air and the right temperature to grow.",
+    "explanation": "Microbes need specific conditions to multiply, including sufficient moisture, access to air, and a suitable temperature range. Without these elements, their growth is inhibited."
+  },
+  "140:Medium": {
+    "chunk_id": 140,
+    "book": "eeev108.pdf",
+    "page": 11,
+    "chapter": "eeev108.pdf - Bandhani",
+    "question_text": "What is a loom used for in the context of cloth making?",
+    "choices": [
+      "Cutting fabric into specific shapes.",
+      "Traditional weaving by hand.",
+      "Dyeing fabric with vibrant colors.",
+      "Sewing buttons and zippers onto clothing."
+    ],
+    "answer_index": 1,
+    "answer_text": "Traditional weaving by hand.",
+    "source_excerpt": "Traditional weaving is done by hand on an instrument called loom.",
+    "explanation": "A loom is a device used in the traditional process of weaving cloth by hand, interweaving threads to create fabric."
+  },
+  "16:Medium": {
+    "chunk_id": 16,
+    "book": "eeev101.pdf",
+    "page": 17,
+    "chapter": "eeev101.pdf - Fish Fins",
+    "question_text": "What adaptation helps aquatic plants like lotus and water lilies survive in their environment?",
+    "choices": [
+      "Their ability to grow very tall to reach sunlight.",
+      "Flowers float on water, roots stay in the pond bed.",
+      "Their sharp thorns that protect them from predators.",
+      "Their colorful flowers that attract insects for pollination."
+    ],
+    "answer_index": 1,
+    "answer_text": "Flowers float on water, roots stay in the pond bed.",
+    "source_excerpt": "Lotus and Water Lily (Rooted Floating) Flowers float on water, roots stay in the pond bed.",
+    "explanation": "Lotus and water lilies are adapted to aquatic life by having flowers that float on the water surface to capture sunlight and roots that remain anchored in the pond bed for stability and nutrient absorption."
+  },
+  "132:Medium": {
+    "chunk_id": 132,
+    "book": "eeev108.pdf",
+    "page": 3,
+    "chapter": "eeev108.pdf - Indian",
+    "question_text": "What is a key advantage of handloom weaving?",
+    "choices": [
+      "It is faster and more efficient than machine weaving.",
+      "It can produce a greater variety of complex patterns.",
+      "It supports thousands of families and uses no electricity, making it eco-friendly and sustainable.",
+      "It requires less skill and training compared to other weaving methods."
+    ],
+    "answer_index": 2,
+    "answer_text": "It supports thousands of families and uses no electricity, making it eco-friendly and sustainable.",
+    "source_excerpt": "Handloom weaving supports thousands of families, and uses no electricity, making it eco-friendly and sustainable.",
+    "explanation": "Handloom weaving is eco-friendly because it doesn't rely on electricity and supports many families and jobs."
+  },
+  "22:Medium": {
+    "chunk_id": 22,
+    "book": "eeev102.pdf",
+    "page": 3,
+    "chapter": "eeev102.pdf - The Life I Hold",
+    "question_text": "Why is the Godavari River also known as Dakshina Ganga?",
+    "choices": [
+      "Because it is the longest river in India.",
+      "Because it flows through northern India and is regarded as sacred.",
+      "Because it flows through southern India and is regarded as sacred.",
+      "Because it originates in the Himalayas like the Ganga."
+    ],
+    "answer_index": 2,
+    "answer_text": "Because it flows through southern India and is regarded as sacred.",
+    "source_excerpt": "I am called Dakshina Ganga because I flow through southern India and am regarded as sacred.",
+    "explanation": "The Godavari River is called Dakshina Ganga because of its location in southern India and its religious significance, similar to the Ganga in the north."
+  },
+  "127:Medium": {
+    "chunk_id": 127,
+    "book": "eeev107.pdf",
+    "page": 17,
+    "chapter": "eeev107.pdf - For example:",
+    "question_text": "In the 'Energy Flow Game', what is the purpose of matching the 'Source of Energy' with a 'Type of Energy' and a 'Use'?",
+    "choices": [
+      "To confuse students about energy sources.",
+      "To demonstrate the complete energy chain.",
+      "To create competition among students.",
+      "To only identify sources of energy."
+    ],
+    "answer_index": 1,
+    "answer_text": "To demonstrate the complete energy chain.",
+    "source_excerpt": "Students should walk around the class trying to find the two others who complete their energy chain.",
+    "explanation": "Matching the 'Source of Energy', 'Type of Energy', and 'Use' together helps to show the complete pathway of energy, from its origin to its final application. This demonstrates how energy transforms and is utilized in different ways."
+  },
+  "27:Medium": {
+    "chunk_id": 27,
+    "book": "eeev102.pdf",
+    "page": 8,
+    "chapter": "eeev102.pdf - Discuss",
+    "question_text": "What is the primary environmental concern related to littering plastic wrappers and bags?",
+    "choices": [
+      "They decompose quickly and enrich the soil.",
+      "They provide food for fish, turtles, and birds.",
+      "They can end up in water bodies, harming aquatic life.",
+      "They are easily recycled by traditional recyclers."
+    ],
+    "answer_index": 2,
+    "answer_text": "They can end up in water bodies, harming aquatic life.",
+    "source_excerpt": "The fish, turtles, and birds that live in and around me have nowhere else to go. Slowly, they are beginning to disappear. This makes me very sad.",
+    "explanation": "Plastic waste that is littered often ends up in water bodies, posing a significant threat to aquatic ecosystems. Animals can ingest or become entangled in the plastic, leading to harm or even death."
+  },
+  "191:Medium": {
+    "chunk_id": 191,
+    "book": "eeev1ps.pdf",
+    "page": 8,
+    "chapter": "eeev1ps.pdf - Fundamental Rights",
+    "question_text": "Which of the following rights is guaranteed as a Fundamental Right in the Indian Constitution?",
+    "choices": [
+      "Right to own unlimited property.",
+      "Right to free and compulsory education for children between the age of six and fourteen years.",
+      "Right to bear arms without restriction.",
+      "Right to vote at the age of 16."
+    ],
+    "answer_index": 1,
+    "answer_text": "Right to free and compulsory education for children between the age of six and fourteen years.",
+    "source_excerpt": "Right to Freedom...of free and compulsory education for children between the age of six and fourteen years",
+    "explanation": "The Indian Constitution guarantees the right to free and compulsory education for children between the ages of 6 and 14. This ensures that all children have access to basic education, promoting literacy and empowerment."
+  },
+  "18:Medium": {
+    "chunk_id": 18,
+    "book": "eeev101.pdf",
+    "page": 19,
+    "chapter": "eeev101.pdf - Lily",
+    "question_text": "What specific feature of leaves helps plants minimize water absorption?",
+    "choices": [
+      "Bright colors",
+      "Waxy coating",
+      "Rough texture",
+      "Large size"
+    ],
+    "answer_index": 1,
+    "answer_text": "Waxy coating",
+    "source_excerpt": "The waxy coating on leaves make them waterproof and keeps too much water from getting inside the plant.",
+    "explanation": "A waxy coating on leaves acts as a waterproof barrier, preventing excessive water from entering the plant. This helps maintain the plant's health and prevents damage from over-absorption."
+  },
+  "178:Medium": {
+    "chunk_id": 178,
+    "book": "eeev110.pdf",
+    "page": 19,
+    "chapter": "eeev110.pdf - Activities",
+    "question_text": "Which of the following is most likely to be a theme observed and recorded in a seasonal journal?",
+    "choices": [
+      "Number of cars passing by",
+      "Political events",
+      "Changes in plant life",
+      "Stock market fluctuations"
+    ],
+    "answer_index": 2,
+    "answer_text": "Changes in plant life",
+    "source_excerpt": "The World Around Me: April – June Theme What I Observed Plant Life Birds and Animals Air, Heat and Light Water and Water Bodies Human Activities Nature as I Observed",
+    "explanation": "Seasonal journals are used to record observations of the natural world and human activities related to those changes, thus changes in plant life are very likely to be recorded."
+  },
+  "154:Medium": {
+    "chunk_id": 154,
+    "book": "eeev109.pdf",
+    "page": 11,
+    "chapter": "eeev109.pdf - Mawsynram",
+    "question_text": "What is the main concept emphasized regarding seasons?",
+    "choices": [
+      "They are random events.",
+      "They follow a repeating natural rhythm.",
+      "They are solely determined by human activities.",
+      "They only affect weather."
+    ],
+    "answer_index": 1,
+    "answer_text": "They follow a repeating natural rhythm.",
+    "source_excerpt": "These changes follow a pattern, a natural rhythm that repeats itself every year. This repeating pattern in nature is what we call seasons.",
+    "explanation": "Seasons are part of a repeating natural rhythm. The consistent pattern of weather changes and biological events that occur annually."
+  },
+  "110:Medium": {
+    "chunk_id": 110,
+    "book": "eeev106.pdf",
+    "page": 18,
+    "chapter": "eeev106.pdf - Indian",
+    "question_text": "What agricultural practice is Sikkim known for?",
+    "choices": [
+      "Extensive chemical farming",
+      "Being the first Indian organic state",
+      "Large-scale industrial agriculture",
+      "Focusing solely on genetically modified crops"
+    ],
+    "answer_index": 1,
+    "answer_text": "Being the first Indian organic state",
+    "source_excerpt": "Sikkim is the first Indian organic state, where people avoid any chemical farming.",
+    "explanation": "Sikkim is the first state in India to fully adopt organic farming practices. This means that chemical fertilizers and pesticides are avoided, promoting sustainable and environmentally friendly agriculture."
+  },
+  "134:Medium": {
+    "chunk_id": 134,
+    "book": "eeev108.pdf",
+    "page": 5,
+    "chapter": "eeev108.pdf - India",
+    "question_text": "What is the process of twisting cotton fibers together to make thread or yarn called?",
+    "choices": [
+      "Weaving",
+      "Spinning",
+      "Knitting",
+      "Felting"
+    ],
+    "answer_index": 1,
+    "answer_text": "Spinning",
+    "source_excerpt": "This process of twisting cotton fibres together to make thread or yarn is called spinning.",
+    "explanation": "Spinning is the technique used to create thread or yarn by twisting fibers together. This process interlocks the fibers, increasing their strength and creating a continuous strand suitable for weaving or knitting."
+  },
+  "23:Medium": {
+    "chunk_id": 23,
+    "book": "eeev102.pdf",
+    "page": 4,
+    "chapter": "eeev102.pdf - The Many Ways I Support Lives",
+    "question_text": "According to the text, what is one of the main reasons people have historically built homes near rivers or water bodies?",
+    "choices": [
+      "To be closer to mountains.",
+      "For easy access to transportation.",
+      "To have access to water for various uses.",
+      "To avoid wild animals."
+    ],
+    "answer_index": 2,
+    "answer_text": "To have access to water for various uses.",
+    "source_excerpt": "Since ancient times, people have always built their homes near rivers or water bodies. Can you guess why? Do you know the many ways I support people every single day? I provide water to people in the many towns and villages around me. The water for all houses, schools and fields comes from me.",
+    "explanation": "Throughout history, access to water has been essential for human survival and development. Water bodies provide water for drinking, cooking, agriculture, and various other uses, making them ideal locations for settlements."
+  },
+  "118:Medium": {
+    "chunk_id": 118,
+    "book": "eeev107.pdf",
+    "page": 8,
+    "chapter": "eeev107.pdf - Kerala",
+    "question_text": "What is the primary source of energy for animals, enabling them to move and perform activities?",
+    "choices": [
+      "Sunlight",
+      "Water",
+      "Food",
+      "Fuel"
+    ],
+    "answer_index": 2,
+    "answer_text": "Food",
+    "source_excerpt": "A dog running, a bird flying … just like us, animals also need energy to move, fly, swim, run, find food and protect themselves. But from where do they get this energy? They get it from food too.",
+    "explanation": "Animals, like humans, obtain energy from food. This energy is essential for various activities like movement, finding food, and self-protection."
+  },
+  "99:Medium": {
+    "chunk_id": 99,
+    "book": "eeev106.pdf",
+    "page": 7,
+    "chapter": "eeev106.pdf - Write",
+    "question_text": "What is the primary reason that mangroves are important to the Sunderbans?",
+    "choices": [
+      "They provide a source of timber for construction.",
+      "Their roots help stabilize the soil and prevent erosion.",
+      "They attract tourists to the region.",
+      "They are a habitat for rare bird species."
+    ],
+    "answer_index": 1,
+    "answer_text": "Their roots help stabilize the soil and prevent erosion.",
+    "source_excerpt": "Mangroves are important because their roots hold the soil together and help stop waves from washing the land away.",
+    "explanation": "Mangrove roots are crucial because they bind the soil, preventing waves from eroding the land. This is especially important in coastal areas like the Sunderbans, where land is vulnerable to water damage."
+  },
+  "145:Medium": {
+    "chunk_id": 145,
+    "book": "eeev109.pdf",
+    "page": 2,
+    "chapter": "eeev109.pdf - Our Amazing Planet",
+    "question_text": "According to the unit introduction, what is the main goal of teaching students about the Earth in 'Earth - Our Shared Home'?",
+    "choices": [
+      "To memorize the names of different countries and their capitals.",
+      "To learn about different types of rocks and minerals.",
+      "To understand the Earth as an interconnected system and foster a sense of global citizenship.",
+      "To study the history of different civilizations."
+    ],
+    "answer_index": 2,
+    "answer_text": "To understand the Earth as an interconnected system and foster a sense of global citizenship.",
+    "source_excerpt": "This chapter helps students see the Earth as a connected, living planet where people, animals, plants, and ideas travel, mix and grow together.",
+    "explanation": "The lesson aims to show how everything on Earth is connected and to encourage a feeling of responsibility towards our shared planet."
+  },
+  "76:Medium": {
+    "chunk_id": 76,
+    "book": "eeev105.pdf",
+    "page": 5,
+    "chapter": "eeev105.pdf - Rivers Mountain Ranges",
+    "question_text": "What is the significance of Republic Day in India?",
+    "choices": [
+      "It marks the day India gained independence from British rule.",
+      "It celebrates the adoption of the Indian Constitution.",
+      "It commemorates the birth of Mahatma Gandhi.",
+      "It is a day of remembrance for soldiers who fought in wars."
+    ],
+    "answer_index": 1,
+    "answer_text": "It celebrates the adoption of the Indian Constitution.",
+    "source_excerpt": "On 26 January 1950, we decided to follow this special book of rules called the Constitution. This is why, we celebrate 26 January as India’s Republic Day every year",
+    "explanation": "Republic Day is celebrated on January 26th each year because it marks the date when the Constitution of India came into effect in 1950, solidifying India's status as a republic."
+  },
+  "116:Medium": {
+    "chunk_id": 116,
+    "book": "eeev107.pdf",
+    "page": 6,
+    "chapter": "eeev107.pdf - Sun-powered Water Warmer",
+    "question_text": "What makes electricity generated from sources like wind and the sun 'clean energy'?",
+    "choices": [
+      "It is cheaper to produce.",
+      "It is more reliable than other sources of energy.",
+      "It does not pollute the planet with smoke or waste.",
+      "It can only be used in certain locations."
+    ],
+    "answer_index": 2,
+    "answer_text": "It does not pollute the planet with smoke or waste.",
+    "source_excerpt": "Electricity generated using natural sources of energy like wind, water or the Sun’s energy, does not pollute the planet with smoke or waste, and is called clean energy.",
+    "explanation": "Clean energy is defined by its lack of pollution; generating electricity from sources like wind, water and the sun does not produce harmful emissions or waste products."
+  },
+  "189:Medium": {
+    "chunk_id": 189,
+    "book": "eeev1ps.pdf",
+    "page": 6,
+    "chapter": "eeev1ps.pdf - Director",
+    "question_text": "What is the main purpose of integrating the Indian Knowledge System (IKS) into the textbook?",
+    "choices": [
+      "To promote rote learning of historical facts.",
+      "To encourage students to value indigenous practices and local knowledge.",
+      "To replace modern scientific concepts with traditional beliefs.",
+      "To isolate students from global perspectives."
+    ],
+    "answer_index": 1,
+    "answer_text": "To encourage students to value indigenous practices and local knowledge.",
+    "source_excerpt": "The Indian Knowledge System (IKS) is organically integrated, offering students a lens to value indigenous practices, local crafts, folklore, and the wisdom of communities.",
+    "explanation": "Integrating the Indian Knowledge System aims to help students appreciate and understand the value of traditional practices, local crafts, and the knowledge held within their communities."
+  },
+  "85:Medium": {
+    "chunk_id": 85,
+    "book": "eeev105.pdf",
+    "page": 14,
+    "chapter": "eeev105.pdf - Diversity Everywhere",
+    "question_text": "According to the text, how does diversity contribute to a country's strength?",
+    "choices": [
+      "It makes the country more attractive to tourists.",
+      "It allows the country to look after itself and become more self-sufficient.",
+      "It simplifies the process of governance.",
+      "It creates a uniform culture and identity."
+    ],
+    "answer_index": 1,
+    "answer_text": "It allows the country to look after itself and become more self-sufficient.",
+    "source_excerpt": "As found in a forest, diversity makes our country stronger and more self-sufficient.",
+    "explanation": "Diversity, like in a forest ecosystem, enables a country to be more resilient and self-reliant by providing a wider range of resources, skills, and perspectives."
+  },
+  "44:Medium": {
+    "chunk_id": 44,
+    "book": "eeev103.pdf",
+    "page": 8,
+    "chapter": "eeev103.pdf - Indian",
+    "question_text": "Why is oil added to pickles, according to Paati?",
+    "choices": [
+      "To improve the flavor.",
+      "To prevent the growth of microbes by keeping air out.",
+      "To add nutritional value.",
+      "To change the texture of the pickle."
+    ],
+    "answer_index": 1,
+    "answer_text": "To prevent the growth of microbes by keeping air out.",
+    "source_excerpt": "“Oil stops air from getting in”, Paati explained. “That keeps the pickles safe!”,",
+    "explanation": "Oil creates a barrier that prevents air from reaching the pickle, which in turn inhibits the growth of microorganisms that cause spoilage."
+  },
+  "114:Medium": {
+    "chunk_id": 114,
+    "book": "eeev107.pdf",
+    "page": 4,
+    "chapter": "eeev107.pdf - Indian",
+    "question_text": "What is the best definition of energy, based on the text provided?",
+    "choices": [
+      "A force that attracts objects to each other.",
+      "A type of matter that occupies space.",
+      "Something that makes things move, light up, produce sound, do work and change temperature.",
+      "The ability to store information."
+    ],
+    "answer_index": 2,
+    "answer_text": "Something that makes things move, light up, produce sound, do work and change temperature.",
+    "source_excerpt": "Energy is what makes things move, light up, produce sound, do work and change temperature.",
+    "explanation": "Energy is the capacity to cause change in a system, whether that's movement, light, sound, work, or temperature alteration."
+  },
+  "63:Medium": {
+    "chunk_id": 63,
+    "book": "eeev104.pdf",
+    "page": 10,
+    "chapter": "eeev104.pdf - Discuss",
+    "question_text": "What is the purpose of the Jal Shakti Abhiyan?",
+    "choices": [
+      "To build dams and reservoirs.",
+      "To clean polluted rivers.",
+      "To save and protect water by encouraging practices like planting trees and rainwater harvesting.",
+      "To promote industrial use of water."
+    ],
+    "answer_index": 2,
+    "answer_text": "To save and protect water by encouraging practices like planting trees and rainwater harvesting.",
+    "source_excerpt": "The Jal Shakti Abhiyan is a campaign to save and protect water. It encourages people to plant trees, catch rainwater and use water wisely.",
+    "explanation": "The Jal Shakti Abhiyan is focused on water conservation through methods like tree planting, rainwater collection, and promoting responsible water usage."
+  },
+  "13:Medium": {
+    "chunk_id": 13,
+    "book": "eeev101.pdf",
+    "page": 14,
+    "chapter": "eeev101.pdf - World",
+    "question_text": "Which of the following is NOT a characteristic that helps aquatic plants and animals survive?",
+    "choices": [
+      "Floating leaves",
+      "Fins",
+      "Long roots",
+      "Thick bark"
+    ],
+    "answer_index": 3,
+    "answer_text": "Thick bark",
+    "source_excerpt": "These living beings have special features — like floating leaves, fins, or long roots — that help them survive and grow in water.",
+    "explanation": "Aquatic plants and animals have developed unique adaptations like floating leaves, fins, and long roots to thrive in their watery environment. Thick bark is not typically associated with aquatic adaptations; instead, it is a feature primarily found in land plants for protection."
+  },
+  "72:Medium": {
+    "chunk_id": 72,
+    "book": "eeev105.pdf",
+    "page": 1,
+    "chapter": "eeev105.pdf - Incredible India",
+    "question_text": "What is 'Vasudhaiva Kutumbakam' best described as, according to the context?",
+    "choices": [
+      "A belief in the importance of individual achievement.",
+      "A belief in global interconnectedness and shared care.",
+      "A system of traditional Indian food preservation methods.",
+      "A practice of isolating communities for cultural preservation."
+    ],
+    "answer_index": 1,
+    "answer_text": "A belief in global interconnectedness and shared care.",
+    "source_excerpt": "The traditional Indian belief in ‘Vasudhaiva Kutumbakam’ care that binds us to our home.",
+    "explanation": "'Vasudhaiva Kutumbakam' is presented as a core Indian belief emphasizing the interconnectedness of the world and the importance of caring for our global home, promoting a sense of unity and shared responsibility."
+  },
+  "126:Medium": {
+    "chunk_id": 126,
+    "book": "eeev107.pdf",
+    "page": 16,
+    "chapter": "eeev107.pdf - Energy All Around Us",
+    "question_text": "According to the text, what is the primary source of energy for animals to perform activities like running and flying?",
+    "choices": [
+      "Sunlight",
+      "Water",
+      "Food",
+      "Electricity"
+    ],
+    "answer_index": 2,
+    "answer_text": "Food",
+    "source_excerpt": "They get it from food too. Food is a source of energy for all living things.",
+    "explanation": "The text states clearly that animals, like humans, obtain the energy they need for various activities from the food they consume. Food provides the necessary fuel for their bodies to function."
+  },
+  "74:Medium": {
+    "chunk_id": 74,
+    "book": "eeev105.pdf",
+    "page": 3,
+    "chapter": "eeev105.pdf - Our Vibrant Country",
+    "question_text": "According to the text, what does the white band in the Indian National Flag represent?",
+    "choices": [
+      "Strength and courage",
+      "Growth and prosperity",
+      "Peace and truth",
+      "Duty (dharma)"
+    ],
+    "answer_index": 2,
+    "answer_text": "Peace and truth",
+    "source_excerpt": "The white, middle band stands for peace and truth, with the blue Ashoka Chakra at the centre representing duty (dharma).",
+    "explanation": "The white band in the Indian National Flag symbolizes peace and truth, according to the text. Each color in the flag has a specific meaning, representing key values of the nation."
+  },
+  "119:Medium": {
+    "chunk_id": 119,
+    "book": "eeev107.pdf",
+    "page": 9,
+    "chapter": "eeev107.pdf - Understanding How Fuel Works",
+    "question_text": "Based on the text, what is a negative consequence of using wood or coal for cooking?",
+    "choices": [
+      "It is expensive.",
+      "It creates smoke and pollution.",
+      "It cooks food too quickly.",
+      "It is difficult to obtain."
+    ],
+    "answer_index": 2,
+    "answer_text": "It creates smoke and pollution.",
+    "source_excerpt": "But burning wood or coal creates smoke and pollution, so we must use it carefully.",
+    "explanation": "The text explicitly states that burning wood or coal releases smoke and pollutants into the air. This air pollution poses a risk to both human health and the environment, making it a significant drawback of using these fuels."
+  },
+  "153:Medium": {
+    "chunk_id": 153,
+    "book": "eeev109.pdf",
+    "page": 10,
+    "chapter": "eeev109.pdf - World",
+    "question_text": "In the context of tracking seasonal changes, what is the main goal of creating a classroom chart with observations?",
+    "choices": [
+      "To create individual journals for each student.",
+      "To bring all observations together to see a full picture.",
+      "To assign different themes to different groups of students.",
+      "To present creative posters about seasonal changes."
+    ],
+    "answer_index": 1,
+    "answer_text": "To bring all observations together to see a full picture.",
+    "source_excerpt": "This will help us bring all our observations on one chart so we can see the full picture!",
+    "explanation": "The classroom chart serves as a centralized visual aid to compile and display observations about seasonal changes. This allows students to analyze and understand the overall patterns and connections that occur throughout the year."
+  },
+  "12:Medium": {
+    "chunk_id": 12,
+    "book": "eeev101.pdf",
+    "page": 13,
+    "chapter": "eeev101.pdf - Museum",
+    "question_text": "What is the Luni river known for?",
+    "choices": [
+      "Being the longest river in India.",
+      "Draining into the Bay of Bengal.",
+      "Being the only major Indian river that does not drain into a sea.",
+      "Originating in the Western Ghats."
+    ],
+    "answer_index": 2,
+    "answer_text": "Being the only major Indian river that does not drain into a sea.",
+    "source_excerpt": "The Luni river, originating in the Aravalli Range in Rajasthan, is the only major Indian river that does not drain into a sea.",
+    "explanation": "The Luni river is unique because, unlike most major rivers in India, it does not flow into a sea. Instead, it terminates in the marshy lands of the Rann of Kutch."
+  },
+  "25:Medium": {
+    "chunk_id": 25,
+    "book": "eeev102.pdf",
+    "page": 6,
+    "chapter": "eeev102.pdf - Flow",
+    "question_text": "What is the primary purpose of dams according to the text?",
+    "choices": [
+      "To create scenic waterfalls.",
+      "To store water for use during dry seasons.",
+      "To provide habitats for aquatic animals.",
+      "To increase the speed of river flow."
+    ],
+    "answer_index": 1,
+    "answer_text": "To store water for use during dry seasons.",
+    "source_excerpt": "there are more than 900 dams that store my water so people can use it even during dry seasons, to drink, grow crops and make electricity.",
+    "explanation": "Dams are built to capture and store water, which can then be used for drinking, agriculture, and generating electricity, especially during times when rainfall is scarce."
+  },
+  "48:Medium": {
+    "chunk_id": 48,
+    "book": "eeev103.pdf",
+    "page": 12,
+    "chapter": "eeev103.pdf - Northeast",
+    "question_text": "According to Paati, what is the purpose of adding oil to pickles?",
+    "choices": [
+      "To add flavor.",
+      "To keep out air and stop the growth of microbes.",
+      "To make the pickles last for the entire year.",
+      "To change the color of the pickles."
+    ],
+    "answer_index": 1,
+    "answer_text": "To keep out air and stop the growth of microbes.",
+    "source_excerpt": "\"Oil stops air from getting in\", Paati explained. “That keeps the pickles safe!”",
+    "explanation": "Oil acts as a barrier to prevent air from reaching the pickles.  Since many microbes require air to grow, this helps preserve the food."
+  },
+  "11:Medium": {
+    "chunk_id": 11,
+    "book": "eeev101.pdf",
+    "page": 12,
+    "chapter": "eeev101.pdf - DDeesseerrtt",
+    "question_text": "What makes the Godavari River sacred, as per the text?",
+    "choices": [
+      "It flows through southern India.",
+      "It is home to many plants and animals.",
+      "The Bhupen Hazarika Setu is built over it.",
+      "It flows all year round."
+    ],
+    "answer_index": 0,
+    "answer_text": "It flows through southern India.",
+    "source_excerpt": "I am called Dakshina Ganga because I flow through southern India and am regarded as sacred.",
+    "explanation": "The Godavari River is referred to as Dakshina Ganga (Ganga of the South) and is considered sacred due to its location and cultural significance in southern India."
+  },
+  "70:Medium": {
+    "chunk_id": 70,
+    "book": "eeev104.pdf",
+    "page": 17,
+    "chapter": "eeev104.pdf - Choose any one of the following:",
+    "question_text": "What is the main idea behind creating a 'green school', according to Aasha?",
+    "choices": [
+      "Building a new school campus with more classrooms.",
+      "Managing waste, saving water, using electricity carefully, and planting trees.",
+      "Organizing more sports activities for students.",
+      "Introducing new subjects in the curriculum."
+    ],
+    "answer_index": 1,
+    "answer_text": "Managing waste, saving water, using electricity carefully, and planting trees.",
+    "source_excerpt": "green school is a school where we manage our waste, save water, use electricity carefully, and make the campus green by planting more trees and taking care of them",
+    "explanation": "A green school focuses on sustainable practices like waste management, water conservation, energy efficiency, and increasing green spaces to promote environmental awareness and responsibility."
+  },
+  "42:Medium": {
+    "chunk_id": 42,
+    "book": "eeev103.pdf",
+    "page": 6,
+    "chapter": "eeev103.pdf - India",
+    "question_text": "What are the three things microbes need to grow, according to Anna?",
+    "choices": [
+      "Sunlight, warmth, and sugar.",
+      "Moisture, air, and the right temperature.",
+      "Darkness, cold, and salt.",
+      "Soil, nutrients, and light."
+    ],
+    "answer_index": 1,
+    "answer_text": "Moisture, air, and the right temperature.",
+    "source_excerpt": "Microbes need moisture, air and the right temperature to grow.",
+    "explanation": "Microbes, like all living organisms, require certain conditions to thrive. Moisture, air, and a suitable temperature are key factors that support their growth and reproduction."
+  },
+  "41:Medium": {
+    "chunk_id": 41,
+    "book": "eeev103.pdf",
+    "page": 5,
+    "chapter": "eeev103.pdf - Write",
+    "question_text": "According to the text, what is a key characteristic of microbes?",
+    "choices": [
+      "They are visible to the naked eye.",
+      "They can only be found in soil.",
+      "Some microbes help in making curd and digesting food.",
+      "They are always harmful and cause diseases."
+    ],
+    "answer_index": 2,
+    "answer_text": "Some microbes help in making curd and digesting food.",
+    "source_excerpt": "Some microbes help us in making curd and digesting our food.",
+    "explanation": "While some microbes can spoil food, others are beneficial and play a role in processes like fermentation (making curd) and digestion."
+  },
+  "94:Medium": {
+    "chunk_id": 94,
+    "book": "eeev106.pdf",
+    "page": 2,
+    "chapter": "eeev106.pdf - India",
+    "question_text": "Where is the southernmost tip of India located, according to Shanti's findings?",
+    "choices": [
+      "Kanyakumari",
+      "Vijaya Puram",
+      "Andaman and Nicobar Islands",
+      "Kolkata"
+    ],
+    "answer_index": 2,
+    "answer_text": "Andaman and Nicobar Islands",
+    "source_excerpt": "Shanti found out from the map that Indira Point is the southernmost tip of India. It is a long chain of islands known as the Andaman and Nicobar Islands.",
+    "explanation": "Indira Point, located in the Andaman and Nicobar Islands, marks the southernmost point of India."
+  },
+  "170:Medium": {
+    "chunk_id": 170,
+    "book": "eeev110.pdf",
+    "page": 11,
+    "chapter": "eeev110.pdf - Arab",
+    "question_text": "According to the text, where did the marigold flower originate?",
+    "choices": [
+      "India",
+      "Brazil",
+      "Mexico",
+      "Cambodia"
+    ],
+    "answer_index": 2,
+    "answer_text": "Mexico",
+    "source_excerpt": "Did you know that the marigold flower is from Mexico?",
+    "explanation": "The marigold flower has its origins in Mexico, where it holds cultural significance during festivals."
+  },
+  "111:Medium": {
+    "chunk_id": 111,
+    "book": "eeev107.pdf",
+    "page": 1,
+    "chapter": "eeev107.pdf - Things Around Us",
+    "question_text": "According to the text, what is the primary goal of the 'Things Around Us' unit for students in preparatory stages?",
+    "choices": [
+      "To teach students advanced scientific theories.",
+      "To familiarize students with everyday materials, their uses, and sustainable practices.",
+      "To encourage students to become professional artisans.",
+      "To discourage the use of local materials in favor of modern alternatives."
+    ],
+    "answer_index": 1,
+    "answer_text": "To familiarize students with everyday materials, their uses, and sustainable practices.",
+    "source_excerpt": "This unit at the preparatory stage aims things with their own hands, they to familiarise students with various develop a deeper appreciation for the things around them — how things materials we use in everyday life, and work and how things are made.",
+    "explanation": "The unit aims to help students understand the materials they use daily, how things are made, and promotes appreciation for materials and sustainable practices like the 5 Rs (refuse, reduce, reuse, repurpose, recycle)."
+  },
+  "137:Medium": {
+    "chunk_id": 137,
+    "book": "eeev108.pdf",
+    "page": 8,
+    "chapter": "eeev108.pdf - World",
+    "question_text": "What is the primary skill demonstrated by the baya weaverbird mentioned in the text?",
+    "choices": [
+      "Hunting insects for food.",
+      "Building complex nests from grass by weaving.",
+      "Camouflaging themselves from predators.",
+      "Migrating long distances during winter."
+    ],
+    "answer_index": 1,
+    "answer_text": "Building complex nests from grass by weaving.",
+    "source_excerpt": "The male baya weaver is a weaverbird, who builds beautiful hanging nests from grass. They weave the strands over and under to make the nest strong.",
+    "explanation": "The baya weaverbird is known for its intricate nest-building skills, weaving strands of grass together to create a strong, pouch-like structure hanging from tree branches."
+  },
+  "36:Medium": {
+    "chunk_id": 36,
+    "book": "eeev102.pdf",
+    "page": 17,
+    "chapter": "eeev102.pdf - Ganges",
+    "question_text": "According to the text, what is one way rivers support ecosystems, people, and culture?",
+    "choices": [
+      "By providing a source of entertainment through recreational activities.",
+      "By promoting trade between different countries.",
+      "By supporting ecosystems, providing water, and influencing cultural practices.",
+      "By serving as a barrier against invaders."
+    ],
+    "answer_index": 2,
+    "answer_text": "By supporting ecosystems, providing water, and influencing cultural practices.",
+    "source_excerpt": "Help students list different ways rivers support ecosystems, people and culture.",
+    "explanation": "Rivers are fundamental to supporting life. They provide water for drinking and agriculture, sustain various ecosystems, and often hold cultural significance for communities."
+  },
+  "24:Medium": {
+    "chunk_id": 24,
+    "book": "eeev102.pdf",
+    "page": 5,
+    "chapter": "eeev102.pdf - India",
+    "question_text": "According to the text, where does the river Godavari begin its journey?",
+    "choices": [
+      "The Himalayas",
+      "Trimbakeshwar in Maharashtra",
+      "The Bay of Bengal",
+      "The Thar Desert"
+    ],
+    "answer_index": 1,
+    "answer_text": "Trimbakeshwar in Maharashtra",
+    "source_excerpt": "My journey begins high up in the Western Ghats at Trimbakeshwar in Maharashtra.",
+    "explanation": "The Godavari River originates in the Western Ghats, specifically at Trimbakeshwar in the state of Maharashtra, India."
+  },
+  "144:Medium": {
+    "chunk_id": 144,
+    "book": "eeev109.pdf",
+    "page": 1,
+    "chapter": "eeev109.pdf - Our Amazing Planet",
+    "question_text": "What is the main focus of the 'Earth: Our Shared Home' chapter in Unit 5?",
+    "choices": [
+      "Understanding the solar system and its planets.",
+      "Exploring the interconnectedness of Earth's inhabitants and fostering a sense of global belonging.",
+      "Studying the geological formations of different continents.",
+      "Analyzing the economic systems of various countries."
+    ],
+    "answer_index": 1,
+    "answer_text": "Exploring the interconnectedness of Earth's inhabitants and fostering a sense of global belonging.",
+    "source_excerpt": "This chapter helps students see the Earth ground, garden, or nearby as a connected, living planet where people, animals, plants, and ideas travel, mix and grow together.",
+    "explanation": "The chapter aims to teach students that Earth is a connected planet where people, animals, plants, and ideas are intertwined, promoting a sense of belonging and shared responsibility."
+  },
+  "157:Medium": {
+    "chunk_id": 157,
+    "book": "eeev109.pdf",
+    "page": 14,
+    "chapter": "eeev109.pdf - Rongali Bihu",
+    "question_text": "What natural occurrence is associated with ants carrying eggs to higher ground, according to the text?",
+    "choices": [
+      "The start of winter.",
+      "A sign that rain is coming soon.",
+      "The beginning of the harvest season.",
+      "An increase in predator activity."
+    ],
+    "answer_index": 1,
+    "answer_text": "A sign that rain is coming soon.",
+    "source_excerpt": "When you see ants carrying eggs to higher ground, it is a natural sign that rain is coming soon.",
+    "explanation": "Ants are known to carry their eggs to higher ground to protect them from flooding, which is a sign that rain is imminent."
+  },
+  "90:Medium": {
+    "chunk_id": 90,
+    "book": "eeev105.pdf",
+    "page": 19,
+    "chapter": "eeev105.pdf - Constitution",
+    "question_text": "What is the symbol of the 'Swachh Bharat Abhiyan' (Clean India Mission) based on?",
+    "choices": [
+      "The Indian National Flag",
+      "The spectacles of Mahatma Gandhi",
+      "A map of India",
+      "A lotus flower"
+    ],
+    "answer_index": 1,
+    "answer_text": "The spectacles of Mahatma Gandhi",
+    "source_excerpt": "These spectacles are the symbol of a nationwide mission called ‘Swachh Bharat Abhiyan’ (Clean India Mission). The symbol is based on the spectacles of Gandhi ji.",
+    "explanation": "The symbol of the Swachh Bharat Abhiyan, a cleanliness campaign in India, is based on the spectacles of Mahatma Gandhi, symbolizing his commitment to cleanliness."
+  },
+  "21:Medium": {
+    "chunk_id": 21,
+    "book": "eeev102.pdf",
+    "page": 2,
+    "chapter": "eeev102.pdf - Andhra Pradesh",
+    "question_text": "According to the provided text and image, which of the following wildlife sanctuaries is located along the Godavari River?",
+    "choices": [
+      "Kawal Tiger Reserve",
+      "Pench National Park",
+      "Coringa Wildlife Sanctuary",
+      "Bandipur National Park"
+    ],
+    "answer_index": 2,
+    "answer_text": "Coringa Wildlife Sanctuary",
+    "source_excerpt": "Coringa Wildlife Sanctuary Andhra Pradesh",
+    "explanation": "Based on the image and text provided, Coringa Wildlife Sanctuary is located along the Godavari River in Andhra Pradesh."
+  },
+  "193:Medium": {
+    "chunk_id": 193,
+    "book": "eeev1ps.pdf",
+    "page": 10,
+    "chapter": "eeev1ps.pdf - Fundamental Duties",
+    "question_text": "According to the Fundamental Duties listed in the Constitution of India, what is the duty of every citizen regarding the natural environment?",
+    "choices": [
+      "To exploit natural resources for economic growth.",
+      "To protect and improve the natural environment, including forests, lakes, rivers, and wildlife.",
+      "To prioritize industrial development over environmental concerns.",
+      "To remain neutral on environmental issues."
+    ],
+    "answer_index": 1,
+    "answer_text": "To protect and improve the natural environment, including forests, lakes, rivers, and wildlife.",
+    "source_excerpt": "(g) to protect and improve the natural environment including forests, lakes, rivers, and wildlife, and to have compassion for living creatures;",
+    "explanation": "The Constitution of India mandates that every citizen has a duty to protect and improve the natural environment, showing compassion for living creatures."
+  },
+  "161:Medium": {
+    "chunk_id": 161,
+    "book": "eeev110.pdf",
+    "page": 2,
+    "chapter": "eeev110.pdf - 2. Use a globe and find out:",
+    "question_text": "According to the text, what covers about three-fourths of the Earth's surface?",
+    "choices": [
+      "Land masses",
+      "Deserts",
+      "Seas and oceans",
+      "Forests"
+    ],
+    "answer_index": 2,
+    "answer_text": "Seas and oceans",
+    "source_excerpt": "The blue part of the globe are the seas and oceans; they cover about three-fourth part of the Earth.",
+    "explanation": "The Earth's surface is predominantly covered by water, with seas and oceans occupying approximately three-fourths of the planet."
+  },
+  "156:Medium": {
+    "chunk_id": 156,
+    "book": "eeev109.pdf",
+    "page": 13,
+    "chapter": "eeev109.pdf - When",
+    "question_text": "Based on the text, what happens to snakes during the monsoon season?",
+    "choices": [
+      "They hibernate to conserve energy.",
+      "They come out of flooded burrows.",
+      "They migrate to cooler regions.",
+      "They build nests in trees to stay dry."
+    ],
+    "answer_index": 1,
+    "answer_text": "They come out of flooded burrows.",
+    "source_excerpt": "gaN yhw si siht—sworrub dedoofl fo tuo emoc sekans ,noosnom eht gniruD",
+    "explanation": "The text specifically states that snakes emerge from flooded burrows during the monsoon season. This is likely due to their habitats becoming waterlogged."
+  },
+  "113:Medium": {
+    "chunk_id": 113,
+    "book": "eeev107.pdf",
+    "page": 3,
+    "chapter": "eeev107.pdf - I Observe I Wonder",
+    "question_text": "According to the text, what is one way people in some regions of Himachal Pradesh, Uttarakhand, and Ladakh stay warm during winter?",
+    "choices": [
+      "Using special insulating paints on the walls.",
+      "Burning dried leaves and grass indoors.",
+      "Keeping cattle on the ground floor of their houses.",
+      "Wearing multiple layers of woolen clothing at all times."
+    ],
+    "answer_index": 2,
+    "answer_text": "Keeping cattle on the ground floor of their houses.",
+    "source_excerpt": "In some places of Himachal Pradesh, Uttarakhand and Ladakh, people often keep their cattle on the ground floor of their houses, while the family lives on the floor above. The heat from the animals helps keep the rooms warm during the winter.",
+    "explanation": "The passage explicitly mentions that people in these regions keep their cattle on the ground floor to utilize the animals' body heat for warmth during the winter. This reduces reliance on firewood or electricity."
+  },
+  "155:Medium": {
+    "chunk_id": 155,
+    "book": "eeev109.pdf",
+    "page": 12,
+    "chapter": "eeev109.pdf - Seasons",
+    "question_text": "According to the text, how many seasons are generally experienced in India?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "answer_index": 3,
+    "answer_text": "Six",
+    "source_excerpt": "In India, we experience six seasons based on how nature changes in every few months.",
+    "explanation": "The text clearly states that India experiences six seasons, which are determined by the changing patterns of nature throughout the year."
+  },
+  "78:Medium": {
+    "chunk_id": 78,
+    "book": "eeev105.pdf",
+    "page": 7,
+    "chapter": "eeev105.pdf - India",
+    "question_text": "According to the text, what is the significance of January 26th in India?",
+    "choices": [
+      "Independence Day",
+      "Gandhi Jayanti",
+      "Republic Day",
+      "Teacher's Day"
+    ],
+    "answer_index": 2,
+    "answer_text": "Republic Day",
+    "source_excerpt": "On 26 January 1950, we decided to follow this special book of rules called the Constitution. This is why, we celebrate 26 January as India’s Republic Day every year",
+    "explanation": "The text explains that Republic Day is celebrated on January 26th because it was the day India decided to follow the Constitution, a special book of rules for the country."
+  },
+  "81:Medium": {
+    "chunk_id": 81,
+    "book": "eeev105.pdf",
+    "page": 10,
+    "chapter": "eeev105.pdf - World",
+    "question_text": "According to the text, what do the three lions in the National Emblem of India represent?",
+    "choices": [
+      "Peace, Harmony and Prosperity",
+      "Strength, Courage, and Confidence",
+      "Unity, Faith and Discipline",
+      "Sacrifice, Patriotism and Valour"
+    ],
+    "answer_index": 1,
+    "answer_text": "Strength, Courage, and Confidence",
+    "source_excerpt": "This is the National Emblem of India, which represents strength, courage and confidence.",
+    "explanation": "The text explicitly mentions that the National Emblem of India, featuring three lions, symbolizes strength, courage, and confidence."
+  },
+  "83:Medium": {
+    "chunk_id": 83,
+    "book": "eeev105.pdf",
+    "page": 12,
+    "chapter": "eeev105.pdf - Our Vibrant Culture",
+    "question_text": "Which of the following activities would best promote understanding of India's linguistic diversity among students?",
+    "choices": [
+      "Memorizing the names of all Indian states and their capitals.",
+      "Creating a presentation on the history of the Hindi language.",
+      "Finding out the different languages spoken by students in the class and learning a common word in each language.",
+      "Reading textbooks written only in English."
+    ],
+    "answer_index": 2,
+    "answer_text": "Finding out the different languages spoken by students in the class and learning a common word in each language.",
+    "source_excerpt": "Find out about the languages spoken by students in your class and name them. Pick a specific word (for example, mango) and have fun learning what it is called in different languages.",
+    "explanation": "Learning to say a word like 'mango' in the different languages spoken in the class directly highlights the diversity of languages present within India. It makes the abstract concept of multilingualism more tangible and personal for the students."
+  },
+  "143:Medium": {
+    "chunk_id": 143,
+    "book": "eeev108.pdf",
+    "page": 14,
+    "chapter": "eeev108.pdf - Cloth Shiny Stretchy",
+    "question_text": "What primary action do weaverbirds perform to construct their nests?",
+    "choices": [
+      "Poking holes in leaves.",
+      "Secretion of sticky sap.",
+      "Weaving strands of grass over and under.",
+      "Using saliva to glue twigs."
+    ],
+    "answer_index": 2,
+    "answer_text": "Weaving strands of grass over and under.",
+    "source_excerpt": "They weave the strands over and under to make the nest strong.",
+    "explanation": "Weaverbirds use the technique of weaving strands of grass to create the structure of their nests. This involves interlacing the grass in an alternating pattern to provide strength and stability."
+  },
+  "37:Medium": {
+    "chunk_id": 37,
+    "book": "eeev103.pdf",
+    "page": 1,
+    "chapter": "eeev103.pdf - Unknown Chapter",
+    "question_text": "What is the primary focus of the Grade 5 unit on 'Incredible India'?",
+    "choices": [
+      "Learning about different types of food preservation.",
+      "Exploring the diverse features of Indian society and its interconnectedness.",
+      "Understanding the basics of waste management and water conservation.",
+      "Studying the impact of technology on modern India."
+    ],
+    "answer_index": 1,
+    "answer_text": "Exploring the diverse features of Indian society and its interconnectedness.",
+    "source_excerpt": "In Grade 5, it introduces them to the different features of the larger society and explores the country with its unique beauty and rich diversity.",
+    "explanation": "The Grade 5 unit focuses on introducing students to the broader Indian society, its unique characteristics, diversity, and how various aspects of the country are interconnected, including nature, culture, and daily life."
+  },
+  "8:Medium": {
+    "chunk_id": 8,
+    "book": "eeev101.pdf",
+    "page": 9,
+    "chapter": "eeev101.pdf - Groundwater",
+    "question_text": "Which of the following best describes groundwater recharge?",
+    "choices": [
+      "The process of building concrete roads to channel rainwater.",
+      "The storage of water in overhead tanks for later use.",
+      "The process of rainwater seeping into the ground and replenishing underground water sources.",
+      "The process of diverting river water to agricultural fields."
+    ],
+    "answer_index": 2,
+    "answer_text": "The process of rainwater seeping into the ground and replenishing underground water sources.",
+    "source_excerpt": "The water that gets stored deep underground is called groundwater.",
+    "explanation": "Groundwater recharge occurs when surface water, typically rainwater, infiltrates the soil and permeates into underground aquifers, thus replenishing the groundwater supply."
+  },
+  "139:Medium": {
+    "chunk_id": 139,
+    "book": "eeev108.pdf",
+    "page": 10,
+    "chapter": "eeev108.pdf - Stitching Clothes Together",
+    "question_text": "In the context of stitching and embroidery, what is a key characteristic of traditional Indian embroideries?",
+    "choices": [
+      "They primarily use synthetic threads.",
+      "Each stitch can tell a story about a place, people, and their tradition.",
+      "They are only used to join pieces of cloth together.",
+      "They all originated in Lucknow, Uttar Pradesh."
+    ],
+    "answer_index": 1,
+    "answer_text": "Each stitch can tell a story about a place, people, and their tradition.",
+    "source_excerpt": "Each stitch tells us a story of a place, people and their tradition.",
+    "explanation": "Traditional Indian embroideries are not just about joining fabric; they often carry cultural significance. The techniques and patterns used in different regions can tell stories about the local traditions, people, and history of the area."
+  },
+  "150:Medium": {
+    "chunk_id": 150,
+    "book": "eeev109.pdf",
+    "page": 7,
+    "chapter": "eeev109.pdf - That",
+    "question_text": "According to the text, what proportion of Earth's surface is covered by seas and oceans?",
+    "choices": [
+      "One-fourth",
+      "One-half",
+      "Three-fourth",
+      "The entire surface"
+    ],
+    "answer_index": 2,
+    "answer_text": "Three-fourth",
+    "source_excerpt": "The blue part of the globe are the seas and oceans; they cover about three-fourth part of the Earth.",
+    "explanation": "The Earth's surface is predominantly covered by water bodies, specifically seas and oceans. The text explicitly states that they cover approximately three-fourths of the planet."
+  },
+  "3:Medium": {
+    "chunk_id": 3,
+    "book": "eeev101.pdf",
+    "page": 4,
+    "chapter": "eeev101.pdf - Discuss",
+    "question_text": "What is the primary reason that the majority of water on Earth is not suitable for drinking or farming?",
+    "choices": [
+      "It is polluted with industrial waste.",
+      "It is primarily located in glaciers and ice caps.",
+      "It is too salty.",
+      "It is difficult to access."
+    ],
+    "answer_index": 2,
+    "answer_text": "It is too salty.",
+    "source_excerpt": "Although most of the Earth’s surface is covered with water, the majority of it is salty, leaving less amount of freshwater.",
+    "explanation": "The text mentions that most of the Earth's water is salty, making it unsuitable for drinking or agriculture. While pollution and accessibility are concerns, salinity is the primary limiting factor for the majority of the planet's water."
+  },
+  "71:Medium": {
+    "chunk_id": 71,
+    "book": "eeev104.pdf",
+    "page": 18,
+    "chapter": "eeev104.pdf - After each role-play, ask the class:",
+    "question_text": "What is the central theme of making a school a 'happy place,' according to the provided text?",
+    "choices": [
+      "Enforcing strict rules and discipline.",
+      "Providing advanced technology and resources.",
+      "Promoting kindness, cleanliness, and care for the environment and people.",
+      "Focusing solely on academic achievements."
+    ],
+    "answer_index": 2,
+    "answer_text": "Promoting kindness, cleanliness, and care for the environment and people.",
+    "source_excerpt": "When we are kind and polite, everyone feels happy. We have explored many ways to make our school a happy place by saving water, managing waste, keeping it cool, and caring for plants, places and the people around us.",
+    "explanation": "Creating a happy school environment revolves around being kind and respectful to others, maintaining a clean and organized space, and taking care of the surrounding environment. This holistic approach fosters a positive and supportive atmosphere for everyone."
+  },
+  "168:Medium": {
+    "chunk_id": 168,
+    "book": "eeev110.pdf",
+    "page": 9,
+    "chapter": "eeev110.pdf - Before",
+    "question_text": "What is highlighted about the journey of food items like chillies and sugar between different parts of the world?",
+    "choices": [
+      "They demonstrate how disconnected different cultures are.",
+      "They show how specific foods are only suitable for certain climates.",
+      "They illustrate the interconnectedness of cultures through trade and travel.",
+      "They emphasize the importance of locally sourced ingredients."
+    ],
+    "answer_index": 2,
+    "answer_text": "They illustrate the interconnectedness of cultures through trade and travel.",
+    "source_excerpt": "This shows us how deeply we are all connected.",
+    "explanation": "The exchange of food items between regions demonstrates how interconnected cultures have become through trade, travel, and the sharing of knowledge and resources. This exchange highlights the blending and evolution of culinary traditions worldwide."
+  },
+  "80:Easy": {
+    "chunk_id": 80,
+    "book": "eeev105.pdf",
+    "page": 9,
+    "chapter": "eeev105.pdf - India",
+    "question_text": "What is the symbol based on the spectacles of Gandhi Ji called?",
+    "choices": [
+      "Swachh Bharat Abhiyan",
+      "Digital India Mission",
+      "Make in India",
+      "Atal Innovation Mission"
+    ],
+    "answer_index": 0,
+    "answer_text": "Swachh Bharat Abhiyan",
+    "source_excerpt": "These spectacles are the symbol of a nationwide mission called ‘Swachh Bharat Abhiyan’ (Clean India Mission). The symbol is based on the spectacles of Gandhi ji.",
+    "explanation": "The Swachh Bharat Abhiyan (Clean India Mission) uses Gandhi Ji's spectacles as its symbol to promote cleanliness throughout the country."
+  },
+  "3:Easy": {
+    "chunk_id": 3,
+    "book": "eeev101.pdf",
+    "page": 4,
+    "chapter": "eeev101.pdf - Discuss",
+    "question_text": "What percentage of the Earth's water is freshwater?",
+    "choices": [
+      "A large majority",
+      "About half",
+      "A very small amount",
+      "The passage doesn't say"
+    ],
+    "answer_index": 2,
+    "answer_text": "A very small amount",
+    "source_excerpt": "Although most of the Earth’s surface is covered with water, the majority of it is salty, leaving less amount of freshwater.",
+    "explanation": "Most of the water on Earth is saltwater, leaving only a tiny amount of freshwater available for drinking and other essential uses."
+  },
+  "150:Easy": {
+    "chunk_id": 150,
+    "book": "eeev109.pdf",
+    "page": 7,
+    "chapter": "eeev109.pdf - That",
+    "question_text": "Which part of the globe represents the seas and oceans?",
+    "choices": [
+      "The green part",
+      "The blue part",
+      "The brown part",
+      "The white part"
+    ],
+    "answer_index": 1,
+    "answer_text": "The blue part",
+    "source_excerpt": "The blue part of the globe are the seas and oceans; they cover about three-fourth part of the Earth.",
+    "explanation": "On a globe, blue is used to represent water bodies such as seas and oceans, covering about three-quarters of the Earth's surface."
+  },
+  "160:Easy": {
+    "chunk_id": 160,
+    "book": "eeev110.pdf",
+    "page": 1,
+    "chapter": "eeev110.pdf - Wing Commander",
+    "question_text": "What makes Earth a special planet?",
+    "choices": [
+      "It has many moons.",
+      "It is the largest planet.",
+      "It is the only planet known to have life.",
+      "It has rings like Saturn."
+    ],
+    "answer_index": 2,
+    "answer_text": "It is the only planet known to have life.",
+    "source_excerpt": "Earth is truly special. It is the only planet we know that has life!",
+    "explanation": "As far as we know, Earth is unique because it's the only planet where life exists."
+  },
+  "106:Easy": {
+    "chunk_id": 106,
+    "book": "eeev106.pdf",
+    "page": 14,
+    "chapter": "eeev106.pdf - Chandrayaan-3",
+    "question_text": "What are the students in the Western Ghats doing?",
+    "choices": [
+      "Protecting Hargila Birds",
+      "Recording types of mangoes",
+      "Building temples",
+      "Planting new forests"
+    ],
+    "answer_index": 1,
+    "answer_text": "Recording types of mangoes",
+    "source_excerpt": "These students are part of a survey. With help from schools, farmers and experts, we found and recorded over 200 types of mangoes in the Western Ghats!",
+    "explanation": "Students, along with researchers, are surveying the Western Ghats to document the different varieties of mangoes grown in the region."
+  },
+  "84:Easy": {
+    "chunk_id": 84,
+    "book": "eeev105.pdf",
+    "page": 13,
+    "chapter": "eeev105.pdf - Modi",
+    "question_text": "What is the name of the world's largest cricket stadium, located in Gujarat?",
+    "choices": [
+      "Eden Gardens",
+      "Melbourne Cricket Ground",
+      "Narendra Modi stadium",
+      "Wankhede Stadium"
+    ],
+    "answer_index": 2,
+    "answer_text": "Narendra Modi stadium",
+    "source_excerpt": "The world’s largest cricket stadium is the Narendra Modi stadium in Gujarat with a capacity of 1,32,000 spectators.",
+    "explanation": "The Narendra Modi stadium in Gujarat is currently the biggest cricket stadium in the world, capable of holding a large number of spectators."
+  },
+  "121:Easy": {
+    "chunk_id": 121,
+    "book": "eeev107.pdf",
+    "page": 11,
+    "chapter": "eeev107.pdf - World",
+    "question_text": "What does energy efficiency mean?",
+    "choices": [
+      "Using more energy to do the same work.",
+      "Using less energy to do the same work.",
+      "Wasting energy.",
+      "Not using energy at all."
+    ],
+    "answer_index": 1,
+    "answer_text": "Using less energy to do the same work.",
+    "source_excerpt": "Energy efficiency means using less energy to do the same work. This helps save resources and reduce waste.",
+    "explanation": "Energy efficiency is about minimizing the amount of energy needed to perform a task, which helps conserve resources and reduce waste."
+  },
+  "28:Easy": {
+    "chunk_id": 28,
+    "book": "eeev102.pdf",
+    "page": 9,
+    "chapter": "eeev102.pdf - few things that:",
+    "question_text": "What is one way to reduce waste?",
+    "choices": [
+      "Buying more things",
+      "Using only what we need",
+      "Throwing away useful items",
+      "Creating more plastic"
+    ],
+    "answer_index": 1,
+    "answer_text": "Using only what we need",
+    "source_excerpt": "We can reduce waste by using only what we need, reusing things and not throwing away useful items.",
+    "explanation": "Reducing waste can be achieved by consuming only what is necessary, reusing items, and avoiding the disposal of things that are still useful."
+  },
+  "194:Easy": {
+    "chunk_id": 194,
+    "book": "eeev1ps.pdf",
+    "page": 11,
+    "chapter": "eeev1ps.pdf - Ahmedabad",
+    "question_text": "Which organization is acknowledged for overseeing the translation of the National Curriculum Framework for School Education perspectives into the textbook?",
+    "choices": [
+      "The National Council of Educational Research and Training (NCERT)",
+      "The Centre for Environment Education (CEE)",
+      "The National Syllabus and Teaching-Learning Material Development Committee",
+      "Azim Premji University"
+    ],
+    "answer_index": 0,
+    "answer_text": "The National Council of Educational Research and Training (NCERT)",
+    "source_excerpt": "The National Council of Educational Research and Training (NCERT) acknowledges the guidance and support of the esteemed Chairperson, and members of the National Curriculum Framework Oversight Committee for their invaluable contributions in overseeing the translation of National Curriculum Framework for School Education (NCF-SE) perspectives into the textbook.",
+    "explanation": "The NCERT is specifically mentioned as the organization that oversaw the translation of the NCF-SE perspectives into the textbook."
+  },
+  "186:Easy": {
+    "chunk_id": 186,
+    "book": "eeev1ps.pdf",
+    "page": 3,
+    "chapter": "eeev1ps.pdf - Foreword",
+    "question_text": "What is the new subject area introduced at the preparatory stage of school education according to the National Curriculum Framework for School Education (NCF-SE) 2023?",
+    "choices": [
+      "Basic Science",
+      "Social Sciences",
+      "The World Around Us",
+      "Art Education"
+    ],
+    "answer_index": 2,
+    "answer_text": "The World Around Us",
+    "source_excerpt": "Adhering to the recommendations of the National Curriculum Framework for School Education (NCF-SE) 2023, brought out, as a follow-up to the NEP 2020, a new subject area called ‘The World Around Us’ at the preparatory stage is introduced.",
+    "explanation": "The text explicitly states that 'The World Around Us' is the new subject area introduced at the preparatory stage according to the NCF-SE 2023."
+  },
+  "38:Easy": {
+    "chunk_id": 38,
+    "book": "eeev103.pdf",
+    "page": 2,
+    "chapter": "eeev103.pdf - Unknown Chapter",
+    "question_text": "What does Unit 2 primarily focus on?",
+    "choices": [
+      "The history of different cultures.",
+      "Health, well-being, and food.",
+      "Advanced mathematical concepts.",
+      "Space Exploration"
+    ],
+    "answer_index": 1,
+    "answer_text": "Health, well-being, and food.",
+    "source_excerpt": "This unit at the preparatory stage and explore various traditional Indian familiarises students with different methods of food preservation. They types of food, importance of balanced learn about the role of good microbes food, healthcare, and maintaining good and cultural practices that help keep health with regular exercise and rest.",
+    "explanation": "The unit is about familiarizing students with different types of food, the importance of a balanced diet, healthcare practices, and maintaining good health through exercise and rest."
+  },
+  "100:Easy": {
+    "chunk_id": 100,
+    "book": "eeev106.pdf",
+    "page": 8,
+    "chapter": "eeev106.pdf - Kerala",
+    "question_text": "What makes up Northeast India, according to the text?",
+    "choices": [
+      "The Seven Sisters states only",
+      "The state of Sikkim only",
+      "The Seven Sisters states along with the state of Kerala",
+      "The Seven Sisters states along with the state of Sikkim"
+    ],
+    "answer_index": 3,
+    "answer_text": "The Seven Sisters states along with the state of Sikkim",
+    "source_excerpt": "“Did you know that the seven states called the ‘Seven Sisters’, along with the state of Sikkim, makes up what we call the Northeast India?”, Appa asked.",
+    "explanation": "The text mentions that the seven states called the 'Seven Sisters', along with the state of Sikkim, make up Northeast India."
+  },
+  "25:Easy": {
+    "chunk_id": 25,
+    "book": "eeev102.pdf",
+    "page": 6,
+    "chapter": "eeev102.pdf - Flow",
+    "question_text": "What can happen when there is too much rain and a river expands?",
+    "choices": [
+      "The river becomes cleaner and safer.",
+      "The river's water can be stored for future use.",
+      "The river can flood, causing damage and destruction.",
+      "The river's flow becomes gentler and slower."
+    ],
+    "answer_index": 2,
+    "answer_text": "The river can flood, causing damage and destruction.",
+    "source_excerpt": "When there is too much rain, I expand and become faster, deeper and bigger. I roar through the land, faster and wilder than anyone can imagine. This is when I cannot help overflowing my banks and flooding large areas. When too much rain falls, all the water rushes into me and my expanding waters flood houses, fields and roads causing great damage, and destruction.",
+    "explanation": "When there is excessive rainfall, rivers can overflow and cause flooding, resulting in damage to homes, fields, roads, and the displacement of people and animals."
+  },
+  "123:Easy": {
+    "chunk_id": 123,
+    "book": "eeev107.pdf",
+    "page": 13,
+    "chapter": "eeev107.pdf - Water Wheel",
+    "question_text": "What happens when air rushes out of a balloon?",
+    "choices": [
+      "It makes the balloon colder.",
+      "It pushes the balloon forward.",
+      "It makes the balloon float.",
+      "It changes the color of the balloon."
+    ],
+    "answer_index": 1,
+    "answer_text": "It pushes the balloon forward.",
+    "source_excerpt": "When air rushes out of the balloon, it pushes the balloon forward. This is how the movement of air generates energy.",
+    "explanation": "The text clearly states that the movement of air rushing out of the balloon generates energy, propelling the balloon forward."
+  },
+  "182:Easy": {
+    "chunk_id": 182,
+    "book": "eeev110.pdf",
+    "page": 23,
+    "chapter": "eeev110.pdf - Activities",
+    "question_text": "Which of the following is the title of the textbook?",
+    "choices": [
+      "Season Journal",
+      "Notes",
+      "The World is Round",
+      "Our Wondrous World"
+    ],
+    "answer_index": 3,
+    "answer_text": "Our Wondrous World",
+    "source_excerpt": "OOuurr WWoonnddrroouuss WWoorrlldd Textbook for Grade 5 The World Around Us",
+    "explanation": "The excerpt clearly states that the textbook title is 'Our Wondrous World'."
+  },
+  "70:Easy": {
+    "chunk_id": 70,
+    "book": "eeev104.pdf",
+    "page": 17,
+    "chapter": "eeev104.pdf - Choose any one of the following:",
+    "question_text": "According to the text, what makes everyone feel happy?",
+    "choices": [
+      "Saving water",
+      "Managing waste",
+      "Being kind and polite",
+      "Planting trees"
+    ],
+    "answer_index": 2,
+    "answer_text": "Being kind and polite",
+    "source_excerpt": "When we are kind and polite, everyone feels happy.",
+    "explanation": "The text states directly that kindness and politeness contribute to the happiness of everyone."
+  },
+  "130:Easy": {
+    "chunk_id": 130,
+    "book": "eeev108.pdf",
+    "page": 1,
+    "chapter": "eeev108.pdf - Unknown Chapter",
+    "question_text": "What does the male baya weaverbird use to build its nest?",
+    "choices": [
+      "Spider silk",
+      "Mud",
+      "Grass",
+      "Twigs"
+    ],
+    "answer_index": 2,
+    "answer_text": "Grass",
+    "source_excerpt": "The male baya weaver is a weaverbird, who builds beautiful hanging nests from grass.",
+    "explanation": "The text explicitly mentions that the male baya weaverbird constructs its nests using grass."
+  },
+  "148:Medium": {
+    "chunk_id": 148,
+    "book": "eeev109.pdf",
+    "page": 5,
+    "chapter": "eeev109.pdf - Village",
+    "question_text": "According to the text, how does India celebrate changes and traditions?",
+    "choices": [
+      "By ignoring them.",
+      "By celebrating over 1,000 festivals throughout the year.",
+      "By working consistently throughout the year.",
+      "By moving from place to place."
+    ],
+    "answer_index": 1,
+    "answer_text": "By celebrating over 1,000 festivals throughout the year.",
+    "source_excerpt": "ti gnikam ,raey eht tuohguorht slavitsef 000,1 revo setarbelec aidnI",
+    "explanation": "The text explicitly states that India celebrates over 1,000 festivals throughout the year, indicating a strong cultural emphasis on marking changes and traditions."
+  },
+  "172:Medium": {
+    "chunk_id": 172,
+    "book": "eeev110.pdf",
+    "page": 13,
+    "chapter": "eeev110.pdf - Cambodia",
+    "question_text": "What does the ancient Indian saying 'Vasudhaiva Kutumbakam' mean?",
+    "choices": [
+      "The Earth is flat.",
+      "The world is one family.",
+      "Every country should have borders.",
+      "India is the best country in the world."
+    ],
+    "answer_index": 1,
+    "answer_text": "The world is one family.",
+    "source_excerpt": "There is a beautiful saying from ancient India— ‘Vasudhaiva Kutumbakam’, meaning ‘the world is one family.’",
+    "explanation": "'Vasudhaiva Kutumbakam' directly translates to 'the world is one family', emphasizing interconnectedness and unity among all people."
+  },
+  "67:Medium": {
+    "chunk_id": 67,
+    "book": "eeev104.pdf",
+    "page": 14,
+    "chapter": "eeev104.pdf - Write",
+    "question_text": "What is one important thing to do during a fire drill?",
+    "choices": [
+      "Panic and run.",
+      "Hide in the bathroom.",
+      "Crawl low under smoke with your mouth covered.",
+      "Return to the building to save your belongings."
+    ],
+    "answer_index": 2,
+    "answer_text": "Crawl low under smoke with your mouth covered.",
+    "source_excerpt": "Crawl low under smoke with your mouth covered to breathe cleaner air.",
+    "explanation": "Crawling low under smoke with your mouth covered helps you breathe cleaner air, as smoke rises and the air closer to the ground is less toxic, which is a crucial safety measure during a fire."
+  },
+  "1:Medium": {
+    "chunk_id": 1,
+    "book": "eeev101.pdf",
+    "page": 2,
+    "chapter": "eeev101.pdf - Life Around Us",
+    "question_text": "According to the text, what is one key idea students should understand about water after studying the provided chapters?",
+    "choices": [
+      "Water is an unlimited resource freely available to all.",
+      "Water is a limited and shared resource that must be used wisely.",
+      "Water sources are equally distributed across all regions.",
+      "Water conservation is only important for agricultural purposes."
+    ],
+    "answer_index": 1,
+    "answer_text": "Water is a limited and shared resource that must be used wisely.",
+    "source_excerpt": "After reading this chapter students will understand that water is a limited and shared resource which must be used wisely.",
+    "explanation": "The text highlights the importance of understanding that water is not an infinite resource. It is essential to manage water responsibly because it is a shared resource and can become scarce if not used properly."
+  },
+  "108:Medium": {
+    "chunk_id": 108,
+    "book": "eeev106.pdf",
+    "page": 16,
+    "chapter": "eeev106.pdf - Meghalaya",
+    "question_text": "What does the text suggest is crucial for preserving the natural wonders of India for future generations?",
+    "choices": [
+      "Ignoring regional differences and imposing uniform rules.",
+      "Focusing solely on economic development.",
+      "Learning about, respecting, and protecting the land.",
+      "Limiting travel and exploration."
+    ],
+    "answer_index": 2,
+    "answer_text": "Learning about, respecting, and protecting the land.",
+    "source_excerpt": "If we want these wonders to stay for the future, we must all do our part by learning, respecting and protecting the land we call home.",
+    "explanation": "The text emphasizes that the continued existence of India's natural beauty and unique places relies on educating ourselves about them, showing them respect, and actively working to protect them."
+  },
+  "60:Medium": {
+    "chunk_id": 60,
+    "book": "eeev104.pdf",
+    "page": 7,
+    "chapter": "eeev104.pdf - Curd",
+    "question_text": "What is the purpose of segregating waste into dry and wet categories, as mentioned in the text?",
+    "choices": [
+      "To make the waste heavier.",
+      "To manage waste better and keep surroundings clean.",
+      "To mix it with soil.",
+      "To make the waste smell good."
+    ],
+    "answer_index": 1,
+    "answer_text": "To manage waste better and keep surroundings clean.",
+    "source_excerpt": "We have learned in earlier classes about the importance of separating waste into dry and wet categories to manage it better, and to keep our surroundings clean.",
+    "explanation": "Separating waste into dry and wet categories is essential for efficient waste management. This process facilitates recycling and reduces the negative impact of waste on the environment."
+  },
+  "136:Medium": {
+    "chunk_id": 136,
+    "book": "eeev108.pdf",
+    "page": 7,
+    "chapter": "eeev108.pdf - India",
+    "question_text": "According to the provided information, what is India's position in the global production of jute?",
+    "choices": [
+      "The smallest producer",
+      "The largest producer",
+      "Not a producer",
+      "The second largest producer"
+    ],
+    "answer_index": 1,
+    "answer_text": "The largest producer",
+    "source_excerpt": "India is the largest producer of jute in the world.",
+    "explanation": "The text states directly that India holds the top position worldwide in terms of jute production. Jute is a natural fiber used to make burlap, rope, and other products."
+  },
+  "171:Medium": {
+    "chunk_id": 171,
+    "book": "eeev110.pdf",
+    "page": 12,
+    "chapter": "eeev110.pdf - Tree",
+    "question_text": "According to the text, what is the meaning of the ancient Indian saying 'Vasudhaiva Kutumbakam'?",
+    "choices": [
+      "The earth is flat.",
+      "The world is one family.",
+      "Cows are sacred animals.",
+      "Birds travel across continents."
+    ],
+    "answer_index": 1,
+    "answer_text": "The world is one family.",
+    "source_excerpt": "There is a beautiful saying from ancient India— ‘Vasudhaiva Kutumbakam’, meaning ‘the world is one family.’",
+    "explanation": "The saying 'Vasudhaiva Kutumbakam' reflects the idea that all living beings and nations are interconnected and should be treated with respect and compassion, as members of a single global family."
+  },
+  "30:Medium": {
+    "chunk_id": 30,
+    "book": "eeev102.pdf",
+    "page": 11,
+    "chapter": "eeev102.pdf - Write",
+    "question_text": "What is the primary purpose of dams, according to the text?",
+    "choices": [
+      "To increase river flow during rainy seasons.",
+      "To provide habitats for aquatic animals.",
+      "To store water for use during dry seasons for drinking, agriculture and electricity.",
+      "To prevent soil erosion along river banks."
+    ],
+    "answer_index": 2,
+    "answer_text": "To store water for use during dry seasons for drinking, agriculture and electricity.",
+    "source_excerpt": "Did you know that there are more than 900 dams that store my water so people can use it even during dry seasons, to drink, grow crops and make electricity.",
+    "explanation": "Dams are built to capture and store water, ensuring a supply is available during periods when rainfall is scarce. This stored water can then be used for drinking, irrigating crops, and generating electricity."
+  },
+  "129:Medium": {
+    "chunk_id": 129,
+    "book": "eeev107.pdf",
+    "page": 19,
+    "chapter": "eeev107.pdf - 7. Create and share:",
+    "question_text": "Why is it environmentally better to use solar or wind energy instead of coal?",
+    "choices": [
+      "Solar and wind energy are cheaper to produce.",
+      "Solar and wind energy do not cause pollution.",
+      "Coal is a renewable resource.",
+      "Coal energy is more efficient."
+    ],
+    "answer_index": 1,
+    "answer_text": "Solar and wind energy do not cause pollution.",
+    "source_excerpt": "Most of the electricity we use comes from burning fuels like coal. However, burning coal creates a lot of smoke and harmful gases that pollute the air. This polluted air is not good for our health and the environment. Nevertheless, there are other sources we can use to produce electricity that do not cause pollution.",
+    "explanation": "Burning coal releases harmful gases and pollutants into the air, which damages the environment and human health. Solar and wind energy are cleaner alternatives that do not produce these pollutants."
+  },
+  "10:Medium": {
+    "chunk_id": 10,
+    "book": "eeev101.pdf",
+    "page": 11,
+    "chapter": "eeev101.pdf - Maharashtra",
+    "question_text": "The Luni River is unique because it:",
+    "choices": [
+      "Is the longest river in India.",
+      "Drains into the Bay of Bengal.",
+      "Originates in the Himalayan mountains.",
+      "Does not drain into a sea."
+    ],
+    "answer_index": 3,
+    "answer_text": "Does not drain into a sea.",
+    "source_excerpt": "The Luni river, originating in the Aravalli Range in Rajasthan, is the only major Indian river that does not drain into a sea. Instead, it ends up in the marshy lands of the Rann of Kutch in Gujarat.",
+    "explanation": "Unlike most rivers that flow into the sea, the Luni River ends its journey in the marshy lands of the Rann of Kutch. Its water is absorbed into the land instead of reaching the ocean."
+  },
+  "181:Medium": {
+    "chunk_id": 181,
+    "book": "eeev110.pdf",
+    "page": 22,
+    "chapter": "eeev110.pdf - Activities",
+    "question_text": "Which of the following lists the months of the year in the order that the four themes are covered in \"The World Around Me\"?",
+    "choices": [
+      "January to March, April to June, July to September, October to December.",
+      "October to December, January to March, April to June, July to September.",
+      "April to June, July to September, October to December, January to March.",
+      "July to September, October to December, January to March, April to June."
+    ],
+    "answer_index": 0,
+    "answer_text": "January to March, April to June, July to September, October to December.",
+    "source_excerpt": "The World Around Me: January – March\nThe World Around Me: April – June\nThe World Around Me: July – September\nThe World Around Me: October – December",
+    "explanation": "The seasons of the year are presented in a chronological order: January to March, April to June, July to September, and finally, October to December."
+  },
+  "5:Medium": {
+    "chunk_id": 5,
+    "book": "eeev101.pdf",
+    "page": 6,
+    "chapter": "eeev101.pdf - Activity I Observe",
+    "question_text": "What is the water cycle?",
+    "choices": [
+      "The process of cleaning water for drinking.",
+      "The constant circular movement of water from the earth to the atmosphere and back.",
+      "The process of water being stored in dams.",
+      "The use of water for irrigation."
+    ],
+    "answer_index": 1,
+    "answer_text": "The constant circular movement of water from the earth to the atmosphere and back.",
+    "source_excerpt": "This constant circular movement of water in nature is called the water cycle.",
+    "explanation": "The water cycle describes how water continuously moves on, above, and below the surface of the Earth. It involves processes like evaporation, condensation, precipitation, and collection."
+  },
+  "65:Medium": {
+    "chunk_id": 65,
+    "book": "eeev104.pdf",
+    "page": 12,
+    "chapter": "eeev104.pdf - World",
+    "question_text": "What is the main goal of a 'green school' as described in the text?",
+    "choices": [
+      "To only use recycled materials in the classroom.",
+      "To manage waste, save water, use electricity carefully, and make the campus green.",
+      "To replace all textbooks with digital versions.",
+      "To only serve vegetarian food in the cafeteria."
+    ],
+    "answer_index": 1,
+    "answer_text": "To manage waste, save water, use electricity carefully, and make the campus green.",
+    "source_excerpt": "green school is a school where we manage our waste, save water, use electricity carefully, and make the campus green by planting more trees and taking care of them",
+    "explanation": "A 'green school' focuses on environmental sustainability by reducing waste, conserving resources like water and electricity, and promoting greenery through planting and care of plants and trees on the campus."
+  }
+}

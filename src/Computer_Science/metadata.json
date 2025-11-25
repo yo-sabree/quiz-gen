@@ -1,0 +1,587 @@
+[
+  {
+    "chunk_id": 0,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 1,
+    "chapter": "2024060391.pdf - Unknown Chapter",
+    "text": "1",
+    "word_count": 1
+  },
+  {
+    "chunk_id": 1,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 2,
+    "chapter": "2024060391.pdf - Subject Expert",
+    "text": "Patron Shri C. Neelap Deputy Commissioner, KVS RO Guwahati Regional Co-ordination & Compilation Shri D. Patle Asstt. Commissioner, KVS RO Guwahati School Co-ordination Shri S. Sarkar Principal, KV IOC, Noonmati, Guwahati & Shri Munna Lal Principal, KV HPCL Jagiroad, Assam Subject Expert Shri. Ashish Kumar Joshi PGT(CS), KV HPCL Jagiroad,Assam 2",
+    "word_count": 51
+  },
+  {
+    "chunk_id": 2,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 3,
+    "chapter": "2024060391.pdf - Subject Expert",
+    "text": "3",
+    "word_count": 1
+  },
+  {
+    "chunk_id": 3,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 4,
+    "chapter": "2024060391.pdf - Subject Expert",
+    "text": "4",
+    "word_count": 1
+  },
+  {
+    "chunk_id": 4,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 5,
+    "chapter": "2024060391.pdf - Subject Expert",
+    "text": "5",
+    "word_count": 1
+  },
+  {
+    "chunk_id": 5,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 6,
+    "chapter": "2024060391.pdf - Subject Expert",
+    "text": "6",
+    "word_count": 1
+  },
+  {
+    "chunk_id": 6,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 7,
+    "chapter": "2024060391.pdf - Unit IV MULTIMEDIA",
+    "text": "INDEX UNIT UNIT NAME PAGE NO Unit I TABLE CREATION IN WORD 1.1 Inserting Tables 1.1.1 Selecting no of rows and Columns 1.1.2 Inserting new row and Column 1.1.3 Merging the cells. 11 1.1.4 Filling the color in cells. 1.1.5 Alignment in the table(vertical and horizontal) 1.1.6 Table borders 1.2 Draw Table Unit II MORE IN WORD 2.1 Manipulating Paragraph 2.1.1 Selecting 2.1.2 Moving 2.1.3 Copying 2.1.4 Page Layout menu 18 2.1.5 Margins Setting 2.1.6 Orientation 2.1.7 Paper size (Legal & A4) 2.1.8 Page Borders 2.2 Indentation 2.3 Wrap Text / Positioning Image Unit III WORKING IN EXCEL 3.1 Working with Sheets 3.1.1 Creating/Deleting Sheets 3.1.2 Renaming Sheets 3.1.3 Copying / Moving Sheets 3.2 Inserting New Row and Column 3.3 Deleting/Hiding the Rows and Columns 28 3.4 Changing the width and height of the column and row. 3.5 Find and Select the data in a given range. 3.6 VIEW MENU 3.6.1 Gridlines 3.6.2 Freeze Panes 3.6.3 View side by side 3.6.4 Synchronous Scrolling Unit IV MULTIMEDIA 4.1 Introduction to Multimedia 4.1.1 Definition 4.1.2 Uses of Multimedia 44 4.1.3 Hardware and Software required 4.2 Media Player 4.2.1 How to open and use 7",
+    "word_count": 192
+  },
+  {
+    "chunk_id": 7,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 8,
+    "chapter": "2024060391.pdf - Unit VI INTERNET",
+    "text": "4.3 Sound recorder 4.3.1 How to open and use 4.4 Movie Maker 4.4.1 Inserting Image 4.4.2 Setting timeline 4.4.3 Publishing movie Unit V MAKING A POWERFUL PRESENTATION 5.1 Design Menu 5.1.1 Slide Designs 5.2 Transition Menu 5.2.1 Different Effects on Slides 5.3 Animation Menu 5.3.1 Different Effects on Object 50 5.4 Viewing Presentation in Different ways 5.4.1 Managing Slides in the Slide Sorter View 5.4.2 Running a Presentation in the Slide Show View 5.5 Previewing and Printing a Presentation 5.5.1 Selecting Page Setup Options 5.5.2 Printing a Presentation 5.6 Showing presentation using Projector Unit VI INTERNET 6.1 Review of Internet 6.1.1 Introduction to Internet 6.1.2 Web Browsers 6.1.3 Websites 6.1.4 Search Engines 58 6.2 Exploring the different websites 6.2.1 KVS Website 6.2.2 Vidyalaya’s Website 6.2.3 Wikipedia 6.2.4 Edustrokes Sample Papers 63 8",
+    "word_count": 132
+  },
+  {
+    "chunk_id": 8,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 9,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "Unit 1: TABLE CREATION IN WORD Minimum Level of learning  Student should be able to create a time table of their class in word.  Student should be able to create a greeting card using page borders and other options. In This unit 1.1 Inserting Tables 1.1.1 Selecting no of rows and Columns 1.1.2 Inserting new row and Column 1.1.3 Merging the cells. 1.1.4 Filling the color in cells. 1.1.5 Alignment in the table(vertical and horizontal) 1.1.6 Table borders 1.2 Draw Table Introduction:- Dear Students, in this unit, we will learn about the tables in MS-word. First we are going to see “what is MS-word actually” Microsoft Word or MS-WORD (often called Word) is a graphical word processing program that users can type with. It is made by the computer company Microsoft. The purpose of the MS Word is to allow the users to type and save documents. Similar to other word processors, it has helpful tools to make documents. Microsoft Word 2007 9",
+    "word_count": 165
+  },
+  {
+    "chunk_id": 9,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 10,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "Students currently there are many version of MS-Word is available in the market like Office 2003, 2007. 2010, 2013 etc. here we are considering MS-word 2007 version. 1.1 Inserting Tables In Microsoft Office Word 2007, you can insert a table by choosing from a selection of preformatted tables — complete with sample data — or by selecting the number of rows and columns that you want. You can insert a table into a document, or you can insert one table into another table to create a more complex table. There are 3 ways by which you can insert a table in the document and these 3 ways are as following:- 1.1.1 Selecting no of rows and Columns (i) Use table templates You can use table templates to insert a table that is based on a gallery of preformatted tables. Table templates contain sample data to help you visualize what the table will look like when you add your data. 1. Click where you want to insert a table. 2. On the Insert tab, in the Tables group, click Table, point to Quick Tables, and then click the template that you want. 10",
+    "word_count": 192
+  },
+  {
+    "chunk_id": 10,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 11,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "(ii) Use the Table menu 1. Click where you want to insert a table. 2. On the Insert tab, in the Tables group, click Table, and then, under Insert Table, drag to select the number of rows and columns that you want. (iii) Use the Insert Table command You can use the Insert Table command to choose the table dimensions and format before you insert the table into a document. 1. Click where you want to insert a table. 2. On the Insert tab, in the Tables group, click Table, and then click Insert Table. 3. Under Table size, enter the number of columns and rows. 4. Under AutoFit behavior, choose options to adjust the table size. 11",
+    "word_count": 118
+  },
+  {
+    "chunk_id": 11,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 12,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "1.1.2 Inserting new row and Column:- After inserting a table if you want to add/insert new row or new column then you can follow the following procedure:- Add a row above or below 1. Click in a cell above or below where you want to add a row. 2. Under Table Tools, on the Layout tab, do one of the following:  To add a row above the cell, click Insert Above in the Rows and Columns group.  To add a row below the cell, click Insert Below in the Rows and Columns group Add a column to the left or right 1. Click in a cell to the left or right of where you want to add a column. 2. Under Table Tools, on the Layout tab, do one of the following:  To add a column to the left of the cell, click Insert Left in the Rows and Columns group.  To add a column to the right of the cell, click Insert Right in the Rows and Columns group. 1.1.3 Merging the cells. Merge (Combine/Join) cells You can combine two or more table cells located in the same row or column into a single cell. For example, you can merge several cells horizontally to create a table heading that spans several columns. 1. Select the cells that you want to merge by clicking the left edge of a cell and then dragging across the other cells that you want. 2. Under Table Tools, on the Layout tab, in the Merge group, click Merge Cells. 12",
+    "word_count": 260
+  },
+  {
+    "chunk_id": 12,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 13,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "1.1.4 Filling the color in cells. You can fill any color in a specific cell or group of cell to make it distinct from the other cell in the table by follow the following procedure;- 1. Select the cells that you want to fill with color by clicking the left edge of a cell and then dragging across the other cells that you want. 2. Under Table Tools, on the Design tab, click shading then select any color of your choice. . 1.1.5 Alignment in the table (vertical and horizontal):- Aligning text in columns and rows in Word is a matter of choosing how you want the text to line up vertically and how you want it to line up horizontally. Follow these steps to align text in a table: 1. Select the cells, columns, or rows, with text that you want to align (or select your entire table). 2. Go to the (Table Tools) Layout tab. 3. Click an Align button (you may have to click the Alignment button first, depending on the size of your screen). Word offers nine ways to align text 13",
+    "word_count": 186
+  },
+  {
+    "chunk_id": 13,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 14,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "1.1.6 Table borders:- When you add a border to a picture, text, or page, you can make those elements in your document stand out. You can do the same with the tables in your documents. You can add a border to a table by using the Border Styles, you can design your own custom border, or you can apply a pre-designed table style. Add table borders 1. Under Table Tools, click the Design tab. 2. In the Table Styles group, click Borders, and then do one of the following: Click one of the predefined border sets. o Click Borders and shading, click the Borders tab, and then choose the options that you want. o Remove table borders from the whole table 1. Under Table Tools, click the Design tab. 2. In the Table Styles group, click Borders, and then click No Border. 1.2 Draw Table:- You can draw a complex table — for example, one that contains cells of different heights or a varying number of columns per row. 1. Click where you want to draw the table. 2. On the Insert tab, in the Tables group, click Table. 3. Click Draw Table. The pointer changes to a pencil. 14",
+    "word_count": 200
+  },
+  {
+    "chunk_id": 14,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 15,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "4. To define the outer boundaries of the table, draw a rectangle. 5. Draw column and row lines inside the rectangle. 6. To erase a line or block of lines, under Table Tools, on the Design tab, in the Draw Borders group, click Eraser . 7. Click the line that you want to erase. When you are finished, click Draw Table to continue drawing the table. 8. When you finish drawing the table, click in a cell and start typing or insert a graphic. Assignments:-  Create a time table of your class in word using tables.  Create a greeting card using page borders and other options. 15",
+    "word_count": 109
+  },
+  {
+    "chunk_id": 15,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 16,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "Unit 2: MORE IN WORD Minimum Level of learning  Student should be able to create a time table of their class in word.  Student should be able to create a greeting card using page borders and other options. In This unit:- 2.1 Manipulating Paragraph 2.1.1 Selecting 2.1.2 Moving 2.1.3 Copying 2.1.4 Page Layout menu 2.1.5 Margins Setting 2.1.6 Orientation 2.1.7 Paper size (Legal & A4) 2.1.8 Page Borders 2.2 Indentation 2.3 Wrap Text / Positioning Image Introduction:- A paragraph in Word is any text that ends with a hard return. You can insert a hard return anytime by pressing the Enter key. Paragraph formatting lets you control the appearance. For example, you can change the alignment of text from left to center or the spacing between lines form single to double. 16",
+    "word_count": 134
+  },
+  {
+    "chunk_id": 16,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 17,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "2.1 Manipulating Paragraph:- 2.1.1 Selecting:- You can select a paragraph on one page and a sentence on a different page. you can select the paragraph by using mouse or by using the keyboard. Select text by using the mouse:- (i) To select an entire document, do one of the following: • On the Home tab, in the Editing group, click Select, and then click Select All. • Move the pointer to the left of any text until it turns into a right-pointing arrow, and then triple-click. (ii) To select Do this Any amount of Click where you want to begin the selection, hold down the left mouse button, text and then drag the pointer over the text that you want to select. A word Double-click anywhere in the word. A line of text Move the pointer to the left of the line until it changes to a right-pointing arrow, and then click. A sentence Hold down CTRL, and then click anywhere in the sentence. A paragraph Triple-click anywhere in the paragraph. Multiple Move the pointer to the left of the first paragraph until it changes to a right- paragraphs pointing arrow, and then press and hold down the left mouse button while you drag the pointer up or down. A large block of Click at the start of the selection, scroll to the end of the selection, and then hold text down SHIFT while you click where you want the selection to end. An entire Move the pointer to the left of any text until it changes to a right-pointing arrow, document and then triple-click. Headers and In Print Layout view, double-click the dimmed header or footer text. Move the footers pointer to the left of the header or footer until it changes to a right-pointing arrow, and then click. Footnotes and Click the footnote or endnote text, move the pointer to the left of the text until it 17",
+    "word_count": 320
+  },
+  {
+    "chunk_id": 17,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 18,
+    "chapter": "2024060391.pdf - TABLE CREATION IN WORD",
+    "text": "To select Do this endnotes changes to a right-pointing arrow, and then click. A vertical block Hold down ALT while you drag the pointer over the text. of text A text box or Move the pointer over the border of the frame or text box until the pointer frame becomes a four-headed arrow, and then click. (iii) Select text in different places You can select text or items in a table that are not next to each other. For example, you can select a paragraph on one page and a sentence on a different page. 1. Select some text or an item in a table. 2. Hold down CTRL while you select any additional text or item in a table that you want. Select text by using the keyboard Select text in the body of a document NOTE To select an entire document, press CTRL+A. To select Do this One character to the right Press SHIFT+RIGHT ARROW. One character to the left Press SHIFT+LEFT ARROW. A word from its beginning Place the insertion point at the beginning of the word, and then press to its end CTRL+SHIFT+RIGHT ARROW. A word from its end to its Move the pointer to the end of the word, and then press beginning CTRL+SHIFT+LEFT ARROW. A line from its beginning to Press HOME, and then press SHIFT+END. its end A line from its end to its Press END, and then press SHIFT+HOME. beginning One line down Press END, and then press SHIFT+DOWN ARROW. One line up Press HOME, and then press SHIFT+UP ARROW. A paragraph from its Move the pointer to the beginning of the paragraph, and then press 18",
+    "word_count": 275
+  },
+  {
+    "chunk_id": 18,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 19,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "To select Do this beginning to its end CTRL+SHIFT+DOWN ARROW. A paragraph from its end Move the pointer to the end of the paragraph, and then press to its beginning CTRL+SHIFT+UP ARROW. A document from its end Move the pointer to the end of the document, and then press to its beginning CTRL+SHIFT+HOME. A document from its Move the pointer to the beginning of the document, and then press beginning to its end CTRL+SHIFT+END. From the beginning of a Move the pointer to the beginning of the window, and then press window to its end ALT+CTRL+SHIFT+PAGE DOWN. The entire document Press CTRL+A. A vertical block of text Press CTRL+SHIFT+F8, and then use the arrow keys. Press ESC to turn off the selection mode. The nearest character Press F8 to turn on selection mode, and then press LEFT ARROW or RIGHT ARROW; press ESC to turn off the selection mode. A word, a sentence, a Press F8 to turn on selection mode, and then press F8 once to select a paragraph, or a document word, twice to select a sentence, three times to select a paragraph, or four times to select the document. Press ESC to turn off the selection mode. 2.1.2 Moving:- • Moving is also known as Cut and Paste. It allows you to remove selected text from the document/paragraph and place it to different location. To cut and paste a block of text: • Select the text you want to move. • Click the Cut button on the Standard toolbar. or in Keyboard Press Ctrl + X • Place the insertion point where you want the text inserted. • Click the Paste button. in Keyboard Press Ctrl + V 2.1.3 Copying Copying text can be useful if you need to duplicate words you have already typed as it saves time and effort. Follow these step-by-step instructions to copy and paste text Step 1: Open an existing Word document or start a new document and type your text. 19",
+    "word_count": 330
+  },
+  {
+    "chunk_id": 19,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 20,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "Step 2: To copy text, it will need to be selected or highlighted with the mouse first. When the mouse pointer is moved over a text area, the pointer will change from an arrow to a ‘text select’ or ‘I-beam’ icon. Step 3: Select your text so that it’s highlighted. Step 4: Copy the text by clicking on the copy icon at the left-hand side of the formatting ribbon. Step 5: Use the mouse to move the cursor to where you wish to paste the copied text. Step 6: Click Paste to insert the copied text in its new place in your text. 20",
+    "word_count": 104
+  },
+  {
+    "chunk_id": 20,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 21,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "Step 8: Your text will now be duplicated in the new position in your document. Step 9: Once text is highlighted, it’s also possible to copy and paste it using a keyboard shortcut instead of the mouse, which some people find easier. To copy, press and hold Ctrl (the control key) on the keyboard and then press the C on the keyboard. ( Ctrl+C ) To paste, press and hold down Ctrl and then press V. ( Ctrl+V ) 2.1.4 Page Layout menu Page layout is the term used to describe how each page of your document will appear when it is printed. In Word, page layout includes elements such as the Themes, Page Setup, Page Background, Paragraph setting etc. 2.1.5 Margins Setting Page margins are the blank space around the edges of the page (Top, Bottom, Left, and Right) in general, you can insert text and graphics in the printable area between the margins. However, you can position some items in the margins — for example, headers, footers, and page numbers. 21",
+    "word_count": 173
+  },
+  {
+    "chunk_id": 21,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 22,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "Change or set page margins 1. On the Page Layout tab, in the Page Setup group, click Margins. 2. Click the margin type that you want. For the most common margin width, click Normal. When you click the margin type that you want, your entire document automatically changes to the margin type that you have selected. 3. You can also specify your own margin settings. Click Margins, click Custom Margins, and then in the Top, Bottom, Left, and Right boxes, enter new values for the margins. 2.1.6 Orientation:- You can choose either portrait (vertical) or landscape (horizontal) orientation for all or part of your document. 1. On the Page Layout tab, in the Page Setup group, click Orientation. 2. Click Portrait or Landscape. 22",
+    "word_count": 124
+  },
+  {
+    "chunk_id": 22,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 23,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "2.1.7 Paper size (Legal & A4):- Page size refers to the area of your Paper or sheet, size is the size of the paper used for printing. Choose a page size In the Page Setup dialog box, click the icon that represents the page size that you want. For example, click Letter 8.5 x 11\". The default paper size in Microsoft Word is 8.5 x 11 inches –the standard size (called Letter) Some more standard paper size are:- A-4 8.27 x 11.69\". Legal 8.5 x 14\". 2.1.8 Page Borders:- You can put a border around the page. On the Page Layout tab, in the Page background group, click Page Borders. In the Borders and Shading box, design your border: a. Under Setting, choose the border style you want. b. Under Style, click the line style you want. c. Click the arrow under Color and choose a border color. d. Click the arrow under Width and choose the width you want. e. If you want a clip-art border instead, click the arrow under Art and choose a border graphic. 23",
+    "word_count": 179
+  },
+  {
+    "chunk_id": 23,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 24,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "2.4 Indentation:- Indentation determines the distance of the paragraph from either the left or the right margin. Within the margins, you can increase or decrease the indentation of a paragraph or group of paragraphs. 1. Click in front of the line that you want to indent. 2. On the Page Layout tab, click the Paragraph Dialog Box Launcher, and then click the Indents and Spacing tab. 2.5 Wrap Text / Positioning Image:- Microsoft Office Word enables you to wrap text easily around pictures, shapes, and tables with any position or style that you want. Wrap text around a picture or drawing object 1. If the picture or object is on a drawing canvas, select the canvas. If the picture or object is not on a drawing canvas, select the picture or object. 2. On the Format tab, in the Arrange group, click Position. If the Arrange group is collapsed and Position isn't visible, click the Arrange button, and then click Position. Click the wrapping position that you want to apply. 24",
+    "word_count": 171
+  },
+  {
+    "chunk_id": 24,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 25,
+    "chapter": "2024060391.pdf - To cut and paste a block of text:",
+    "text": "TIP Drag the picture or object if you want to change its position on the page. The text wrapping adjusts to the object in its new location. 3. To change how the text flows around the object, or make other changes to the wrap settings, in the Arrange group, click Text Wrapping and then click the option that looks best. Assignments:-  Design a Page with many Paragraphs and manipulate the paragraph by using Selection, Move, Copy, Margins, Orientation, Size, Border, and Indentation.  Design a Page with picture and text and perform Wrap Text with Picture. 25",
+    "word_count": 98
+  },
+  {
+    "chunk_id": 25,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 26,
+    "chapter": "2024060391.pdf - 3.6 VIEW MENU",
+    "text": "Unit 3: WORKING IN EXCEL Minimum Level of learning  Student should be able to create a sheet with his/her own name. In This unit:- 3.1 Working with Sheets 3.1.1 Creating/Deleting Sheets 3.1.2 Renaming Sheets 3.1.3 Copying / Moving Sheets 3.2 Inserting New Row and Column 3.3 Deleting/Hiding the Rows and Columns 3.4 Changing the width and height of the column and row. 3.5 Find and Select the data in a given range. 3.6 VIEW MENU 3.6.1 Gridlines 3.6.2 Freeze Panes 3.6.3 View side by side 3.6.4 Synchronous Scrolling Introduction:- Excel is a spreadsheet program that allows you to store, organize and analyze information, in this unit, you will learn about the MS-Excel 2007 environment. The Excel Interface:- 26",
+    "word_count": 119
+  },
+  {
+    "chunk_id": 26,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 27,
+    "chapter": "2024060391.pdf - Result:",
+    "text": "3.1 Working with Sheets:- What is worksheet/sheet: - A worksheet is a collection of cells where you keep and manipulate the data. By default, each Excel workbook contains three worksheets. 3.1.1 Creating/Deleting Sheets:- When you open Excel, Excel automatically selects Sheet1 for you. The name of the worksheet appears on its sheet tab at the bottom of the document window. To select one of the other two worksheets, simply click on the sheet tab of Sheet2 or Sheet3. Insert a Worksheet You can insert as many worksheets as you want. To quickly insert a new worksheet, click the Insert Worksheet tab at the bottom of the document window. Result: 27",
+    "word_count": 110
+  },
+  {
+    "chunk_id": 27,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 28,
+    "chapter": "2024060391.pdf - Result:",
+    "text": "Delete a Worksheet To delete a worksheet, right click on a sheet tab and choose Delete. 1. For example, delete Sheet4, Sheet2 and Sheet3. Result: 3.1.2 Renaming Sheets:- By default, the worksheets are named Sheet1, Sheet2 and Sheet3. To give a worksheet a more specific name, execute the following steps. 1. Right click on the sheet tab of Sheet1. 2. Choose Rename. 28",
+    "word_count": 63
+  },
+  {
+    "chunk_id": 28,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 29,
+    "chapter": "2024060391.pdf - Result:",
+    "text": "3. For example, type Sales 2010. 3.1.3 Copying / Moving Sheets:- Copy a Worksheet Imagine, you have got the sales for 2010 ready and want to create the exact same sheet for 2011, but with different data. You can recreate the worksheet, but this is time-consuming. It's a lot easier to copy the entire worksheet and only change the numbers. 1. Right click on the sheet tab of Sales 2010. 2. Choose Move or Copy... The 'Move or Copy' dialog box appears. 3. Select (move to end) and check Create a copy. 29",
+    "word_count": 93
+  },
+  {
+    "chunk_id": 29,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 30,
+    "chapter": "2024060391.pdf - Result:",
+    "text": "4. Click OK. Result: Note: you can even copy a worksheet to another Excel workbook by selecting the specific workbook from the drop-down list (see the dialog box shown earlier). Move a Worksheet To move a worksheet, click on the sheet tab of the worksheet you want to move and drag it into the new position. 1. For example, click on the sheet tab of Sheet4 and drag it before Sheet2. Result: 30",
+    "word_count": 73
+  },
+  {
+    "chunk_id": 30,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 31,
+    "chapter": "2024060391.pdf - Result:",
+    "text": "3.2 Inserting New Row and Column:- Insert Row, Column To insert a row between the values 20 and 40 below, execute the following steps. 1. Select row 3. 2. Right click, and then click Insert. Result: Note: - You can perform the same operation for inserting column. 31",
+    "word_count": 48
+  },
+  {
+    "chunk_id": 31,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 32,
+    "chapter": "2024060391.pdf - Result:",
+    "text": "3.3 Deleting/Hiding the Rows and Columns:- Deleting the Rows and Columns:- To delete a row between the values 20 and 40 below, execute the following steps. 1. Select row 3. 2. Right click, and then click delete. Result: 32",
+    "word_count": 39
+  },
+  {
+    "chunk_id": 32,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 33,
+    "chapter": "2024060391.pdf - 3. Result:",
+    "text": "Hiding the Rows and Columns:- To hide a row between the values 20 and 40 below, execute the following steps. 1. Select row 3. 2. Right click, and then click Hide. 3. Result: 3.4 Changing the width and height of the column and row:- On a worksheet, you can specify a column width of 0 (zero) to 255. This value represents the number of characters that can be displayed in a cell that is formatted with the standard font. The default column width is 8.43 characters. If a column has a width of 0 (zero), the column is hidden. 33",
+    "word_count": 100
+  },
+  {
+    "chunk_id": 33,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 34,
+    "chapter": "2024060391.pdf - 3. Result:",
+    "text": "You can specify a row height of 0 (zero) to 409. This value represents the height measurement in points (1 point equals approximately 1/72 inch or 0.035 cm). The default row height is 12.75 points (approximately 1/6 inch or 0.4 cm). If a row has a height of 0 (zero), the row is hidden. Set a column to a specific width 1. Select the column or columns that you want to change. 2. On the Home tab, in the Cells group, click Format. 3. Under Cell Size, click Column Width. 4. In the Column width box, type the value that you want. Set a row to a specific height 1. Select the row or rows that you want to change. 2. On the Home tab, in the Cells group, click Format. 3. Under Cell Size, click Row Height. 4. In the Row height box, type the value that you want. 34",
+    "word_count": 151
+  },
+  {
+    "chunk_id": 34,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 35,
+    "chapter": "2024060391.pdf - 2. Click Data > Filter, see screenshot:",
+    "text": "3.5 Find and Select the data in a given range.- Supposing you have a data range as following screenshot, and now you want to find or select cells based on certain criteria information in Excel, for example, you will find or select the cells which contain the numbers between 80 and 100. How could you quickly solve this task? You can solve this task by following methods:- (i) Filter cells based on certain criteria with Filter function (ii) Find cells based on certain criteria with Conditional Formatting (i) Filter cells based on certain criteria with Filter function With Filter function of Excel, you can display the cell rows that you need and hide the unwanted rows. You can finish it with the following steps: 1. Highlight the column that you want to select the certain cells. 2. Click Data > Filter, see screenshot: 3. And a small triangle will display at the bottom right corner of the title, click the small triangle, and a menu will appear. Choose Number Filter > Custom Filter… See screenshot: 35",
+    "word_count": 176
+  },
+  {
+    "chunk_id": 35,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 36,
+    "chapter": "2024060391.pdf - following screenshot:",
+    "text": "4. And a Custom AutoFilter dialog box will pop out. Then specify the criteria that you need as following screenshot: 5. Click OK. And all of the cells which fit to the criteria have been displayed, and the others have been hidden. With this method, the other cells which don’t accord with the criteria will be hidden. 36",
+    "word_count": 58
+  },
+  {
+    "chunk_id": 36,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 37,
+    "chapter": "2024060391.pdf - Excel, please do as this:",
+    "text": "(ii) Find cells based on certain criteria with Conditional Formatting Conditional Formatting utility can help you to find and format the cells which match your criteria in Excel, please do as this: 1. Select the data range that you want to use. 2. Click Home > Conditional Formatting > New Rule, see screenshot: 3. In the New Formatting Rule dialog box, select Format only cells that contain option under Select a Rule Type, and then specify the criteria you need under Format the Rule Description, see screenshot: 37",
+    "word_count": 88
+  },
+  {
+    "chunk_id": 37,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 38,
+    "chapter": "2024060391.pdf - to shade your cells. See screenshot:",
+    "text": "5. Then click Format button, in the Format Cells dialog, click Fill tab, and select one color you like to shade your cells. See screenshot: 6. Click OK to close the dialogs, and the cells between 80 and 100 have been highlighted at once. 38",
+    "word_count": 45
+  },
+  {
+    "chunk_id": 38,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 39,
+    "chapter": "2024060391.pdf - 3.6 VIEW MENU",
+    "text": "3.6 VIEW MENU 3.6.1 Gridlines:- Gridlines are the faint lines that appear around cells in Excel 2007. They are used to distinguish cells on the worksheet. Note: - Gridlines do not print by default. Show/Hide gridlines on a worksheet (i) Hide gridlines on a worksheet:- If the design of your workbook requires it, you can hide the gridlines: 1. Select one or more worksheets. 2. On the View tab, in the Show/Hide group, clear the Gridlines check box. (ii) Show gridlines on a worksheet If the gridlines on your worksheet are hidden, you can use the following procedure to show them again. 1. Select one or more worksheets. 2. On the View tab, in the Show/Hide group, select the Gridlines check box. 39",
+    "word_count": 123
+  },
+  {
+    "chunk_id": 39,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 40,
+    "chapter": "2024060391.pdf - 3. Do one of the following:",
+    "text": "3.6.2 Freeze Panes To keep an area of a worksheet visible while you scroll to another area of the worksheet, you can lock specific rows or columns in one area by freezing or splitting panes. When you freeze panes, you keep specific rows or columns visible when you scroll in the worksheet. For example, you might want to keep row and column labels visible as you scroll. A solid line indicates that row 1 is frozen to keep column labels in place when you scroll. Freeze panes to lock specific rows or columns:- 1. On the worksheet, do one of the following: • To lock rows, select the row below the row or rows that you want to keep visible when you scroll. • To lock columns, select the column to the right of the column or columns that you want to keep visible when you scroll. To lock both rows and columns, click the cell below and to the right of the rows and columns that you want to keep visible when you scroll. 2. On the View tab, in the Window group, click the arrow below Freeze Panes. 3. Do one of the following: 40",
+    "word_count": 197
+  },
+  {
+    "chunk_id": 40,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 41,
+    "chapter": "2024060391.pdf - 3. Do one of the following:",
+    "text": "• To lock one row only, click Freeze Top Row. • To lock one column only, click Freeze First Column. • To lock more than one row or column, or to lock both rows and columns at the same time, click Freeze Panes. 3.6.3 View side by side:- You can quickly compare two worksheets in the same workbook or in different workbooks by viewing them side by side. View two worksheets in the same workbook side by side 1. On the View tab, in the Window group, click New Window. 2. On the View tab, in the Window group, click View Side by Side . 3. In the workbook window, click the worksheets that you want to compare. 3.6.4 Synchronous Scrolling:- If you want to compare the data simultaneously, throughout the Excel files. To do that, there is an option called Synchronous Scrolling, which is under View Side by Side. Just click Synchronous Scrolling. This option lets you scroll both files at the same time. NOTE this option is available only when View Side by Side is turned on. When you scroll, you will see both windows are scrolling at the same time so that comparing the two is quite simple. Assignment:-  Create five sheets workbook and named them First, Second, Third, Fourth, Fifth.  Design a Worksheet having S.No, Name of Student, Marks obtained Column and filled the data for at least 20 students. Find the Records having marks between 50 to 60. 41",
+    "word_count": 246
+  },
+  {
+    "chunk_id": 41,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 42,
+    "chapter": "2024060391.pdf - MULTIMEDIA",
+    "text": "Unit 4: MULTIMEDIA Minimum Level of learning Student should be able to create an album of CCA activity using movie maker. o In This Unit:- 4.1 Introduction to Multimedia 4.1.1 Definition 4.1.2 Uses of Multimedia 4.1.3 Hardware and Software required 4.2 Media Player 4.2.1 How to open and use 4.3 Sound recorder 4.3.1 How to open and use 4.4 Movie Maker 4.4.1 Inserting Image 4.4.2 Setting timeline 4.4.3 Publishing movie 4.1 Intro duction to Multimedia:- Multimedia has become an important part of any presentation. It has found a variety of applications right from entertainment to education. The evolution of internet has also increased the demand for multimedia content. 4.1.1 Definition:- Multimedia is the media that uses multiple forms of information content and information processing (e.g. text, audio, graphics, animation, video, interactivity) to inform or entertain the user. Multimedia also refers to the use of electronic media to store and experience multimedia content. 4.1.2 Uses of Multimedia:- Multimedia finds its uses in various areas including advertisements, art, education, entertainment, engineering, medicine, mathematics, business, scientific research and spatial, temporal applications. 4.1.3 Hardware and Software required:- Hardware required:- A good multimedia system should have a Pentium 1.6 Ghz (or the one with similar capabilities) onwards processor, at least 256 MB of RAM, 40 GB onwards hard disk drive, 1.44 MB Floppy drive, 17 inch onwards SVGA monitor, 32MB AGP card, 52 X CD-ROM drive, a 32 bit sound card, high wattage sub-woofer speakers, 104 PS/2 keyboard, PS/2 mouse and 56K fax data voice modem. If you wish you can add a CD-recorder, scanner, printer, digital camcorder and a video-capture card. 42",
+    "word_count": 268
+  },
+  {
+    "chunk_id": 42,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 43,
+    "chapter": "2024060391.pdf - MULTIMEDIA",
+    "text": "Remember, there is no set rule to define the exact hardware combination of a good multimedia computer. The combination is dependent on the nature and contents of the multimedia project you are dealing with. Software required The basic tool set for building a multimedia project can be divided into five categories: Painting and drawing tools, 3-D Modeling and animation tools, Image editing tools, Sound editing tools, Animation Video Digital Movie tools. The software in your multimedia toolkit and your ability to use it will determine the quality of your multimedia work. 4.2 Media Player:- Windows Media Player provides an intuitive, easy-to-use interface to play digital media files, organize your digital media collection, burn CDs of your favorite music, rip music from CDs, sync digital media files to a portable device, and shop for digital media content from online stores. 4.2.1 How to open and use:- Open/Start Windows Media Player To start Windows Media Player, click the Start button , click All Programs, and then click Windows Media Player Interface of window media player:- 43",
+    "word_count": 174
+  },
+  {
+    "chunk_id": 43,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 44,
+    "chapter": "2024060391.pdf - MULTIMEDIA",
+    "text": "How to Play File:- Go to File->Open then select the desired audio/ video file to play. 4.3 Sound recorder:- You can use Sound Recorder to record a sound and save it as an audio file on your computer. You can record sound from different audio devices, such as a microphone that's plugged into the sound card on your computer. The types of audio input sources you can record from depend on the audio devices you have and the input sources on your sound card. 4.3.1 How to open and use:- To record audio with Sound Recorder 1. Make sure you have an audio input device, such as a microphone, connected to your computer. 2. Open Sound Recorder by clicking the Start button . In the search box, type Sound Recorder, and then, in the list of results, click Sound Recorder. 3. Click Start Recording. 4. To stop recording audio, click Stop Recording. 44",
+    "word_count": 153
+  },
+  {
+    "chunk_id": 44,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 45,
+    "chapter": "2024060391.pdf - MULTIMEDIA",
+    "text": "5. (Optional) If you want to continue recording audio, click Cancel in the Save As dialog box, and then click Resume Recording. Continue to record sound, and then click Stop Recording. 6. Click the File name box, type a file name for the recorded sound, and then click Save to save the recorded sound as an audio file. 4.4 Movie Maker:- You can import photos and videos from many different kinds of cameras and devices to your PC using Movie Maker. When you import photos and videos, they are copied from the camera or device to your PC. After that, you can use them in your movies in Movie Maker, and they'll appear in Photo Gallery too. Here are some devices that you might import photos or videos from: • A digital camera or phone that's connected to your PC with a USB cable • A Secure Digital (SD), mini SD or CompactFlash storage card that's in a card reader • A data CD or DVD • A video camera that records to an internal hard drive or flash storage card • A videotape that's in a digital video (DV) camera or High-Definition Video (HDV) camera If you have a webcam built into your PC or connected to your PC with a USB cable, you can record live video from a webcam and add it to Movie Maker. To use Windows Movie Maker, you have to download/installed the software from Microsoft website. Windows Movie Maker 12 is included in Windows Essentials 2012 software. The website link is given below:- http://windows.microsoft.com/en-in/windows/movie-maker After successful installation. Movie maker will come in all program list as shown below:- 45",
+    "word_count": 275
+  },
+  {
+    "chunk_id": 45,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 46,
+    "chapter": "2024060391.pdf - MULTIMEDIA",
+    "text": "Movie Maker Interface:- 4.4.1 Inserting Image:- The first step to making a movie in Movie Maker is to add videos and photos. There are a few different ways to add them. 1. In Movie Maker, on the Home tab, in the Add group, click Add videos and photos. 2. In the Add Videos and Photos dialog box, open the folder that contains the photos or videos that you want to add, select the video files and photos, and then click Open. 46",
+    "word_count": 82
+  },
+  {
+    "chunk_id": 46,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 47,
+    "chapter": "2024060391.pdf - MULTIMEDIA",
+    "text": "To select multiple photos and videos, press and hold the Ctrl key, and then click each photo and video you want. 4.4.2 Setting timeline:- For different images, you can set the time duration for which it can display. In Movie Maker, on the Edit tab, in the Adjust group, click Duration and set the desired duration for particular image. 4.4.3 Publishing movie:- After you're done editing your project in Movie Maker, you can share your movie with family and friends by publishing it on the web. To publish a movie on the web from Movie Maker 1. On the Home tab, in the Sharing group, click the website where you want to publish your movie. 2. Enter your user name and password, and then follow the steps to publish your movie. OR alternatively you can save your movie in your computer by having many inbuilt format using save movie option in Home Tab. Assignment:- Create an album of CCA activity using movie maker. 47",
+    "word_count": 164
+  },
+  {
+    "chunk_id": 47,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 48,
+    "chapter": "2024060391.pdf - MAKING A POWERFUL PRESENTATION",
+    "text": "Unit 5: MAKING A POWERFUL PRESENTATION Min imum Level of learning  Student should be able to select a perfect design for his/her PowerPoint file based on project given by different subject teachers.  Student should be able to apply different animation effects on different objects used in slides.  Student should be able to give proper setting for printing the document in page setup. In this Unit:- 5.1 Design Menu 5.5.1 Slide Designs 5.2 Transition Menu 5.2.1 Different Effects on Slides 5.3 Animation Menu 5.3.1 Different Effects on Object 5.4 Viewing Presentation in Different ways 5.4.1 Managing Slides in the Slide Sorter View 5.4.2 Running a Presentation in the Slide Show View 5.5 Previewing and Printing a Presentation 5.5.1 Selecting Page Setup Options 5.5.2 Printing a Presentation 5.6 Showing presentation using Projector Introduction:- A PowerPoint presentation is made up of a series of slides that can contain charts, diagrams, pictures, SmartArt diagrams, bulleted lists, eye-catching text, multimedia video and sound clips, and more. PowerPoint 2007 provides a variety of professionally designed templates, themes, and style galleries to help you create great-looking presentations. To start PowerPoint 2007 from the Start Menu • Click on the Start button, point to All Programs then Microsoft Office and click on Microsoft Office PowerPoint 2007. • The first screen that you will see a new blank presentation begins automatically with one slide. 48",
+    "word_count": 229
+  },
+  {
+    "chunk_id": 48,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 49,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "5.1 Design Menu:- Sometimes we need to design your presentation slides and make them look nice. You may present slides’ theme, such as change its color, font, and effect. Sometimes you may need to changes slides’ background, page setup, and more. So you need to find out those slide designing features before your modifying. 5.5.1 Slide Designs:- Design tab is set and groups all slide design features. In Design tab, you can easily modify and customize your slides’ theme, background, and more: 5.2 Transition Menu:- The Transitions allow you to get creative with your slides. Adding transitions allows you to add a little flair between the slides. Transitions are visual effects when moving from one slide to the next slide. For example, you can make one slide dissolve slowly away as the next slide appears. You can get more 49",
+    "word_count": 140
+  },
+  {
+    "chunk_id": 49,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 50,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "creative and make one slide push the old slide out or even use an effect that looks like doors opening to your next slide. 5.2.1 Different Effects on Slides:- If you click on the Animation tab, on the top of the ribbon, you will see that there are many different transitions you can apply to one slide or to all slides at the same time. Just select the slide for your transition and click on the transition effect. You even get a preview of what it will look like. Click on Apply to All to add the transition to all slides at once. 5.3 Animation Menu:- Animations will allow you to add visual effects and movement to text, Objects and graphics. 5.3.1 Different Effects on Object:- To apply a built-in animation effect in Office PowerPoint 2007, do the following: 1. Select the text or object that you want to animate. 2. On the Animations tab, in the Animations group, select the animation effect that you want from the Animate list. 50",
+    "word_count": 171
+  },
+  {
+    "chunk_id": 50,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 51,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "Create and apply a custom animation effect to text or objects You create custom animations in the Custom Animation task pane. The Custom Animation task pane shows important information about an animation effect, including the type of effect, the order of multiple effects in relation to each other, and a portion of the text of the effect. 5.4 Viewing Presentation in Different ways 5.4.1 Managing Slides in the Slide Sorter View:- In the Slide Sorter view, you see a miniature of each slide. The Slide Sorter view not only gives you a great view of your presentation as a whole, but it also lets you rearrange and hide your slides. If you wish to increase or decrease the size of the slides you are reviewing, you can adjust the view by zooming in and out as necessary. 5.4.2 Running a Presentation in the Slide Show View:- After making your complete presentation, you need to present it/run it.it can be easily done by Slide show Menu. 51",
+    "word_count": 166
+  },
+  {
+    "chunk_id": 51,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 52,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "You can click on “From Beginning” for running the slide show from first slide or you can click on “From Current Slide” if you want to run the slide show from current slide. 5.5 Previewing and Printing a Presentation:- Previewing a Presentation The Print Preview feature lets you see how your PowerPoint slides will appear before you print them. To use the PowerPoint Print Preview feature, choose Office— Print — Print Preview. From the Print Preview screen, you can zoom in to examine the preview more closely by clicking anywhere in the preview area. 5.5.1 Selecting Page Setup Options The PowerPoint 2007 Page Setup group consists of a Slide Orientation control so you can display your PowerPoint presentation in Landscape mode (the default) or Portrait mode. You should use Portrait mode only if you intend to print the slides on transparency masters and project them with an overhead projector, or present the slide show on a computer screen with a portrait orientation. Click the Page Setup button in the Page Setup group to display the Page Setup dialog box. This dialog box gives you extra control over your presentation’s page setup. 52",
+    "word_count": 192
+  },
+  {
+    "chunk_id": 52,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 53,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "Click the Page Setup button to open the Page Setup dialog box. The following list describes the controls in this dialog box: • Slides Sized For: This drop-down list lets you set the size of your slides based on how you plan to present them. The most common is to present the slides on a standard computer screen, which has an aspect ratio of 4:3. Other options on this drop-down list include different screen ratios, suitable for wide-screen displays, standard sized paper, and even 35-mm slides. A Custom option lets you set any width and height. • Width: Set a custom width for your slides. • Height: Set a custom height for your slides. • Number Slides From: If your slides include numbers, this option lets you set the number for the first slide. The default is 1. • Orientation: Set the orientation to portrait (tall and skinny) or landscape (short and fat). You can set the setting separately for your slides, handouts, and notes. The most common setting is for the slides to use landscape orientation and the notes and handouts to use portrait. 5.5.2 Printing a Presentation Printing a Presentation: - The simplest way to print your presentation is to print your slides on regular paper. Click on the OFFICE BUTTON then on PRINT to open the Print dialog. 53",
+    "word_count": 222
+  },
+  {
+    "chunk_id": 53,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 54,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "5.6 Showing presentation using Projector:- To configure Microsoft PowerPoint to work with a projector in presentation mode, follow these steps: 1. Open PowerPoint and select Slide Show from the menu at the top, then select the Set Up Show option. If you are on a laptop, press the Fn key and F8 key simultaneously to enable your laptop's o secondary video output. 54",
+    "word_count": 63
+  },
+  {
+    "chunk_id": 54,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 55,
+    "chapter": "2024060391.pdf - customize your slides’ theme, background, and more:",
+    "text": "2. In the Set Up Show options, select the second monitor choice under Display slide show on, i.e. anything besides Primary Monitor. 3. Now select the check box for Show Presenter View. This will enable the presenter mode on the monitor that is selected. Run the presentation, your laptop screen should display an image with your slideshow and an area for your presenter notes at the bottom; while the projector should display only the slideshow. Assignment:-  Create a Presentation, select a perfect design for your PowerPoint file based on project given by different subject teachers.  Apply different animation effects on different objects used in slides.  Give proper setting for printing the document in page setup. 55",
+    "word_count": 119
+  },
+  {
+    "chunk_id": 55,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 56,
+    "chapter": "2024060391.pdf - INTERNET",
+    "text": "Unit 6: INTERNET Min imum Level of learning  Student should be able to open educational websites and can copy a paragraph in their PowerPoint Presentation. In this Unit:- 6.1 Review of Internet 6.1.1 Introduction to Internet 6.1.2 Web Browsers 6.1.3 Websites 6.1.4 Search Engines 6.2 Exploring the different websites 6.2.1 KVS Website 6.2.2 Vidyalaya’s Website 6.2.3 Wikipedia 6.2.4 Edustrokes 6.1 Review of Internet:- 6.1.1 Introduction to Internet: - The Internet or simply the Net is a worldwide network of computer networks. It is an interconnection of large and small networks around the globe. The uses of the Internet • Send/Receive e-mail messages. • Send (upload) or receive (down load) files between computers. • Participate in discussion groups, such as mailing lists and newsgroups. • Surfing the web. • Online Chat • Video-conferencing 56",
+    "word_count": 134
+  },
+  {
+    "chunk_id": 56,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 57,
+    "chapter": "2024060391.pdf - • Examples:",
+    "text": "• E-Commerce • Social Networking How to access the Internet? • Many schools and businesses have direct access to the Internet using special high-speed communication lines and equipment. • Students and employees can access through the organization’s local area networks (LAN) or through their own personal computers. • Another way to access the Internet is through Internet Service Provider (ISP). 6.1.2 Web Browsers:- • Once you have your Internet connection, then you need special software called a web browser to access the Web. • Web browsers are used to connect you to remote computers, open and transfer files, display text and images. • Web browsers are specialized programs. • Examples of Web browser: Netscape Navigator (Navigator) and Internet Explorer, google crome. 6.1.3 Websites:- • The Web (World Wide Web) consists of information organized into Web pages containing text and graphic images. • It contains hypertext links, or highlighted keywords and images that lead to related information. • A collection of linked Web pages that has a common theme or focus is called a Web site. • The main page that all of the pages on a particular Web site are organized around and link back to is called the site’s home page. 6.1.4 Search Engines:- • A number of search tools have been developed and available to you on certain Web sites that provide search services to help you to find information. • Examples:  Yahoo  www.yahoo.com  Google  www.google.com  Ask.com  www.ask.com  AltaVista  www.altavista.com MSN WebSearch  www.search.msn.com You can find information by two basic means. • Search by Topic and Search by keywords.  Search by Topic You can navigate through topic lists 57",
+    "word_count": 281
+  },
+  {
+    "chunk_id": 57,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 58,
+    "chapter": "2024060391.pdf - • Examples:",
+    "text": " Search by keywords You can navigate by entering a keyword or phase into a search text box. www.google.com in internet explorer web browser 6.2 Exploring the different websites:- After knowing information about the internet. Now you can open any website and get the desired information from the website. Opening a website requires internet connection in your computer. Steps to open any website:- 1. Open any web browser installed on your computer example Internet Explorer, Google crome, Mozilla Firefox etc. 2. Type the website address in URL space or if you don’t know the website name then you can open any search engine and then find the address from it. There are several websites that helps you to get information from the internet. Let try some important websites 6.2.1 KVS Website:- KVS HQ NEW DELHI website is the important website of the Kendriya Vidyalaya Sangathan which provide lots of information about the KVS like Important announcements, Management information, Organization Chart, different circulars, admission, Fees, transfer, result analysis, PIS(Personal Information System),Recruitments, Finance, RTI(Right to Information),Contacts etc.. To open KVS hq new delhi website, you have to type the URL http://kvsangathan.nic.in/ directly on web browser or you can found the web address of KVS website by searching keyword ”KVS” in www.google.com Then you can open the different web links available in the website to get the desired information. 58",
+    "word_count": 227
+  },
+  {
+    "chunk_id": 58,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 59,
+    "chapter": "2024060391.pdf - • Examples:",
+    "text": "6.2.2 Vidyalaya’s Website:- Same like KVS HQ website, you can open your vidyalaya website also. Vidyalaya website consist many information about your vidyalaya like: Important announcements, Exams information, Date Sheet, Result Analysis, Staff details, TC information, Contacts, VMC details, Students Enrollments, Students/Teachers achievers, Alumni, Photo Galley, Admission, Fee information etc. Ask your teacher about the web address of your Vidyalaya and open it. Open the different web pages of the website to get the desired information. 6.2.3 Wikipedia: - Wikipedia is a free encyclopedia, written collaboratively by the people who use it. It is a special type of website designed to make collaboration easy, called a wiki. You can open the Wikipedia by the web address https://en.wikipedia.org/wiki/Main_Page In Wikipedia, you can search for anything for which you required information. 6.2.4 Edustrokes:- edustrokes is an educational website which provide interactive study material for Science and Mathematics. This is an innovative and unique program makes you learn important concepts in Mathematics and Science easily by using the medium of Sports. You can open the following web links to use the content of edustrokes website:- http://www.edustrokes.com http://kv.edustrokes.com/ 59",
+    "word_count": 185
+  },
+  {
+    "chunk_id": 59,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 60,
+    "chapter": "2024060391.pdf - • Examples:",
+    "text": "Assignment:-  Open educational websites and copy paragraphs in their PowerPoint Presentation. 60",
+    "word_count": 13
+  },
+  {
+    "chunk_id": 60,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 61,
+    "chapter": "2024060391.pdf - SAMPLE PAPER FOR FA-1(40)",
+    "text": "SAMPLE PAPER FOR FA-1(40) Q1. Multiple Choice Questions:- (1x5=5) a) Which is the short key to copy the text a. Alt+E b) Alt + F4 c)Ctrl+ C d) Ctrl+V b) Micro soft word is a ………………………………… a. System software b) Application software c) Microsoft excel d)Non of them c) The combination of table consist ? a. Table & border b. Row & cell c. Row & Column d. None of these d) To open a new MS word file which short key will you press? a. Ctrl+O b) Ctrl + N c) Alt+ O d)Alt+N e) Which features helps to inserts you to insert the contents of the clip board as text without any formatting a. Paste special b. Format Printer c. Page setup d. Style b. Save document Q2. Answer the following question (2x5=10) a) What is the use of table in MS_word for displaying information? b) Write Steps to create table using table templates with 9 row and 10 column c) Write Steps to move text in Ms- word one page to another page? d) What are the contents available in table menu? e) How many cell , Row and Column are there in the table given below? Q 3. Give the instruction to solve the following task. (3x5=15) a. What instruction will you give to make a table as given below? b. Write Steps to fill the color in table cell? c. Write Steps to apply border style in a table? d. What are the cell text alignments in a table? e. What are the paragraph alignments? Q 4 Answer the following question (2x5=10) a. What do you mean paragraph in MS_word? OR Write the steps of inserting and deleting column. b. Steps to select an entire document in MS_Word? OR What is page layout in MS_Word? 61",
+    "word_count": 301
+  },
+  {
+    "chunk_id": 61,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 62,
+    "chapter": "2024060391.pdf - SAMPLE PAPER FOR SA-1(60)",
+    "text": "SAMPLE PAPER FOR SA-1(60) Q1 Multiple Choice Questions: - (1x10=10) 1. Which page size normally used to print by the people a. A5 b) Legal c) A4 d) Letter 2. Which is not a MS_word page view . a. Print layout b) Web layout c) Draft d)Normal 3. How many margin present by default in MS_ word? a. 6 b) 3 c) 4 d) 5 4. What is the short key to copy the text b. Alt+E b) Alt + F4 c)Ctrl+ C d)Ctrl+V 5. Which one the MS_word document page orientation. b. Page Border b) Portrait c) Margin d) Print layout 6. Name the publishing movie software in windows operating system? 7. What do you mean publishing movie? 8. Write steps to copy a table in another MS-word file? 9. What are the hardware and software required to run multimedia software? 10. Microsoft excel is an/a …………………………………. software .(Application/system) Q2. Answer the following questions:- (2x6=12) a. What is multimedia software? b. What is Microsoft word? c. Write the Step to save the excel file. d. What do you mean margin setting in word file? e. What is sound recorder? Q3. Answer to the following questions:- (3x6=18) a. What step to be taken to apply border in a word. b. What do you mean indentation in a word file? c. What steps to be taken to type over the picture? d. What steps to be taken to find and replace data in a given range of sheet? e. What are the way to create a table in MS_word? f. What hardware is required for sounder recorder? What to be taken for recording? Q4. a. Answer to the following questions. (4x5=20) 62",
+    "word_count": 281
+  },
+  {
+    "chunk_id": 62,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 63,
+    "chapter": "2024060391.pdf - SAMPLE PAPER FOR SA-1(60)",
+    "text": "i. Write the steps to delete column B to E. ii. What is the cell reference of mango, apple and school? iii. Write the steps to delete column B. iv. Steps to hide column G and H. b. What are the uses of multimedia software? Give four multimedia software? c. Answer to the following questions:- I. Write the steps to add new sheet in MS_Excel file? II. Write the steps to rename a sheet in MS_Excel file? d. Answer to the following questions:- I. Write the steps to open existing file in MS- Excel? II. Write the Step to save the excel file . 63",
+    "word_count": 105
+  },
+  {
+    "chunk_id": 63,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 64,
+    "chapter": "2024060391.pdf - SAMPLE PAPER FOR FA3(40)",
+    "text": "SAMPLE PAPER FOR FA3(40) Q.1 Answer the following question:- (1x5=5) I. Write the steps to insert image in slide? II. Which two ways for inserting image in slide? III. What are the views in MS_PowerPoint windows? IV. How to add new slide in presentation. V. Name the power point icon given below? Q.2 Answer the following question (2x5=10) I. Name any two types of slides in a presentation? II. Write Steps to delete active slide in a presentation? III. What do you mean transition in powerpoint? IV. What step to insert an image as background for a slide? V. Write the steps to hide slide back ground? Q3. Write the instruction to solve the following task. (3x5=15) a. Which key is used to run a presentation? b. Steps to start presentation from current slide. c. Steps to printing presentation? d. What steps to be taken to play presentation in projector? e. Name the location pointed in below screenshot in PowerPoint window? 3 1 2 4 9 5 8 7 6 10 Q4 Answer the following question (2x5=10) a. Write Steps to apply all slide color background? OR Write Steps to add text box in a slide? b. Write Steps to insert or add WordArt in a slide? OR How to play user sound in slide? 64",
+    "word_count": 216
+  },
+  {
+    "chunk_id": 64,
+    "book": "2024060391.pdf",
+    "pdf_path": "F:\\Freelancing\\Quiz\\Computer Science\\2024060391.pdf",
+    "page": 65,
+    "chapter": "2024060391.pdf - SAMPLE PAPER FOR SA2(60)",
+    "text": "SAMPLE PAPER FOR SA2(60) Q.1 Answer the following questions:- (1x10=10) a. Name Edustrokes web site? b. Name two Transition effect in PowerPoint ? c. What is the default web browser of windows operating system. d. What is the full form of WWW? e. What are the slide orientation in PowerPoint? f. Write the steps to change the transition effect first in PowerPoint slide? g. What is Microsoft Power Point ? i. What is slide design in Microsoft PowerPoint? j. Give an example of search engine. k. Name any two web browser. Q2. Answer the following question (2x6=12) a. Write the stapes to apply one transition effect to all slides? b. Write the steps to add text box in a slide? c. What is animation in Microsoft Power Point? d. Write two main advantages of internet? e. Write the steps to apply slide design in one particular one slide? f. What is Search Engine? Q3. Answer to the following question. (3x6=18) a. Write the steps to apply word art in your text? b. What is the different viewing of slide presentation? c. What do you mean websites in internet? Give two examples of website? d. What is internet? What are its uses? e. What do you mean by web browser? f. What are the requirements on internet connection? Q4. Answer to the following question. (4x5=20) a. . What are the information available in your vidyalaya website. Suggest the way by which you can explore your vidyalaya website? b. How Edustrokes website helps you. How you can utilize its content. c. What do you mean by Animation of an object in PowerPoint? Explain in details. d. How Internet is useful to enhance your studies? Suggest some website and the way by which you can enhance your studies. 65",
+    "word_count": 296
+  }
+]
